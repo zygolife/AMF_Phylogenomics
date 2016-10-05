@@ -1,0 +1,288 @@
+>Spom|SPAC56F8.11.1 pep:known chromosome:ASM294v2:I:1145305:1146800:1 gene:SPAC56F8.11 transcript:SPAC56F8.11.1 description:"signal peptidase subunit Spc3 (predicted)"
+------------------------------------------------------------
+-------------------MIVDTFTNRGSTFFSKLSTVLF--FLCAVITFQGVIQ----
+---------------------RR-EVELDTPVYVHYAKYRSARFYHAFRNV-RQQYAQVK
+FNMDADLSELWD-WNTKHVVVYLVASY-STEK-----H----EKNQVVVWDKIL------
+-------------S--------SPEESKMFMKDTLSNIQAHPFNEY----SNQFEGK-NA
+TYTLHWTVSPKMGFLSW------G----AGPGSYE-IPFHK--------IITQPK-----
+--------------
+>Catan1|Catan1_30135 fgenesh1_pg.116_#_14
+------------------------------------------------------------
+---------------------MHSITSRASAVASYATSALI--ALAAVIAAASLFN----
+------------PLVVDPSASPDLRLGIQS-VALLPASRDAHYHWQSYYHQ-PRHYGLVH
+FNLTADLAPLFT-WNVKQVHAMLTLSY-GAPGGKDDPI----THNKMTIWDAIL------
+-------------P--------DREDARIVLANQ--PNP-YGIVDLRHGRVRRLEGV-EA
+TLRLEYCVHTMLGAIRCT-----GDKHKVGDATVVTFKFPK---LGDAGLVYREGEGLVK
+AEFENQE-------
+>Amac|AMAG_13928T0 | AMAG_13928 | Allomyces macrogynus ATCC 38327 hypothetical protein (226 aa)
+------------------------------------------------------------
+---------------------MHSLWSRVNTVFGFATSVLL--ALAAAIALTSTWELLTP
+THVPAVGPAGTMDPYGNVLAPLALSLNVSS-ATLIRGSRAAQYKYQTYFHA-PAVFVALQ
+FDATADLRALFQ-WNTKQVYAVVTVAY-QAPG-----F----PTNKITVWDTII------
+-------------T--------NVDDARLMVVNA--ENK-YAITDVQYRDAARFNGL-PI
+TARLEWCVHTYVGATRCA-----A----MPDELAAKFTLPANVGERVSYRGDRGGAGANG
+A-------------
+>Mbre|Monbr1_37484 estExt_fgenesh1_pg.C_130219
+------------------------------------------------------------
+-------------------MTMHNFVTRANALFAYAFSCLA--IATLGCFLTASLE----
+-----------------SAVPSV------D-IRVNNPVVGDLRQF-HHIQK-SYDRASFT
+FDIDADLSPLFN-WNTKQLFLYMTAEY-KTRK-----N----RLNQVVVWDQIV------
+------------LR--------NSGADRFNLSNV--QLK-YPFFDD----GHGLLKNKDV
+TLALHWNVIPVAGLLP------------RVADGHVKVEFGD--------YYQPWQ-----
+--------------
+>Rambr1|Rambr1_162087 fgenesh1_kg.108_#_1_#_Locus1380v1rpkm124.22
+------------------------------------------------------------
+------------------MSVVMFLLAAISAWSALTRPIVGESTIASLDSSSSNLT----
+-----------------WSNGYA-QLTANS-VNTIFGNVYRNDML-DTRSG-YAEFTRIN
+FSIDADLSHLFD-WNTKQLFLYLSVEY-ETPK-----H----GRNQVVIWDKIV------
+-------------K--------SKEEARELRITE--SNK-YPFRHV----DGHFKDTNNA
+KLVLRWDVAPYVGLMLP------E----TVPFVGEMVKGKSYARAVEAKLRGVESIVLKR
+KVSTTQA-------
+>Coere1|Coere1_89307 fgenesh1_pg.42_#_42
+------------------------------------------------------------
+---------------------MYNFLQRLSALTSFAMSTLM--VLAILISVTTPLI----
+-----------------PSSPTH-AVTLRS-VQTTTGRPVDPF---DKTSR-SAEYARLT
+FDVDADLSSMFN-WNTKLLFAYITADY-RAPG-----F----ETNRVVVWDRII------
+-------------R--------NPRQAKLRLRKH--HNK-YSLRNY----ALTFEGVEAA
+NLTLHINPVPYLGLMY------------DKSATSIPLSLPR-----AAGPAGQVGR----
+--------------
+>Linpe1|Linpe1_289595 gm1.290_g
+------------------------------------------------------------
+---------------------MYNIFQRLSSITSFAMSTLM--VLAVLISLTTPFI----
+-----------------PSSPTH-SVTLHS-VQNAKGRVVDQF---DRTAR-KSEFARLT
+FDLDADLSSMFN-WNTKLLFAYITADF-ESAD-----Y----STNRVVVWDRII------
+-------------R--------NTRQAKLRLRKH--HNK-YTLRNM----KQTFEGVEGA
+NLTLHINPVPYLGIMY------------DKEVVSIPFSIPRPVVKDSAKEKAKTKRGKKV
+--------------
+>Marpt1|Marpt1_296018 fgenesh1_kg.16_#_40_#_Locus2404v1rpkm54.48
+------------------------------------------------------------
+---------------------MYNIFQRLSGITSFAMSTLM--AIVVLISITTPLI----
+-----------------PSTPTL-DVSLHN-VQTTKGRMVEQY---DRTSR-KSEYARLT
+FDVDADLSSMFN-WNTKLLFTYITADF-KSED-----F----GTNRVVIWDRII------
+-------------R--------NKRQAKLRLRKH--HNK-YPLRNF----AQTFEGIEGA
+NLTLHINPVPYLGIMY------------DKQMLSIPFTIPR--------PVKRTA-----
+--------------
+>Conco1|Conco1_79889 fgenesh1_kg.176_#_6_#_Locus2106v1rpkm46.66
+------------------------------------------------------------
+---------------------MHNFNIRASLVFGYLNTAVG--VLLALLAASSYLY----
+-----------------SNEGDA-TIRMND-IRVSTGRHGGHYGD-SYSG--YADFVLGN
+FNLQADLTHLFH-WNTKQLFVYLVAEY-ENEK-----Y----DKNYIVLWDDII------
+-------------K--------KKERAKLKFKNR--RFE-YPFTDI----TANIKNN-TA
+TISLRWDTIPYVGPFRQ------G----QAPRKLAEEKVRT--------KKKADDN----
+--------------
+>Pfor|Pfor_17469 GCRV01013606.1 gb|GCRV01013606.1||g.17469 type:complete len:202 gc:universal gb|GCRV01013606.1|:90-695(+)
+------------------------------------------------------------
+---------------------MYSLSSRVSAYSSFISTVTG--FLLAAIALSCYYF----
+-----------------SAEAPG-KVNFKD-IKISFGRHGSHFRDHNYIAG---DYVLTK
+MDINTDLTGLFH-WNTKQIFVYVVAEY-SNAN-----Y----SSNKVVVWDRIV------
+-------------R--------STKKANIQLKNE--KLK-YPLTDI----TPHLVNN-QV
+TLRVHWDVIPWIGIFRA------G----QSEEVSGPIELLP--------PNKPKKRKLVE
+EKTDKVKSSYENLH
+>Conth1|Conth1_792 CE791_3932
+------------------------------------------------------------
+---------------------MHSITTRISTFSSFLSSVAT--VLLAFIALSSFVF----
+-----------------KYEAPA-TIDLKD-IKVYGGHYSD-----SYLKD-PADFVSAK
+MDINADFSSLFN-WNTKQIFVYVVVDY-GNKN-----F----TENKVVVWDRII------
+-------------R--------NKKKSEVKVRGQ--KFK-YALTDI----GPFMTDN-SI
+TATIHWEVVPWIGMFLP------G----KSTTSFGPYYIQP--------PQKPKKRKLAQ
+EKEGKKVKNSYNEY
+>Ylip|YALI0E24321g (protein translation)
+------------------------------------------------------------
+---------------------MHTSIQRIQQTFSQASTVLS--IIAAIVFVVSYIQ----
+-----------LVVANVWSLPEA-NFNLRG--SKAARRFSRQYGA-NDPKK-GKENVALK
+FDLDADLSPLFN-WNTKLVFAYLTATYDGKRD-----D----IVNEITIWDQII------
+-------------T--------DKDDSHIKLKGA--NSK-YSLYDV----EESFRNR-NA
+TVKLHWNIQPHVGAKIY------G----SLDATKGSIKFPQ--------LV---------
+--------------
+>Ncra|NCU06677 (protein translation)
+------------------------------------------------------------
+---------------------MYTSVVRLQNVFGFFTTVAF--VVAAFIAASDFLT----
+-----------------ERAPIVRTLKTTS-VQVVRGRP--HY----YSSK-KEEYAVIN
+FSLDADLSSLFT-WNTKQVFVYVTAEW-PAAD-----HAKTNATNEAVIWDTIITSPSAD
+HLANIGPVAMKKLRKSAGGKSIDPNRGKLSLKNQ--RHK-YKITHP----SGKLAMTDNV
+TLRLHYNVQPWVGLLTWDQDVDYGYWKALKNGVSKRFKLPA--------IKEKKPASAGA
+R-------------
+>Artol1|Artol1_1757 AOL_s00007g505m.01
+------------------------------------------------------------
+---------------------MHSSLVRLQQVFGFLTTVSF--ILASIIALTSYTY----
+-----------------PMNPTA-SIKIND-VAVVKRRSGG-Y----YSTR-QNEYANVK
+FDLNADFESLYN-WNTKQIFVWISATY-GGDR-----Y----PTNEAVIWDKII------
+------------PA--------AAPSKKLTLKNI--KAK-YNIHDI----TGEYAHR-NA
+TLKLSWNVQPHVGVLMWG-----G----VGESITKSFVFPS--------EKARNAV----
+--------------
+>Cneo|CNN01690 (protein translation)
+------------------------------------------------------------
+---------------------MYSTLQRANHISSLATTYIL--ILLGLISVASFLS----
+----------------LPSVDLG-SIDVKD-IIVTRGRLN------RWGAK-QEDIASLR
+FDVRTNLNELLNSYNTKQLFLYLTAIYEEEST-----G----NAHEVVLWDRIVTRADTR
+DIRAVGRELPKSNR--------KKGRGNVRVEDG--KNK-YIWRNP----SGTFKDIPYA
+NLTLHYSLMPYVGYLTS------G----IAATAEGPVSIPE--------VIKR-------
+--------------
+>Ccin|CC1G_06416 (protein translation)
+------------------------------------------------------------
+---------------------MHSIWARINNTSALLSSCMM--ALLAAIAVSSLLF----
+-----------------TAQPTGGNVNIAS-IQVYPGQTR------RYATK-RQDLAFVD
+FNITADLTPLFN-WNTKQIFLYLQAEY-NTRK-----G----VKNEVVIWDRIV------
+-------------R--------SKDQAKVNVVG---KNK-YNFREL----STTFKNIAAA
+NYTLMYNVMPYVGVLTY------G----EAARTTEPVEFPP--------RKTRV------
+--------------
+>Umay|um15029 related to SPC3 - signal peptidase subunit
+------------------------------------------------------------
+---------------------MHSTLSRLNAVSALATTIIL--VLVVLIDVTRSNS----
+------------------HKPTG-QVVINQ-LELVRGKAA--W----HMDRSIQDFVQVD
+FNIDADFAPLFD-WNTKQVFVSLSASY-DSAK-----H----VS-EVVIWDRIL------
+-------------R--------SKQDAHVALNTA--KNK-YGFREV----SRSFKDITNT
+TFTLKYNIMPKVGLLHY-----------ADEFTSQSIPIPPKQLLPNGQQPKIQRLYY--
+--------------
+>Pgra|PGTG_13712 (protein translation)
+MVWREQTCWCVTGEVVVWEQVVYKFEFSVAVTCSSWISLLSSSSPVPRITRQPPTNQPTP
+KPTTTHNIHQPNTCCSFAKGPMHTIAQRINAVSAVATTTII--FLVAGIALIGLFE----
+----------------KPVFEPA-RVEISD-VEVLWGHDRRDH----FDRR-DREWTNFR
+FAVEADLRPIFR-YNTKQIFVYLVADY-STPE-----F----PSNEVVLWDRII------
+-------------R--------NPRDAKINLSGA--RNK-YAFKHI----GGSFKDV-NA
+TYTLHYNLMPKVGALTW------G----IAGQTKSSVPFPP--------VNYRKPLNR--
+--------------
+>Batde5|Batde5_89989 GP3.055480
+------------------------------------------------------------
+---------------------MHDLQSRISAIASFFLTVLA--TQFSLVALLQLVL----
+-------------VFSKSAIVVN-SFEPAR-VKLVSGRVGGGDYY-MYGSP-YTNLGVIS
+FDLDADLSSYFQ-WNTKLLFVSAIVEF-TNSQ-----Y----HVNQAVIWDDLI------
+-------------S--------DKEDAVIVLKNQ--RHE-YQVHDL----TNSLANS-KA
+NLTLQLQVVPWVGVMRT------Y----RHVVADG-ITFPD--------APAKKG-----
+--------------
+>Hpol|HPOL_003046-RA protein Name:"Similar to Spase22-23 Signal peptidase complex subunit 3 (Drosophila melanogaster)" AED:1.00 eAED:1.00 QI:0|0|0|0|1|1|3|0|136
+------------------------------------------------------------
+--------------------MLHSV-----------------------------------
+-----------------PGRPSG---------------------F-RYNSP-KADLGLVS
+FDLDADLSSYFN-WNTKLLFVSAIVEF-SNDQ-----Y----PFNQAVIWDDII------
+-------------R--------EREDAVIQLRNK--NYE-YMVHDL----ANSLSGS-KA
+NFTLQFQIVPWVGFMKT------H----REVIPDG-IKFPL--------YAKKSKK----
+--------------
+>Ganpr1|Ganpr1_124979 estExt_Genewise1.C_470050
+------------------------------------------------------------
+---------------------MYSISQRANAVLAFLVTVTL--GFLVAVALTSPIL----
+----------LHGKGLRPAPGQN-VLKIVD-AESHKARLAFYDRT-QNQSG-DSELAIIR
+FDISADLRDLWN-WNTKQLFVYVVAEY-ETDS-----H----STNQVVIWDSII------
+-------------R--------NKDDALIRLRNV--KGE-YFLVDI----NPTLSTV-SA
+KFTLHWNIIPYVGALFW------N----SGGQTPI-LALPA--------PR---------
+--------------
+>Spun|SPPG_09002T0 | SPPG_09002 | Spizellomyces punctatus DAOM BR117 hypothetical protein (182 aa)
+------------------------------------------------------------
+---------------------MHTLSQRANTLFAFFVTVLF--SVLGAVAISGPLL----
+-------------LWRVPKDANAVDLSVEA-VSVKMGRLGYYY---DYSSP-ATELGLIQ
+FNLDADLTTLWN-WNTKQLFLYVVAEY-ETPS-----H----NVNQIVIWDDII------
+-------------T--------SKEDAIVTLRNK--KAE-YVASDM----SHKLAGI-RT
+NLSLHWNIVPHVGLLMT------Q----RAGSAP--LTFPR--------ASQ--------
+--------------
+>Morel1|Morel1_108133 estExt_Genewise1Plus.C_150104
+------------------------------------------------------------
+---------------------MNSLQNRANAVMAFSISAIF--CLLGAIAFSALII----
+-----------------PSNPSG-AVALDS-LKVVTGRYDRNW-V-DYKTR-NNEFANTV
+MRIDADLSSLFH-WNTKQLFVYAVAEY-STPT-----H----PKNQIVLWDTII------
+-------------K--------RKSAAVISKRGL--NNK-YSLIDV----NKKWTDI-NA
+NVTLHWNIVPYVGFMTY------G----HSQPSEG-YAFPL--------PSGIQT-----
+--------------
+>Lobtra1|Lobtra1_349891 fgenesh1_kg.10_#_436_#_Locus2411v1rpkm62.52
+------------------------------------------------------------
+---------------------MNNLQNRANAVLAFSISAIF--CLLGAIALSSLVI----
+-----------------PSQPSG-SVGLDS-IKVLTGRYDKNW-V-DYRTR-DNEFANTV
+MHIDADLSSLFH-WNTKQLFVYVVAEY-STPT-----H----LKNEIVLWDTII------
+-------------K--------RKSAAVIRKKGI--KNK-YSLIDV----NKKWTNV-NA
+NVSLHWNIVPYVGFMTY------G----RSQASEP-YAFPL--------PSGIQT-----
+--------------
+>Pocc|Pocc_6757 TRINITY_DN75905_c0_g1_i1 TRINITY_DN75905_c0_g1_i1|g.6757 type:5prime_partial len:198 gc:universal TRINITY_DN75905_c0_g1_i1:1-594(+)
+-----------------------------------------------------------V
+STQSTGVALNTLFITRNSENKMYSLAQRANSIFAFAMTVIF--GLLGAIAFVSPYL----
+-----------------PSSPTA-SINIQN-MQV--------WIY-DYGGS-WNEFAFVN
+MDIDADLTSLFN-WNTKQLFVTVVAEY-ESKT-----H----DVNQIVLWDSVI------
+-------------R--------SKEDANITLKQF--QNK-YNFHDI----SPSFSGL-NA
+TYSLHWDIMPHVGGLKN------G----QVKAVTE-IKFPA--------PENKPSK----
+--------------
+>Gloin1|Gloin1_28695 gm1.28695_g
+------------------------------------------------------------
+---------------------MYNLAQRANAIFAFAMTVHF--GLLLAIAISSLYI----
+-----------------ASNPIG-KVDVKE-LNI--------WLY-NYDNK-ETEFAFIE
+MNIDADLTSLFN-WNTKQLFVAVVAEY-ETKS-----H----ELNQVVLWDSII------
+-------------Q--------SKEDAHIKEDKV--RNE-NEFVDI----TPKFGEV-KA
+NYSIYWDLMPYVGYLMS------G----KIEPNQS-FSFPA--------PNYYN------
+--------------
+>Fmos|Fmos_16846 TRINITY_DN25786_c0_g3_i1 TRINITY_DN25786_c0_g3_i1|g.16846 type:internal len:165 gc:universal TRINITY_DN25786_c0_g3_i1:2-493(+)
+------------------------------------------------------------
+VSTQSTWGLLSTLSNKFFYKKMYNIVQRASAIFAFAMTVMF--GLLLSIAISSLYI----
+-----------------TSNPIG-KVDINE-LNI--------WLY-NYANK-ETEFAFIE
+MNIDADLTSLFN-WNTKQLFVAVVAEY-ETKL-----H----ELNQVVLWDSII------
+-------------R--------SKEDAHIKGNKV--RNEKYEFVDI----TPSFGEV-NA
+KYSI--------------------------------------------------------
+--------------
+>Gros|Gros_4590 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_4470 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_4470|g.4590 type:complete len:206 gc:universal 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_4470:2114-2731(+)
+---------------------------------------------------MSNQSCYST
+SIVALIEYKGSSRVFNDSSQKMYNLLQRANSIFAFAMTVTF--GVLAAIAIATPFL----
+-----------------PSSPSA-QITVKD-IQVIS--------Y-EYMTQGESEFAFVK
+LNLDADLTSLFN-WNTKQLFVSVLAEY-ETNS-----H----DINQVILWDSII------
+-------------Q--------SKEEALIKVSEL--HNE-YNFVDI----TTSFRQV-NA
+SYSLYWDVMPYVGVLTS------G----QTKSNHV-IKFPP--------RSNEYR-----
+--------------
+>Scal|Scal_25779 TRINITY_DN13364_c0_g1_i1 TRINITY_DN13364_c0_g1_i1|g.25779 type:5prime_partial len:185 gc:universal TRINITY_DN13364_c0_g1_i1:3-557(+)
+------------------------------------------------------------
+----------YQRRVRGIQIEMYNLLQRANAIFAFAMTVTF--GVLGAIAIVTPFL----
+-----------------PSFPSA-QVNVKD-IQVIS--------Y-DYMSQGESEFAFVK
+INLDADLTSLFN-WNTKQLFVSIVAEY-ETKS-----H----DLNQVVLWDSII------
+-------------Q--------SKDEAHIKVSDL--HNE-YNFVDI----TTSFHQV-NA
+SYSLHWDVMPFVGMLIN------G----RTRPNNV-VKFPT--------RSNR-------
+--------------
+>Rcas|Rcas_55340 TRINITY_DN39088_c0_g1_i1 TRINITY_DN39088_c0_g1_i1|g.55340 type:5prime_partial len:186 gc:universal TRINITY_DN39088_c0_g1_i1:1-558(+)
+------------------------------------------------------------
+-----------GINAEYGESEMYNLLQRANAIFAFSMTVTF--GVLGAIALVTPFL----
+-----------------PSSPSA-QINIKD-IQVIS--------Y-DYMSKGESEFAFVK
+LNLDADLTSLFN-WNTKQLFVSVIAEY-ETKS-----H----NINQVVLWDSII------
+-------------Q--------SKDEARIKVSDL--HNE-YNFVDI----TTSFRQV-NA
+SYSLYWDVMPYVGMLMN------G----QTRSNQV-IKFPP--------RSNEYR-----
+--------------
+>Umbra1|Umbra1_232391 fgenesh1_kg.15_#_126_#_combest_scaffold_15_23173
+------------------------------------------------------------
+---------------------MHNLQQRLSATFSFAVSALF--TVLGVVAAISWVT----
+-------------GYGTAA---T-KVNVRD-IRVIQSRYGPDY-F-DYGRK-TSEFGMLK
+FDIDADLTPLFN-WNTKQVFVTVVAEY-ETKT-----H----NKNQVVVWDKII------
+-------------R--------DKDSAKINLRKV--SNK-YALIDF----SQKWRNQ-VA
+NLSVHWDVTPHVGILQN------G----RGDTSSVKFTFPK--------FESSGGR----
+--------------
+>Blatri1|Blatri1_381804 fgenesh1_kg.2_#_1027_#_TRINITY_DN6657_c1_g1_i5
+------------------------------------------------------------
+---------------------MHNLQQRANTLFSFATSVAA--TVLGVVALISFIT----
+-------------GYGSVQPHLL-QADKNS-INVVTRRYGPEN-T-DYRNS-KSEFARLT
+FDIDADFTPMFN-WNTKQVFVTVVAEY-ENDY-----F----GRNHVVIWDKII------
+-------------T--------SKDKAHLKLRNV--RNK-YALIDV----SQRWNNE-KA
+NLTLLWDVTPYVGLLQN------G----RQPNTPSQFTIPS--------FQAKK------
+--------------
+>Mucci2|Mucci2_156638 fgenesh1_kg.06_#_31_#_1418_1_CCIA_CCIB_EXTA
+------------------------------------------------------------
+---------------------MYNLQQRANNVFSFAITVIG--TVLAVVAVISAIT----
+-------------GYGTIN-DTL-QVDAKN-IQIITRRYGPED-T-DYRDR-NSEFARLT
+FDIDADFTPLFN-WNTKQVFVTVVAQY-ENEK-----F----ERNQVVLWDKII------
+-------------T--------SQDKKHLKLRNV--RNK-YAMIDV----GQRWNFE-NA
+SLTLLWDVTPYVGVLQA------G----QSSKKTSPFVLPS--------FASQQKQQK--
+--------------
+>Hesve2finisherSC|Hesve2finisherSC_1307294 estExt_Genewise1.C_200011
+------------------------------------------------------------
+---------------------MFNLQNRGNVLFSFLLTCLS--GVFGLISLMTFIS----
+-------------GYGAPINPKV-KVNPDT-IRIATRRYGPDS-Y-DYRNS-KNEFARLN
+FNINADLSPMFN-WNTKQIFLTVVAEY-ETKS-----H----DANKIVLWDRII------
+-------------T--------SKRDAHIKLRNV--PNK-YAFIDV----SRKWSEQ-PV
+NITLHWDVTPYVGVLQG------G----SAGKPLDMIILPS--------SASMK------
+--------------
+>Lichy1|Lichy1_205570 estExt_Genemark1.C_350007
+------------------------------------------------------------
+---------------------MHNLQQRANVAFSYACTVLG--SILAVIAAISYIT----
+---------------GYPSVPSDIRVDTNA-LRVVSRRYGPEY-Y-DYGTP-KSHFAKVN
+FDLDVDFTPVFN-WNTKQVFVTVVAEY-ESKT-----H----DRNSIVLWDHII------
+-------------E--------NKQDANLTLRNV--QNK-YAFIDV----SRKWSHQ-PI
+DLSLRWDITPHVGVLQS------G----RSASNPVNIVLAP--------SEQT-------
+--------------
+>Absrep1|Absrep1_357674 estExt_Genewise1.C_230282
+------------------------------------------------------------
+---------------------MFNLQQRLNVVSSFAMTSLG--CVLAIIALISAFT----
+-------------SYSDPTSSL--KVDNDT-FRVVTRRYGPDH-Y-DYRNS-KSEFARLA
+FDLDADFTPLFN-WNTKQVFVTVVAEY-ESKT-----H----NRNKIVLWDRII------
+-------------T--------NKEKANLRLRNV--PNK-YALIDV----SRKWSQQ-EA
+KLSLHWDITPHVGILQS------G----HTKESLANIVLSP--------APQK-------
+--------------
