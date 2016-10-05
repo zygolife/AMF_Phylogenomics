@@ -1,0 +1,99 @@
+# STOCKHOLM 1.0
+
+#=GS Gros|Gros_1353                            DE 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_1239 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_1239|g.1353 type:complete len:170 gc:universal 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_1239:991-482(-)
+#=GS Mucci2|Mucci2_156906                      DE fgenesh1_kg.07_#_59_#_452_1_CCIA_CCIB_EXTA
+#=GS Lobtra1|Lobtra1_332193                    DE estExt_Genewise1Plus.C_40456
+#=GS Rcas|Rcas_656                             DE TRINITY_DN55204_c0_g1_i1 TRINITY_DN55204_c0_g1_i1|g.656 type:complete len:171 gc:universal TRINITY_DN55204_c0_g1_i1:681-169(-)
+#=GS Linpe1|Linpe1_70697                       DE CE70696_45549
+#=GS Lichy1|Lichy1_151495                      DE estExt_Genewise1.C_1560021
+#=GS Blatri1|Blatri1_423324                    DE fgenesh1_pg.25_#_62
+#=GS Scal|Scal_25440                           DE TRINITY_DN313_c0_g2_i1 TRINITY_DN313_c0_g2_i1|g.25440 type:complete len:175 gc:universal TRINITY_DN313_c0_g2_i1:129-653(+)
+#=GS Batde5|Batde5_19187                       DE estExt_Genewise1Plus.C_40113
+#=GS Umay|um12131                              DE probable human translationally-controlled tumor protein  (TCTP)
+#=GS Gloin1|Gloin1_35920                       DE gm1.35920_g
+#=GS Hpol|HPOL_000030-RA                       DE protein Name:"Similar to p23fy Translationally-controlled tumor protein homolog (Schizosaccharomyces pombe (strain 972 / ATCC 24843))" AED:0.10 eAED:0.10 QI:0|0|0|0.6|1|1|5|0|168
+#=GS Cneo|CNM01460                             DE (protein translation)
+#=GS Pfor|Pfor_22914                           DE GCRV01018880.1 gb|GCRV01018880.1||g.22914 type:complete len:173 gc:universal gb|GCRV01018880.1|:970-452(-)
+#=GS Ccin|CC1G_00328                           DE (protein translation)
+#=GS Ccla|Ccla_7608                            DE TRINITY_DN24550_c0_g1_i1 TRINITY_DN24550_c0_g1_i1|g.7608 type:3prime_partial len:129 gc:universal TRINITY_DN24550_c0_g1_i1:112-495(+)
+#=GS Coere1|Coere1_79278                       DE fgenesh1_kg.2_#_216_#_isotig06089
+#=GS Fmos|Fmos_9350                            DE TRINITY_DN21349_c1_g1_i1 TRINITY_DN21349_c1_g1_i1|g.9350 type:5prime_partial len:194 gc:universal TRINITY_DN21349_c1_g1_i1:2-583(+)
+#=GS Ylip|YALI0E27071g                         DE (protein translation)
+#=GS Morel1|Morel1_140487                      DE fgenesh1_kg.58_#_25_#_Locus118v1rpkm1519.91
+#=GS Absrep1|Absrep1_376085                    DE estExt_Genewise1Plus.C_13_t10109
+#=GS Ncra|NCU06464                             DE (protein translation)
+#=GS Ganpr1|Ganpr1_114307                      DE estExt_Genewise1Plus.C_610011
+#=GS Spom|SPAC1F12.02c.1                       DE pep:known chromosome:ASM294v2:I:3809345:3810099:-1 gene:SPAC1F12.02c transcript:SPAC1F12.02c.1 description:"translationally controlled tumor protein homolog (predicted)"
+#=GS Amor|Amor_1777                            DE TRINITY_DN68536_c0_g1_i1 TRINITY_DN68536_c0_g1_i1|g.1777 type:5prime_partial len:187 gc:universal TRINITY_DN68536_c0_g1_i1:3-563(+)
+#=GS Pgra|PGTG_17637                           DE (protein translation)
+#=GS Marpt1|Marpt1_294892                      DE fgenesh1_kg.3_#_22_#_Locus464v1rpkm340.39
+#=GS Umbra1|Umbra1_236794                      DE fgenesh1_kg.20_#_690_#_combest_scaffold_20_43592
+#=GS Artol1|Artol1_7820                        DE AOL_s00097g636m.01
+#=GS Rambr1|Rambr1_162178                      DE fgenesh1_kg.115_#_8_#_Locus474v1rpkm449.91
+#=GS Hesve2finisherSC|Hesve2finisherSC_1303277 DE estExt_Genewise1.C_9_t10335
+
+Gros|Gros_1353                                    MIIYRCIVSD..DEFVSDAYPMKIVDDVAYEIDCQLTTVKAGVDVDI.GANPSAEE..QEE.ALEE.TSQQVINVVHSFRLQEI.QF.DKKAYQGHLKTYLKKLAAHV..........ETT...NPDQdIAEWQTKISNFSK.KILKNIKDYQFFTGESYNMDGMIALLNYRE.DG.ITPYLTMFKDGLKEQKV
+#=GR Gros|Gros_1353                            PP 9*********..***********************************.********..***.****.*****************.**.********************..........*99...77666*************.******************************.**.***************98
+Mucci2|Mucci2_156906                              MLLYKDILTG..DELFSDAYPIKEIDDVAYEVDCKMITISEG-DIDI.GANPSAEG.gDDE.GADA.TVETVNNVVYSFRLTPS.SF.DKKTYMGYIKGYMKALKAKL..........NET...NPER.VAIFEKNATTLVK.KILGNFKDYEFYVGESMDPDGMVALLNYRE.DG.VTPFFTFFKDGLKEEKL
+#=GR Mucci2|Mucci2_156906                      PP 99********..**************************9999.****.********.8888.99**.*****************.**.********************..........***...****.*************.******************************.**.***************95
+Lobtra1|Lobtra1_332193                            MIIYKDLISD..DELFSDAFPIKEV-GSVYEIDCAMIKIKKGADVDI.GANASAEGggEDE.PLED.GEEQVNNVVYSGRLQQT.SF.DKKAYTTYLKGYLKAVKAKR..........S-F...TEEE.GKKFEAAVTADVK.KILGNFKDYEFYIGESMNPDGAVLLLNYRE.DG.ITPYFTVFKEGLTETKV
+#=GR Lobtra1|Lobtra1_332193                    PP 9*********..************8.679******************.*******987778.9***.*****************.**.*****************997..........6.4...6778.89***********.******************************.**.***************97
+Rcas|Rcas_656                                     MLIYKDILTG..DELISDSYDLKEVDGIVYEADCAMIE-EGGVNVDI.GANASAEE..AAE.DLED.QVVKVNNIVSSFRLQET.SF.DKKSYLTYLKGYMKAVKAAL..........QEKg.aGPEE.IATFEKGAQNYVKnVILAKFKDFEFLTGESMNPDGMVVLLNYRD.DG.VTPYITVWKHGLTEMKV
+#=GR Rcas|Rcas_656                             PP 99********..**************************.99******.********..***.****.*****************.**.********************..........***9.99***.*************6678***************************.**.****************8
+Linpe1|Linpe1_70697                               MLLYNDIISG..DELFSDAYPITEVPG-AFEVDCAMVQ-TGGDVIDI.GANPSAED..GEE.ALED.GVETVNNVVHSFRLVET.QF.DKKSYMVYIKGYMKAVAAKL..........EET...NPER.VEGFKKDAATLVK.KILSNIKDYEFYTGESMDPDGMVALLNYRA.DG.VTPYFTFFADGVKAQKL
+#=GR Linpe1|Linpe1_70697                       PP 99********..*************98.69********.99999***.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.**************995
+Lichy1|Lichy1_151495                              MLLYTDILTG..DELFSDAYPVKEVDNIAYEVDCAMITISGDVDVDI.GANPSAEG..GDEgGAEE.GSKTVNNVVHSFRLSET.AF.DKKSYMTYIKGYMKALKAKL..........QES...NPER.VEAFEKEAPAFVK.KILSNFKDYEFYVGESMDPDGMVCLLNYRE.DG.ITPYFTFFKDGLKEQKL
+#=GR Lichy1|Lichy1_151495                      PP 99********..***********************************.********..777589**.*****************.**.********************..........***...****.*************.******************************.**.***************95
+Blatri1|Blatri1_423324                            MLLYEDILTG..DELFSDAFPLKLVDDVAYEVDCKMITIAEG-EIDI.GANPSAEG.gDDE.GVDS.TAETVNNVVHSHRLVQT.SF.DKKSYMVYIKGYMKAVKAKL..........---...PAER.VPTFEKNVAALVK.KILGNFKDYEFYTGESMDPDGMVALLNYRE.DG.VTPFFTFFKDGVKEVKL
+#=GR Blatri1|Blatri1_423324                    PP 99********..**************************9999.****.********.8889.****.*****************.**.********************................589*.*************.******************************.**.**************995
+Scal|Scal_25440                                   MIIYKDAISDkhDEFVSDAYPVKIIGDVILEVDCQLIVIKEGVDVDI.GANPSAEE..QEE.ALEDpTSQQVINVVHAFRLQET.SF.DKKSYTTYLKGYLKKLKEHV..........KKTsnkDENE.MKEWEDKINKFSK.KVLSNIKDYQFYVGENFDMEGIIGLLNYRE.DG.MTPYLSFFKDGLMEEKV
+#=GR Scal|Scal_25440                           PP 9*******95559**********************************.********..***.****999***************.**.********************..........9876557778.*************.******************************.**.***************98
+Batde5|Batde5_19187                               MLLYRDVISG..DEMVSDAFDMKEVDDIAYEIDAKMLTIKEGADIDI.GANASAEE..ATE.ELED.GAIQVNNVVYSFNLQST.SF.DKKSYMTYIKGYMKAVKKYL..........EAN...NPER.AAIFEKKVPAFVK.KILENFKDYEFYVGESMNPEGCVALLNYRE.DG.VTPYFTLFKDGLKTEKL
+#=GR Batde5|Batde5_19187                       PP 99********..***********************************.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.**************995
+Umay|um12131                                      MKLFTDIISN..DEMCSDGYEMKLVEDVVYEVDAAKIVVSDG-DVDI.GANPSAEE..AAE.ALEN.GAEQVINIVHSFRLQST.QF.DKKSYLAYLKGYMKSVKAKL..........AES...NPDR.VPAFEKGAAAFAK.KIVGSFNDWEFFTGESMDPEGMVALLNYRE.DG.VTPYLVFWKDGLRETKI
+#=GR Umay|um12131                              PP 899*******..**************************8888.****.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.**************997
+Gloin1|Gloin1_35920                               ----------..EEFCSDAYPMKLVDDVVYEIDCQLVTVKKGVDIDI.GANPSAEE..AEE.TLEE.GSEQVNNVVNAFNLQEI.SF.DKKAYQTYLKKYVKKLAEKV..........KEK...NPDVdLKAWQDKVTNFSK.KVLGNFNDYQFYTGKNFEQEGMIALLNYRE.DG.ITPYFTLFKDGLIEEKV
+#=GR Gloin1|Gloin1_35920                       PP ............5899*******************************.********..***.****.*****************.**.********************..........***...88755*************.******************************.**.***************98
+Hpol|HPOL_000030-RA                               MLLFRDVISG..DEMFSDAFDIKEIDGMLYEVDSKVITIKPGADIDI.GANASTEE..AEE.ELED.GAIQVNNVVYSFRLQTT.SF.DKKSYMTYIKGYMKAVKKHL..........LET...NPER.AETFEKNITPHVK.KVLDNFKDYEFYVGESMNPDGAVALLNYRE.DG.ITPYFTLFKDGLKTEKL
+#=GR Hpol|HPOL_000030-RA                       PP 99********..***********************************.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.**************995
+Cneo|CNM01460                                     MLIYQDVLTG..DEMISDAFPIKEIGDIAYEVDCANIIIKEG-DVDI.GGNPSAEE..AAE.ALEE.GAQQVNNVVHSFRLQST.SF.DKKSYLTYLKGYMKAIKSKL..........QES...NPDR.VAAFEKGAQDFAK.KIVANFKDYEFYIGESMNPDGMVCLLNYRE.DG.VTPYFTMWKDGLKEIKI
+#=GR Cneo|CNM01460                             PP 99********..**************************9999.****.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.**************997
+Pfor|Pfor_22914                                   MRIYKDLFTG..DEMFSDTYKMKLVDDVLYEVYGKLISRKSG-EVNIaGFNPSAEE..ADE.GTDE.MVESGVDIVLNHRLQETfAFgDKKSYTLYLKDYMKKLVARL..........EEE...SPDQ.VEVFKTNMNKVMK.DILGRFKELQFFTGVSMDIDGIVGLMEYREiDGeSVPVLMFFKHGLEEEK-
+#=GR Pfor|Pfor_22914                           PP 89********..**************************7777.9**999*******..***.****.***************986789********************..........***...****.*************.*****************************9766257************99.
+Ccin|CC1G_00328                                   MLLYKDIITD..DELFSDAFPMKLVDDIAYEVECATIVVKDGVDVDI.GANPSAEE..QQE.ALED.GAKTVNNVVHSFRLQQT.SF.DKKSYLVHLKSYLKAVKDKL..........PEN...QKD-.--EFEKGAQPFAK.KILSNLKDYEFYTSESMNPDGMVALLNYRE.DG.VTPYFTFWKHGCNEVKL
+#=GR Ccin|CC1G_00328                           PP 99********..***********************************.********..***.****.*****************.**.********************..........988...776....6**********.******************************.**.**************995
+Ccla|Ccla_7608                                    MIIYKDIVSD..DEFFSDAYPFKIIDEIAYEVDCQMVTVKEG-DVDI.GANPSAEE..SEEaPLED.GPMKVNNIIHSFRLQET.SF.DKKAYTTYLKGYMKKLAAHV..........QKQ...NPDIdIKEWQKKKKKKKK.KKKK--------------------------.--.-----------------
+#=GR Ccla|Ccla_7608                            PP 9*********..**************************9999.****.********..888469**.*****************.**.********************..........***...88755*****99999888.7655...............................................
+Coere1|Coere1_79278                               MQIFIDKVSG..DELFSDAFKPKLV-GAAYEVDCKMIT-IGVDEINT.GANASAED..AAE.QLDD.SAKQVNDVIHSGRLRQT.NF.SKKTYGTYIKGYLKTLIKIVdeelqkeditEEE...KAKR.MKAFKDGAQALVK.QVLANFKDYEFYTGESCDPEGMVALLNYRE.DG.VTPYFTFLKDGLKETKV
+#=GR Coere1|Coere1_79278                       PP 89********..***********97.799*********.7888****.********..***.****.*****************.**.*************99877664444444443355...7888.*************.******************************.**.***************98
+Fmos|Fmos_9350                                    MIIYKDAISG..DEFVSDAYPMKLVDDVAFEVDCQLVIVKKGADIDI.GANPSAEE..GEE.ELEE.GSEQVNNIIHAFRLQET.SF.DKKSYKSYLVGYLKKLTKHV..........QEK...NPEIdVKEWQGKINAFSK.KIFDNFKDYQFFTGESFNQDGMIALLNYRE.DG.TTPYITLFKDGLAEVKV
+#=GR Fmos|Fmos_9350                            PP 9*********..***********************************.********..***.****.*****************.**.********************..........***...77744*************.******************************.**.***************97
+Ylip|YALI0E27071g                                 MIIFKDVISN..DEMCSDAFEPKVVDNVVYEVDCTMIQVAEG-DVDI.GANPSAED..AEE.GVDS.DVQTVNNVVHSFRLQST.GF.DKKSYLTYLKGYMKSIKNYL..........AEN...KPEE.VENFEKGAQAYAK.KIVANFKDFDFYTGESMDPDGMVALLNYRE.DG.TTPYLIFWKHGIKEEKI
+#=GR Ylip|YALI0E27071g                         PP 9*********..**************************8888.****.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.***************97
+Morel1|Morel1_140487                              MLIYQDIITG..DELFSDAFDIKEVGG-TYEVECAMIQVKEGADVDI.GANASAEE..AAE.DLED.GVSVVNNVVYSFRLQST.SF.DKKGYTTYIKGYLKQLKAAK..........-NL...EGDD.AKAYEAEMTTEVK.KVLGSFKDFEFYVGESMNPDGAVMLLNYRE.DG.VTPFFTVFKHAVKTMKV
+#=GR Morel1|Morel1_140487                      PP 99********..************987.6******************.********..***.****.*****************.**.****************9864...........56...8889.9************.******************************.**.***************98
+Absrep1|Absrep1_376085                            MLLYRDILAG..DELFSDAYPIKLIDDIAYEVDCAMVTVGEG-EIDI.GANPSAEG..GEE.AAES.TSQTVNNVIYSFRLSET.SF.DKKSYMTYIKGYMKAVKAKL..........AES...NPER.VPVFETKATTLIK.KILGNFKDYEFYIGESMDPEGMVALLNYRE.DG.VTPYFTFFKDGLKEEKL
+#=GR Absrep1|Absrep1_376085                    PP 99********..**************************6666.****.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.***************95
+Ncra|NCU06464                                     MLIYSDIITG..DEIISDSYDLKEVDGIAYEVDCAMIE-EGAVQVDI.GANASAEE..ADE.ALDD.GVVKVNNVVHSFRLQST.QF.DKKGYLVYLKGYMKSVKNAL..........KEQg.kSDEE.IKDFETKASAFAKnVILAKFKDWEFYTGESMNPDGMVVLLNYRE.DG.TTPYVVVWKHGLKETKV
+#=GR Ncra|NCU06464                             PP 99********..**************************.99******.********..***.****.*****************.**.********************..........**99.89999.*************6678***************************.**.***************98
+Ganpr1|Ganpr1_114307                              -LIYKDVISG..DEVLSDAYPVKEVDDFWLEADAKMIQVSGDVEVNI.GGNPSAEG.gDDDgGVESaGAQTVNNIVYGLRLQQT.SF.DKKGYMAYIKGYMKAIKEHL..........QKT...NPDR.VATFEEKAKKQVT.KIVNGLKDYDFYTGENMNPEGMVILLNFRE.DG.VTPYMLFFKDGLAEERV
+#=GR Ganpr1|Ganpr1_114307                      PP .79*******..***********************************.********.65556788879****************.**.********************..........***...****.*************.******************************.**.**************997
+Spom|SPAC1F12.02c.1                               MLLYKDVISG..DELVSDAYDLKEVDDIVYEADCQMVTVKQGGDVDI.GANPSAED..AEE.NAEE.GTETVNNLVYSFRLSPT.SF.DKKSYMSYIKGYMKAIKARL..........QES...NPER.VPVFEKNAIGFVK.KILANFKDYDFYIGESMDPDAMVVLMNYRE.DG.ITPYMIFFKDGLVSEK-
+#=GR Spom|SPAC1F12.02c.1                       PP 99********..***********************************.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.************9998.
+Amor|Amor_1777                                    MIIYRDIISG..DEFASDAYPVKVVDDVAFEIDCQMITVKEGVDVDI.GANPSEEE..AEE.TLEE.GTIQVNNVVHAFRLQET.TF.DKRAYQTYLKSYMKKLAEQV..........QCK...PDID.MNEWKKKINAFSK.KILDNFSDYQFYIGESFNQDGMVALLNYRE.DQ.ITPYLTMFKDGLKEEKV
+#=GR Amor|Amor_1777                            PP 9*********..***********************************.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.***************98
+Pgra|PGTG_17637                                   MIIFTDAITG..DELCSDAFNMLP-MGALVEVNCENVTIKEG-EVDI.GANASAEE..QSE.ALED.GAKTVNNLVHTFRLQAT.SF.DKKSYMTYLKGYMKAVKTHL..........AET...NPER.VEAFEKEAQEAAK.KIIANFKDYEFYVGESMNPEGMVALLNYRE.DG.IQAYFSFWSDGLKSVKV
+#=GR Pgra|PGTG_17637                           PP 9*********..**********88.58999********9999.****.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.**************997
+Marpt1|Marpt1_294892                              MLLFKDILTG..DELFSDAYPLTE-SGGAYEVDCAMIQVGAGGDIDI.GANASAEE..AAE.ELED.GVETVNNVIYSFRLSQT.SF.DKKSYMTYIKGYLKELAAKL..........KET...NPER.VEAFQKEAQDLVK.KIVKNIGDYEFYVGESMDPDGMVALLNYRE.DG.ITPYFTFFKDGVKAEKL
+#=GR Marpt1|Marpt1_294892                      PP 99********..***********9.5679*********99999****.********..999.9***.*****************.**.********************..........***...****.*************.******************************.**.**************995
+Umbra1|Umbra1_236794                              MLLYRDILSK..DELFSDAYPLKLVDDCAYEVDCKMITVTEG-DVDI.GANPSAED..GEE.ASES.SSQTVNNVVYSFRLTET.SF.DKKSYMTYIKGYMKAIKGKL..........QES...NPDR.VPEFEKKAATLVK.KIIANFKDYEFYTGESMDPDGMVALLNYRE.DG.ITPYFTFFKDGLAEEKL
+#=GR Umbra1|Umbra1_236794                      PP 99********..**************************8888.****.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.**************995
+Artol1|Artol1_7820                                MIIYKDLITD..DEIFSDAYDFKVVDDIAYEVDCKMITIKQGADVDI.GANASAEE..AEE.SVED.GMITVNNVVYSFRLQST.SF.DKKSYLTYLKGYMKTVKAKL..........AET...NPGR.VEAFEKGAQAFAK.KIVGGFKDYEFYVGESMNPDGAVLLLNYRE.DG.VTPYFTVWKDGLSEMKV
+#=GR Artol1|Artol1_7820                        PP 9*********..***********************************.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.****************8
+Rambr1|Rambr1_162178                              MRIFIDKLTG..DEVGSDAFKKVEINEFLFKLEGALITVGGDDDFDI.GANPSAED.gGDA.GVDAsDKVQVVNVVHSCELQET.SF.DKKSLQVYFKDFFKKMAEHV..........---...PADK.MDGFKAAATAFAK.EVLGNLKDWQFFTGKNMDPDGLTLFLNYDK.ET.DAPYLVYFTHAIKEEKV
+#=GR Rambr1|Rambr1_162178                      PP 89********..**************************9999*****.********.7777.888857789*************.**.**************999888................6899.*************.******************************.**.***************98
+Hesve2finisherSC|Hesve2finisherSC_1303277         MLLYEDLITG..DELFSDAYPLKLVENVAYEVDCAMIT-VGGDNVDI.GANPSAEG..GDE.EVDS.SSETVNNVVYSFRLSQT.SF.DKKSYLTYLKSYMKSVKAKL..........MET...NPDE.AAEFEKLITPYAK.KIIGNFKDYDFYVGESMNPDGMVALLNYRE.DG.VTPYFTFFKHGLKVQK-
+#=GR Hesve2finisherSC|Hesve2finisherSC_1303277 PP 99********..**************************.9999****.********..***.****.*****************.**.********************..........***...****.*************.******************************.**.*************998.
+#=GC PP_cons                                      99********..**************9***********9999*****.********..999.9***.*****************.**.*******************9..........999...9999.*************.******************************.**.**************997
+#=GC RF                                           xxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxx..xxx.xxxx.xxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxxxxx..........xxx...xxxx.xxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxxxx
+//

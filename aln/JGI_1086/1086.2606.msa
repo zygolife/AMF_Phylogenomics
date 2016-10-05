@@ -1,0 +1,375 @@
+# STOCKHOLM 1.0
+
+#=GS Amor|Amor_20373                           DE TRINITY_DN44149_c0_g1_i1 TRINITY_DN44149_c0_g1_i1|g.20373 type:internal len:143 gc:universal TRINITY_DN44149_c0_g1_i1:428-3(-)
+#=GS Spom|SPAC1751.03.1                        DE pep:known chromosome:ASM294v2:I:386266:387856:1 gene:SPAC1751.03 transcript:SPAC1751.03.1 description:"translation initiation factor eIF3m"
+#=GS Rambr1|Rambr1_138363                      DE estExt_Genewise1.C_4170003
+#=GS Umbra1|Umbra1_247879                      DE fgenesh1_kg.40_#_94_#_combest_scaffold_40_87906
+#=GS Morel1|Morel1_35275                       DE estExt_Genemark1.C_700014
+#=GS Ccin|CC1G_01436                           DE (protein translation)
+#=GS Pocc|Pocc_6263                            DE TRINITY_DN34795_c0_g1_i1 TRINITY_DN34795_c0_g1_i1|g.6263 type:internal len:121 gc:universal TRINITY_DN34795_c0_g1_i1:362-3(-)
+#=GS Absrep1|Absrep1_380202                    DE estExt_Genewise1Plus.C_220278
+#=GS Ncra|NCU02813                             DE (protein translation)
+#=GS Gloin1|Gloin1_347408                      DE fgenesh1_kg.20021_#_2_#_remain_c757
+#=GS Conco1|Conco1_16070                       DE estExt_Genemark1.C_340024
+#=GS Lichy1|Lichy1_160822                      DE estExt_Genewise1Plus.C_470049
+#=GS Batde5|Batde5_32890                       DE estExt_fgenesh1_pm.C_20093
+#=GS Blatri1|Blatri1_379971                    DE fgenesh1_kg.1_#_215_#_TRINITY_DN1155_c0_g1_i1
+#=GS Scal|Scal_6797                            DE TRINITY_DN9288_c0_g2_i1 TRINITY_DN9288_c0_g2_i1|g.6797 type:3prime_partial len:392 gc:universal TRINITY_DN9288_c0_g2_i1:52-1224(+)
+#=GS Amac|AMAG_05109T0                         DE | AMAG_05109 | Allomyces macrogynus ATCC 38327 hypothetical protein (447 aa)
+#=GS Catan1|Catan1_63845                       DE fgenesh1_pm.53_#_39
+#=GS Hesve2finisherSC|Hesve2finisherSC_1331019 DE fgenesh1_kg.1_#_368_#_Locus987v1rpkm206.61
+#=GS Artol1|Artol1_3506                        DE AOL_s00054g839m.01
+#=GS Marpt1|Marpt1_52073                       DE CE52072_23375
+#=GS Pgra|PGTG_14943                           DE (protein translation)
+#=GS Ylip|YALI0C21890g                         DE (protein translation)
+#=GS Spun|SPPG_02339T0                         DE | SPPG_02339 | Spizellomyces punctatus DAOM BR117 hypothetical protein (404 aa)
+#=GS Fmos|Fmos_45907                           DE TRINITY_DN25661_c0_g1_i1 TRINITY_DN25661_c0_g1_i1|g.45907 type:5prime_partial len:448 gc:universal TRINITY_DN25661_c0_g1_i1:3-1346(+)
+#=GS Coere1|Coere1_83851                       DE fgenesh1_kg.75_#_4_#_isotig04163
+#=GS Ccla|Ccla_11261                           DE TRINITY_DN20153_c0_g1_i1 TRINITY_DN20153_c0_g1_i1|g.11261 type:5prime_partial len:115 gc:universal TRINITY_DN20153_c0_g1_i1:3-347(+)
+#=GS Ganpr1|Ganpr1_95389                       DE e_gw1.9.256.1
+#=GS Umay|um01355                              DE related to eIF3m -translation initiation factor 3 subunit M
+#=GS Rall|O9G_005315                           DE (protein translation)
+#=GS Dver|Dver_1610                            DE TRINITY_DN47311_c0_g1_i1 TRINITY_DN47311_c0_g1_i1|g.1610 type:complete len:272 gc:universal TRINITY_DN47311_c0_g1_i1:1088-273(-)
+#=GS Pfor|Pfor_21429                           DE GCRV01017518.1 gb|GCRV01017518.1||g.21429 type:5prime_partial len:398 gc:universal gb|GCRV01017518.1|:1232-39(-)
+#=GS Cneo|CNA04920                             DE (protein translation)
+#=GS Hpol|HPOL_002702-RA                       DE protein Name:"Similar to eif3m Eukaryotic translation initiation factor 3 subunit M (Dictyostelium discoideum)" AED:0.13 eAED:0.13 QI:0|0|0|0.83|1|0.83|6|0|326
+#=GS Mbre|Monbr1_30737                         DE estExt_fgenesh2_pg.C_20091
+#=GS Linpe1|Linpe1_268155                      DE fgenesh1_kg.8_#_204_#_Locus1308v1rpkm151.76
+#=GS Lobtra1|Lobtra1_308289                    DE e_gw1.28.32.1
+#=GS Rcas|Rcas_21479                           DE TRINITY_DN14470_c0_g1_i1 TRINITY_DN14470_c0_g1_i1|g.21479 type:5prime_partial len:424 gc:universal TRINITY_DN14470_c0_g1_i1:3-1274(+)
+#=GS Mucci2|Mucci2_155721                      DE fgenesh1_kg.03_#_197_#_1790_1_CCIA_CCIB_EXTA
+#=GS Gros|Gros_207                             DE 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_184 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_184|g.207 type:complete len:418 gc:universal 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_184:2384-1131(-)
+#=GS Conth1|Conth1_305032                      DE estExt_Genewise1.C_920039
+
+Amor|Amor_20373                                   --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Amor|Amor_20373                           PP ........................................................................................................................................................................................................
+Spom|SPAC1751.03.1                                -MEGSDFILVVDSSVEEQVEELAMYL..........D.NLEAN.....TDKNVLALCREY..................................................L...ASENVKEVLNLFLTRL....PLL...AQAPEK.ELEPILAVFINLIQ.ES...AAFEDHVSKFCQAL.E.QIADQN....NNLTPA
+#=GR Spom|SPAC1751.03.1                        PP .5678899******************..........5.44444.....445555555444..................................................2...56789***********....***...******.**************.**...**************.*.999998....888888
+Rambr1|Rambr1_138363                              ---ASNGVIFVDGPVAGQITQYAAFV.........dKvAGNAT.....FSSEIGES----..................................................-...--PEASSVISKLIDTL....PIVlsaQKVDEK.DRTGAITQLFTTIIlAS..sADSESLAKNVSSVV.S.TISNAN....GVSAVS
+#=GR Rambr1|Rambr1_138363                      PP ...56679******************.........32333333.....44444444............................................................4489**********....665455788***.***99987776665344..69*************.*.9*9999....999999
+Umbra1|Umbra1_247879                              ---SATNTIFVEGATEAQIVEVTSYI..........A.KLQGD.....-ESETPAYVSAI.................................................sEk.lAADKQAEVLNQIAADS....PIL...LTAPVKvEAEGALNLVIAILQ.--...-GNDEAVKTFSKAL.-.-V-AED....ADRFNI
+#=GR Umbra1|Umbra1_247879                      PP ...6799*******************..........6.55555......56777777555.................................................413.456789***********....***...****999************97.......5566666677666....3.455....89****
+Morel1|Morel1_35275                               -----APTILQDRSRSNTVAELATYI.........sSlRGDEE.....-QALVKQVVPVI..................................................-...EAKNITEATNILVKES....KTL...LEAPEK.EFESAYNLLVAIAL.-I...ESEKTVLEQILAGL.-.--ISEP....TQKTAL
+#=GR Morel1|Morel1_35275                       PP .....568999***************.........64566666......44444444222......................................................45678***********....***...******.************99..5...55666777776666.....5899....99****
+Ccin|CC1G_01436                                   --QTDSVSIFAEGTFEEQILELVNYL..........A.RTRSE.....--EERPAFVAPFenglkte....................................egqkpvsE...DPERQKAVLKDVLQQV....QGL...GDGSEK.EVEGFFNLLYAHLL.SIy.pPGSPELREILANLL.Q.SISSSP....SDQLPI
+#=GR Ccin|CC1G_01436                           PP ..58999*******************..........9.99999.......9******99999*****....................................99998875...78899***********....***...******.**************.999.888888888888888.9.******....******
+Pocc|Pocc_6263                                    --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Pocc|Pocc_6263                            PP ........................................................................................................................................................................................................
+Absrep1|Absrep1_380202                            -----SNNFSVQSTSDAQIDDLAFYI..........S.RLRGE.....-SEEDAPYVKEI..................................................Qa.lVKSDKNSVYTQLAKDV....AIL...LTKNDR.EVEHAFNLTIVILL.--...SAPEQVLPSAVKAF.TaSLSKTE....STKTSL
+#=GR Absrep1|Absrep1_380202                    PP .....6778899**************..........8.77777......67888888777..................................................44.555789***********....***...******.***********999......67889999999999.779999**....******
+Ncra|NCU02813                                     ---ATPQLIFVDGTFAELAQEMADFV..........-.----Q.....VGEQVQPLL---..................................................-...EQDKREDALDLIVKAS....HSL...NAAPEK.DFTPAYNLLIHLVL.QS...EEPKKYLPTLCANLlK.PITSSP....THGFTL
+#=GR Ncra|NCU02813                             PP ...679********************................9.....99*******.........................................................6788************....***...******.**************.**...**************77.******....******
+Gloin1|Gloin1_347408                              -----VNTVFTEGPLEAQASEFASYV..........S.KLKGE.....-PEEKGPFIIET.................................................rNl.lKDKKFEQVFQLFAKST....SVL...LEAPEK.EFEAIFNLLIAILK.-S...ASPDTHPTLIKSSI.E.SLVVNQ....NDKAIQ
+#=GR Gloin1|Gloin1_347408                      PP .....589******************..........6.55555......56777777333.................................................324.466677***********....***...******.***********997..6...67888888888888.8.777787....899999
+Conco1|Conco1_16070                               ----SVNTVFIEGEAEQQVVELSTLLdqysklpevlQeGQEGE.....LTTEIKKLI---..................................................-...QENNWNVVFDKLVENT....QLL...FKSEDS.QFEGSFNLLLSCFR.LV...E-DDQLLALVEKFT.Q.LLAQSD....DSRGYL
+#=GR Conco1|Conco1_16070                       PP ....679*******************97665555542234444.....777888888.........................................................78899***********....***...******.*************9.66...4.456667777666.6.667888....899***
+Lichy1|Lichy1_160822                              -----SNGIFVQGSLESQILDLAYYI..........S.NLREE.....EGEEEAPYMQET..................................................Kk.lIAANNNDVYIQLAKDG....SIF...LTKSDR.EVEGAFNLLVVIML.QA...KDVNAAVKELIKTL.-.--TQTE....STKTSL
+#=GR Lichy1|Lichy1_160822                      PP .....6789*****************..........9.88888.....89*******888..................................................43.434568***********....***...******.**************.**...***99988888888.....5566....679***
+Batde5|Batde5_32890                               --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Batde5|Batde5_32890                       PP ........................................................................................................................................................................................................
+Blatri1|Blatri1_379971                            ------NNIFVQGGAESQIIDLAIYI..........S.KLRDE.....EGEKEAPYVKHI..................................................EsilKSDKKDSVYAEIAKDA....SIL...LTEGDR.EVEGAFNLLIVIVL.--...NAPESVLSNTVQLLvD.TLTKTE....SNKISL
+#=GR Blatri1|Blatri1_379971                    PP ......789*****************..........9.88888.....89*******999..................................................66778899************....***...******.*************9......5567778888888856.9*****....******
+Scal|Scal_6797                                    -----VNTVFTDGPLEVQALEFATYI..........S.KLKGE.....-PEETGPFIKET..................................................TallKESKLEQVFQSFVAAT....SIL...LDAPEK.EFEAVYNLLIAILK.-S...ASPETYPVLINNSI.K.ALVNDE....HDKAIQ
+#=GR Scal|Scal_6797                            PP .....589******************..........5.54444......55777777555..................................................345578889***********....***...******.***********998..6...66777777777777.9.888899....9*****
+Amac|AMAG_05109T0                                 ------KATFVNATDADLVLSYSAVVs.......klH.-GDSS....rDDGSEDTYLAEAr................................................tA..vESGSTTDLVRGYCSEA....GLI...LNVPET.QVEGFFALLLALVNvTA...AGNDKLEADLLGRIaK.SIEDAN....VDKGVA
+#=GR Amac|AMAG_05109T0                         PP ......67899999999********97.......431..3333....32333455554444................................................41..45667899*********....***...******.**************666...9999999999988846.******....******
+Catan1|Catan1_63845                               ------QQTFVGPSAGELLLQYAAVVakir.tsaagA.AANPD.....AAADAESTIAQA..................................................QsavESNNLLPVVTQYATDA....ASL...LSVPET.QVEGFFTLLLALTF.AVt.dGDAKQESALVQAII.R.SFEEST....SEKGVL
+#=GR Catan1|Catan1_63845                       PP ......56789999999*********6555.444333.34444.....666677777555..................................................3345667779**********....***...******.**************.995.455555555555566.8.******....******
+Hesve2finisherSC|Hesve2finisherSC_1331019         -----ASIVSVQSPLESQIDDLAFYI..........S.RLRGE.....-SEDDAAYVKEI..................................................Qt.lVDADKNKVFAKLASDT....GIL...LTKNDR.ELEHGFNLAIVLVL.SA...PES-ELPGSVKALV.D.ALTKTE....STKISL
+#=GR Hesve2finisherSC|Hesve2finisherSC_1331019 PP .....578999***************..........7.66666......55666666555..................................................33.334679***********....***...******.**************.77...655.4556677777.8.999999....99****
+Artol1|Artol1_3506                                -MAATVNTLLVEGSFDDQVIELADYFdtl....kgvK.EGEAT.....LSQELQPML---..................................................-...EKGEKEDVMEKLVEAS....SVL...SQAPEK.EYIPAYNLLVHLIR.TS...PLLPSLLDTVTANL.AiPLKNS-....QNGATL
+#=GR Artol1|Artol1_3506                        PP .567889*******************976....5544.55555.....888899999.........................................................56779***********....***...******.**************.**...**************.9899888.....8*****
+Marpt1|Marpt1_52073                               -----RDVVFVDGETSSQVEEFLRYI..........A.ELKSV.....--ENVDSYVAN-..................................................-...---LKDAKVADILNES...kEVL...ARSPEK.KVEAVYNQLFAIVL.TQ...STDSSSDDSVAEIV.K.DLEAN-....VENGAV
+#=GR Marpt1|Marpt1_52073                       PP .....678******************..........6.55444.......789999933..........................................................4567777777777...5888...******.**************.99...88888999999999.8.88877.....788999
+Pgra|PGTG_14943                                   ---GSIWAVLVQPSFPDMVFEASALM..........T.KGAPS.....QANPTTGTK-SShqpsefalrmkeaaeaisgehagptekgdsedadqmandeavenreheteE...TKEAKRKIVEELWSKLq..pSCF...VRTDDR.ELEAATNLLLTLML.SF..lSNHNKFPQFVSQLL.EaIVTAEG....KTTAYG
+#=GR Pgra|PGTG_14943                           PP ...778999****************9..........6.66666.....222222222.1134457788999999999999************************9998754...78899***********9..9999...******.**************.88..8**************.85666666....666666
+Ylip|YALI0C21890g                                 ---SDINFMVVDGSLADLVAELTAYI..........EtLGCDE.....LEANCQRAL---..................................................-...AAGEEPKVFELITQQL....PLL...NKSSEQ.QFESVWQLCLHVFS.FSesfEWVDAVLKAISGHS.NlPRS---....FNGPAA
+#=GR Ylip|YALI0C21890g                         PP ...68899******************..........6699999.....*********.........................................................455689**********....***...******.*************9.8855666667777777555.32333.......234444
+Spun|SPPG_02339T0                                 ---------------DQSALELANYIg........vA.--KGE.....-QAETGAFFQST..................................................KqllSEEKYTEVLTKFANES....AAL...LEATEK.DFEPLYNLLIALIK.D-...-AQPEIVPKLVNSIiQ.PIVASG....TDKANL
+#=GR Spun|SPPG_02339T0                         PP ...............6789*******5........42...333......35666666555..................................................334467889***********....***...******.*************9.4.....445667776666648.******....******
+Fmos|Fmos_45907                                   ---SYVNTVFTEGPLEAQALEFASYV..........S.KLKGE.....-PEEKGPFITET..................................................EnllKEKNFEQVLQTFASST....LIL...LEAPEK.EFEAIYNLLIAILK.-S...ASPETHPILIKSSI.K.ALVEVQ....NDKAIP
+#=GR Fmos|Fmos_45907                           PP ...5679*******************..........6.55555......56778888666..................................................446578888***********....***...******.***********998..5...55666666677777.7.666777....899999
+Coere1|Coere1_83851                               -----TEVFFVDGAVGTQVEELARVL..........-.-GEEK.....GVSDVEKYVQEI..................................................S...---GRTDVTAAVVSESs..gGVL...AKLSEE.RIESAYNQLFAIAA.--...LESSGGVDNIAEVV.AkDIAEHA....--ENGV
+#=GR Coere1|Coere1_83851                       PP .....6789*****************.............4444.....458999***777..................................................6......49***********7..7789...******.**********9987......56667778888888.43666654......5555
+Ccla|Ccla_11261                                   --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Ccla|Ccla_11261                           PP ........................................................................................................................................................................................................
+Ganpr1|Ganpr1_95389                               --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Ganpr1|Ganpr1_95389                       PP ........................................................................................................................................................................................................
+Umay|um01355                                      --AADLVTVLAEGTFEEQIVEVSAFL..........S.RSQPE.....--ASRNDFISKFqqlaldaepaepa.......................epavsteatepasaP...DAAKKQQTVQQLVSEI....VTL...GEGSDR.ELEGVYNLIFSLIS.ST...DQQTQLVPQLLSAVsKdSAAAATgaggADKSNV
+#=GR Umay|um01355                              PP ..67899*******************..........*.****9.......99*****999999**********.......................********9998752...7889************....***...******.**************.99...99999*999999996323333334556778999
+Rall|O9G_005315                                   --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Rall|O9G_005315                           PP ........................................................................................................................................................................................................
+Dver|Dver_1610                                    --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Dver|Dver_1610                            PP ........................................................................................................................................................................................................
+Pfor|Pfor_21429                                   --------------FASLIDQLVALP..........-.EGSED.....--QKLSKLIQEP..................................................L...ESNKSEELFSISIPHV....ATL...LKVEDS.NLIASFNFYVTQLK.SFe.aEKVSEFIKKIIEVL.-.-I-SSE....SENGYG
+#=GR Pfor|Pfor_21429                           PP ..............666666666666............44444.......7888888665..................................................4...67899***********....***...******.***********999.776.577778888888777....5.555....777888
+Cneo|CNA04920                                     ---ADCITIAPELSFKDQITELAAHL..........S.RSLPNa...dNQVAVKEFVQGYeaqvd.......................................teegrgD..vEDAKKKQVVKSIVDKFvelkGGL...EAAKES.EVESSHFLLQHVLS.TTf.dQASEEYAQAVKDVN.E.AVKKGA....QETTKI
+#=GR Cneo|CNA04920                             PP ...7899*******************..........9.999995...555568888877799999.......................................9998883..556778888888888886666889...999***.**************.888.888889999998777.5.555555....444444
+Hpol|HPOL_002702-RA                               --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.---SED....ADRSIS
+#=GR Hpol|HPOL_002702-RA                       PP ...........................................................................................................................................................................................566....777888
+Mbre|Monbr1_30737                                 --------------FEELVSFVAEHL..........K.ESHPS.....FAEECDAAY---..................................................-...TQGQLASALPKLLSVL....PAV...FEM--E.GMEGVCNSCIRLCA.SL...EQGQKHLLNLADII.A.--QTDN....TSGAEA
+#=GR Mbre|Monbr1_30737                         PP ..............9***********..........*.*****.....********9.........................................................6555677777777666....555...444..4.69************.**...*9999999999999.4...4455....679***
+Linpe1|Linpe1_268155                              ---TASDVIFMDGEAVSQVEELARYI..........A.QVKSI.....--SDADSFVNQL..................................................-...----KEASIAELLKEAc..nGTL...AASPEA.KLEAVYNQLFAIVLtQS...AGPEEVDTYVREIV.A.DLTENV....-QSGAA
+#=GR Linpe1|Linpe1_268155                      PP ...56889******************..........7.66666.......7899999444..........................................................6888888888888..8889...999***.**************777...99999999999999.8.888885.....44555
+Lobtra1|Lobtra1_308289                            --------------------------..........-.-----.....------------..................................................-...----------------....---...------.--------------.--...--------------.-.------....------
+#=GR Lobtra1|Lobtra1_308289                    PP ........................................................................................................................................................................................................
+Rcas|Rcas_21479                                   ------NTIFTDGPLEVQALELASYI..........S.KLKGE.....-PEEAGPFLKET..................................................AallKENKLEQVFQTFVAAI....SIL...LDAPEK.EFEAVYNLFIAILK.-S...ASPETYPVLINQSI.K.ALVHDE....HDKAIQ
+#=GR Rcas|Rcas_21479                           PP ......89******************..........6.55555......56888888666..................................................345588999***********....***...******.***********997..7...78999999999999.9.888999....9*****
+Mucci2|Mucci2_155721                              -----ASNIFVQGGADNQITDLALYI..........S.KLRSE.....EGDAQAPYVQHI..................................................EalyKSDKKDTVYAELAKDA....SIL...LTKNDR.EVEGAFNLLIVTVL.SA...PQ-SVVSSAVEALV.D.TLTKTE....SNKTSL
+#=GR Mucci2|Mucci2_155721                      PP .....5789*****************..........9.88888.....89*******999..................................................66778899************....***...******.**************.76...54.46778888888.9.99****....******
+Gros|Gros_207                                     -----VNTVFTDGPLEVQVLEFASYI..........S.KLKGE.....-PEDAGPFIKET..................................................NamlKENKLEQVFQTFVAAT....SIL...LDAPEK.EFEAVYNLLIAILK.-S...ASPETYPVLINNSI.K.ALVHDE....HDKAIQ
+#=GR Gros|Gros_207                             PP .....589******************..........6.55555......67999999777..................................................456688999***********....***...******.***********998..6...66777777777777.9.888999....99999*
+Conth1|Conth1_305032                              ----PLNTVFVEGTKEDQALEFATLId.......qlK.-EVTEdseisLTSTTKSLI---..................................................-...SSENWSEIYTKFAFET....ATL...LNVESH.NIVAAFNLLLSQIK.-L...ADNSILAELIQNVV.N.SLIESS....HENGYS
+#=GR Conth1|Conth1_305032                      PP ....579*******************5.......321..222212222333344444.........................................................56789***********....***...******.**********9998..6...66666777777777.7.555555....888899
+#=GC PP_cons                                      .56677899*****************..........6.66666.....667778888666..................................................4...677789**********....999...******.************99.87...77788888888888.7.888887....889999
+#=GC RF                                           xxxxxxxxxxxxxxxxxxxxxxxxxx..........x.xxxxx.....xxxxxxxxxxxx..................................................x...xxxxxxxxxxxxxxxx....xxx...xxxxxx.xxxxxxxxxxxxxx.xx...xxxxxxxxxxxxxx.x.xxxxxx....xxxxxx
+
+Amor|Amor_20373                                   -.....------------....--...------------------.-----------..----------..---------.---------....---.--.-------....---------..----------------------.--.--------------Q.AQK--....G..EELFELLKVFL..SGNLKEYKVF
+#=GR Amor|Amor_20373                           PP ...................................................................................................................................................................5.555......8..9**********..**********
+Spom|SPAC1751.03.1                                I.....LSVLSILFNTAV....KE..rQHARLSILTSVVTLTTRY.SLFSTLAPNLK..YFPDWLKEAG..VSVSDHRAF.NIFVSKAIQ....SY-.DD.EQSFAFL....LEAVKMD--..-----NSTADEAVRELVQRAVN.SP.KYFFFDDIVTLPPVQ.QLE--....-..QSTLQLLGILS..GGMTDDYVSW
+#=GR Spom|SPAC1751.03.1                        PP 8.....*********988....88..68*****************.***********..**********..*********.********7....66..69.9******....*****74.........56788888889999999.**.***************.**8.........779********..**********
+Rambr1|Rambr1_138363                              K.....LRHLNSLFNIIE....SN...NGVRYEVFTSIVRIAGTN.GLIKVLVSELR..NVESWLAQWN..ATKEQKASL.YLLIADQLQ....AAV.AA.SASSAVIsgvsVDLAHSYLV..KASAADSSNVEITKRAIRNLIA.EP.SLFDIDELLQLESVV.SLK--....G..SPIYELLTVFA..TGDVAAFRSV
+#=GR Rambr1|Rambr1_138363                      PP 9.....************....**...******************.***********..**********..*********.*********....998.66.55533331211333333333..777789999*************.**.***************.***......9..9**********..**********
+Umbra1|Umbra1_247879                              K.....QKILLNLYNTCP....SN...SRLRYDIFIAIFDAVVKN.DDLDSLMSQFD..YVDVWAKEWG..LDLETERAL.YSHLAEQLK....AAG.EE.RAAYEFF....LKTLATYND..---SPDATSAEYAKQAISTAIQ.MP.NCFAFEDLLQYKPLQ.QLK--....G..TPEFELLNIFL..NGNLQEYNQF
+#=GR Umbra1|Umbra1_247879                      PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******43.....55889999***********.**.***************.***......9..9**********..**********
+Morel1|Morel1_35275                               K.....FKVLSNIFNTLP....AN...SPLRLSVFTAIVDLAVAS.DDMDLVLPQLQ..YVPSWISEWG..VDAQAERAL.LLTLSDRLK....ESG.NQ.YQSLEFL....LKHLTSFN-..-GTSESAAQKATATRAIVESIA.LP.EVLNFENLLKIEAIQ.NLK--....A..EKVYELLSVFM..SGNVQDYRGL
+#=GR Morel1|Morel1_35275                       PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******5....4777899999***********.**.***************.***......8..9**********..**********
+Ccin|CC1G_01436                                   K.....YRVLSNLFNSLP....RN...SPLRSLVYTTILQIAVEK.DDLRSLQLTKS..EVQKWISEWD..LSDEQKAEF.LKQVADAFA....KTG.QL.AQSYEYS....LLYIQKLPS..----TSDAAREAAVTALSNALR.LP.DVFDFDPLFKLDAVI.AVK--....D..HELFSLLQVFI..NNGLAEFKAW
+#=GR Ccin|CC1G_01436                           PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******86......8*****************.**.***************.***......*..***********..**********
+Pocc|Pocc_6263                                    -.....------------....--...------------------.-----------..----------..---------.---------....---.--.-------....---------..----------------------.--.----------LKAIQ.TLT--....E..EKIFELLRVFL..SGTLKEYREF
+#=GR Pocc|Pocc_6263                            PP ...............................................................................................................................................................67999.999......8..9**********..**********
+Absrep1|Absrep1_380202                            K.....QKILLNLYNALP....AT...SALRYDAFLGLVDVTAQA.DELDSLTTQLA..NVDAWAKQWG..IDITTERQL.YQHLSEKLS....QAG.ES.KSSLDFL....LKKLATYET..----KDDESTSCAKDAILRAVA.MD.NYFAFEDLIQYTAVQ.HIK--....G..TDEFQLLDLFL..NGNLQTYTAF
+#=GR Absrep1|Absrep1_380202                    PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******54......577888888888888888.99.***************.***......9..9**********..**********
+Ncra|NCU02813                                     A.....SNALTTIFNLLD....KS...NPLRFNVFMQIVRFIRQN.SQFDLLKPRLK..NVEGWLQEWK..SDSESQRKL.YVEVSDAAN....DGG.DQ.EESYFYL....LKALATFDRdnQDEVASDEAQKLSLRALRMAIS.SP.TRFDFNDLRSLPSVH.ALSDS....H..PVYSQLLDIFT..EQDLEDYNDF
+#=GR Ncra|NCU02813                             PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******777799999*****************.**.***************.*****....*..***********..**********
+Gloin1|Gloin1_347408                              K.....LKVLQNLYNTLE....YA...SPLRYDVFLTILDIAAKN.DEIDTLLLQLS..RLDTWVKEWA..ISTNQIREL.YMTVSNRLK....EAG.EL.KLSHDFL....LKHLATYSS..SDD--LSTAKPAVIRAVTEAIQ.LP.EILSFEDILELHVAI.QCLKS....E..EKLFDLLKVFL..NGNLKEYKAY
+#=GR Gloin1|Gloin1_347408                      PP 9.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******77..555..589**************.**.***********9877.77779....*..***********..**********
+Conco1|Conco1_16070                               K.....LKVLENLYNSVE....PK...TELRYVVLKAILQVVKKH.QLYNAILAILP..NLKTWIKNWK..VDTDKARNM.YINIYDTLK....SGE.LS.VQAYEFI....LLYLSSFTK..-DQV-NDQAKEYGQVALKDAIS.IP.EVLNFEDLFLTAPVQ.ALS--....D..LPLFNLAKIFL..DQDLAQYLSF
+#=GR Conco1|Conco1_16070                       PP *.....************....**...******************.***********..**********..*********.*********....999.99.*******....*******54...555.9****************.**.***************.**9......9..9**********..**********
+Lichy1|Lichy1_160822                              K.....QKILLNLYNALP....SN...SPLRYDAFLGLVDVTAHA.DELDSLYGQLD..HIDAWVKQWG..IDAQTERQL.YNHVGTKLS....QVG.ED.KLAFDFL....LKTLATYND..----DSASSTDLAKDAVIRAVS.IE.NFFAFEDLLQYTAIQ.KIK--....G..TKEYELLDVFL..NGNLDTYKTF
+#=GR Lichy1|Lichy1_160822                      PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******54......478999************.**.***************.***......9..9**********..**********
+Batde5|Batde5_32890                               -.....------MYNSLE....ST...SYGRFKTYKTIVQVASAG.DELDAVVDTLT..YLEDWISEWQ..LTLVDRRAL.YLLLSVELG....KSEsCL.IQAQSCL....LRYLNTYQG.lTKEVNTESINTLAVKALVQAIS.IP.EVLNFEDVLSLTAVQ.ALG--....S..TKIFELAKIFL..DQSLTKYKAF
+#=GR Batde5|Batde5_32890                       PP ............59****....**...******************.***********..**********..*********.999998887....666266.99*****....*******87.878888*****************.**.***************.**9......8..9**********..**********
+Blatri1|Blatri1_379971                            K.....QKILLNLYNALP....GN...SPIRYHAFVGLVEATSQA.EELESLYGQLE..YVDAWAKQWG..IDQSTQREL.YNYLSQVLL....KAG.EE.KLALDFS....LKALVTLE-..-----EKEAETLAKDIVHRAIA.ME.NFFAFEDLIQYTAIQ.KLK--....G..TPEYELLDIFL..NGTLSTYQAF
+#=GR Blatri1|Blatri1_379971                    PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******3........689**************.**.***************.***......9..9**********..**********
+Scal|Scal_6797                                    K.....LKVLQNLYNTLE....YS...SPLRYDVFVAILDIATKN.DEIETILPQLP..RLDTWVKECS..ISTEQVREL.YLTVSDKLK....EAG.EI.KRSHDFL....LKYLTTYTS..SDD--LSVAKSAATRAIIEAIQ.LP.EILSFEDLLELDAVK.ALK--....N..EEVFELLKVFL..NGNLKEYKLY
+#=GR Scal|Scal_6797                            PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******87..555..599**************.**.***************.***......9..9**********..**********
+Amac|AMAG_05109T0                                 K.....LKLLTHAFNAAA....AT...SPVRLTLYTSIVKSAAKH.GELKALAASVA..HIPTWAAQWT..VSTADVTTL.LSLIDEKYL....AAG.LF.EDAFTAL....VAHLNYLAD..AGKADKAAVESVLARAVLAGLA.PPiKVLDLSPAFVSPAAA.AVS--....G..SATYKLLAAYV..HGDLLGYKAV
+#=GR Amac|AMAG_05109T0                         PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******88..88888999999999**999999.6669**************.**9......9..9**********..**********
+Catan1|Catan1_63845                               K.....IKLVTQLFNSLS....TT...SILRFTTYTALAKLAAKH.GELAALAPSIQ..HVAAWANDWQ..VSTDQLASL.YTLLAEKLI....AAG.QW.AAAVTAL....TAHIAYA--..SESASKAELETLYTKAVVAALApAR.EVVDLTDLYLSPVTKaEL--S....G..TLAASLVDAYV..HGDYATYASS
+#=GR Catan1|Catan1_63845                       PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*****98....467779***************9899.********9888888444..6....9..9**********..*******998
+Hesve2finisherSC|Hesve2finisherSC_1331019         K.....QKILLNLYNALP....SS...SPLRYDVFLGLLEVTSQA.DELDSLLPQLA..NIDTWTKQWG..IDVATERQL.YQNLADKLT....QAG.DK.KSALDFL....LKKLATFKD..---V-DAESEANAKEVLVRAIS.LE.NYFAFEELLEYKAVQ.GIQ--....G..SKEYALLDLFL..NGDLAKFEAF
+#=GR Hesve2finisherSC|Hesve2finisherSC_1331019 PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******65.....2.45666666777777778.99.***************.**9......8..89*********..**********
+Artol1|Artol1_3506                                S.....LTILTTIFNILS....PE...SSLRSEVFRSIVDIVDKN.GLYDALKPQLK..SLDRWLQEWD..AGVEDTREI.LVNIANVAE....RAG.-D.NQFYEFL....LQALQRFPA..-DEADEDEAREIAIRAIKAAIT.LP.HHMEFSDLAVLEPVK.ALSAT....D..PDLYAFFEIFA..AGEFQDLEEF
+#=GR Artol1|Artol1_3506                        PP *.....************....**...******************.***********..**********..*********.*********....***..7.7******....*******98...7777*****************.**.***************.*****....*..***********..**********
+Marpt1|Marpt1_52073                               G.....LKVLNNLYNLLP....ST...-DIRRQVFEAIVRVAAKT.SLLATILPLIS..RLPKMFEEWS..VEEQTKAQV.LLLVRDSLD....KAQ.FT.SEAYETE....LVFLQSISA..----EASQTKEVATSAIVHFVN.LT.AVCDLDALASQPAVQ.TLNKE....QklGDAGVLLEALL..SSDYKAWKQF
+#=GR Marpt1|Marpt1_52073                       PP 9.....************....65....9****************.***********..**********..*********.*********....***.**.*******....*******54......457999************.**.***************.**988....64467788******..**********
+Pgra|PGTG_14943                                   R.....YTALFTLFNALPaptaPTdnsVPLQLTILSRLADMAASHpEDLVILLPSLL..RLPSYLTQWN.lLGSPVGVAT.IEKVIRLCE....QGG.KL.EDAFNLS....ILYLSSPAL..SNEKRCPDVDRVSAQAVKLSLT.LP.NCYDWDLLEDIVPIS.QYLNSnpegE..TTYLKLISLLKspSTKFDQIEQE
+#=GR Pgra|PGTG_14943                           PP 7.....************7666225535***************66478*********..*********9.669999****.*********....***.**.*******....*****9755..99999*****************.**.**************9.8777845555..89999999999555678888887
+Ylip|YALI0C21890g                                 Agq.avVAVLASLFNMLS....SSh.dDAQLANTLLAALTTAEET.GNLHLLAGQLKsdQTVTWINTWQ..IEADVRDQL.IAKIYSALV....QLD.EP.AKALALL....VAAVGNT--..-----QTSTFPMTCKLVQQALK.SD.HVYDFGSILALEPVE.DLKTT....E..QRLFELLTTVA..SGEVAKMQSL
+#=GR Ylip|YALI0C21890g                         PP 444.4599**********....998.6677789************.*********9667**********..*********.*********....***.**.*******....**99987.........788999***********.**.***************.*****....*..***********..**********
+Spun|SPPG_02339T0                                 R.....LKVLSNLYNNLE....SN...SPVRYDVFVAILNVAAET.GELDVLVPHLL..SLDAWIAEWG..VALNQRRAL.YLLISQKLE....QSG.EYtREAYEFL....LKYLATFDN..GDAKSLQEAKDAAIRAVKEAFR.IP.TVLDFEDLFKLQAVQ.ALK--....P..SKLFDLLKIFL..DESLKQYQEF
+#=GR Spun|SPPG_02339T0                         PP *.....************....**...******************.***********..**********..*********.*********....***.87699*****....*********..99999*****************.**.***************.***......8..9**********..**********
+Fmos|Fmos_45907                                   K.....LKVLQNLYNTLE....YN...STLRYDVFLAILDIATKN.DEIDTLLPQLH..RLDTWVKEWA..ISTDQVREL.YLTVSDKLK....EAG.EL.KRSHDFL....LKHLATYSA..--PDDLSAAKTAAIRAVAEAIQ.LP.EILSFEDLLELHAIQ.CLK-S....E..EKLFDLLKVFL..SGNLREYQDY
+#=GR Fmos|Fmos_45907                           PP 9.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******65....555699**************.**.***************.**8.8....9..***********..**********
+Coere1|Coere1_83851                               A....gLRVLNSLYNVTK....-S...GNARAAVFGGLAELAGRT.QTAAALVAVVP..RISAMVNEWG..VKARKQGLVsLLALRKAFD....EGQ.LS.NEAYAVE....LAYLTASNL..-EEMDIEQIAQVAKSAIVRFAN.LS.GVCDVDALAGLPTVQ.TLVKL....EklATAGGLLENML..GSDYEQWQKY
+#=GR Coere1|Coere1_83851                       PP 5....5***********9.....6...699***************.***********..**********..**99999998999999999....999.99.*******....*****9865...77779****************.**.***************.99877....54578889******..**********
+Ccla|Ccla_11261                                   -.....------------....--...------------------.-----------..----------..---------.---------....---.--.-------....---------..----------------------.--.---------------.-----....-..-----------..----------
+#=GR Ccla|Ccla_11261                           PP ........................................................................................................................................................................................................
+Ganpr1|Ganpr1_95389                               -.....------LYNSLL....PN...SPFRFDVTVRLVEVAARH.DELSVISSHIA..AIDSLVQEWG..MSLEQTRQL.YVLLSDTFK....EKPtGR.REAYESA....IKLISTY--..TEPPFAASVQERAIECVAMAVR.AP.EVFNFEEVHALPAVR.AIQKS....-..HPMCQLLQVFL..DGDLAAYLKW
+#=GR Ganpr1|Ganpr1_95389                       PP ............79****....**...******************.***********..**********..*********.********9....776256.9******....*******....4677799***************.**.***************.**987.......89*********..**********
+Umay|um01355                                      R.....YRILSNLFNSLE....AT...SALRLQTFNALLSLVAAN.DDLDYLTSALT..ALPQWLAQWS..VSETEKASC.LESVAKALEgaekEHG.QT.SKAYQFL....VLHLRYIS-..-TLPASASTKEAAERTVAAALR.LP.RLYEFEDLLHVQAVL.DLKSA....S..SPIFDLLKIFV..GGTTADFSAF
+#=GR Umay|um01355                              PP 9.....************....**...******************.***********..**********..*********.********95555555.77.9******....*******4....45669****************.**.***************.*****....*..***********..**********
+Rall|O9G_005315                                   -.....------------....--...------------------.-----------..----------..------ATF.YRVVTDFEK....IKA.NY.TGYYKNA....LLYLACVDV..-DKMELNEKVQRAVDLGLAALL.SD.KIYNFGELLLHPILE.ALSGP....N..EWIRHALFAFN..CGDLQKFEQQ
+#=GR Rall|O9G_005315                           PP .............................................................................455.555555555....455.55.6779999....999999977...555577888888899999***.**.***************.***88....7..88888888888..8888887775
+Dver|Dver_1610                                    -.....------------....--...------------------.-----------..----------..---------.---------....---.--.-------....---------..-------AKGSACVQLIKDALS.SP.GVYVFAELLAMPNVA.ELENN....EqyQSYHRLLRLFS..YGTYKEYKE-
+#=GR Dver|Dver_1610                            PP ..................................................................................................................................5567889********.**.***************.**988....55599*********..999999998.
+Pfor|Pfor_21429                                   K.....LAMLETLFNSIG....QS...NVARLDVLRGIIEIASKH.KLFKAIANLLQ..IVKSTISKVS..SDAKVSRDL.LLCLTNALK....EGS.YK.KHSYETL....LNYLYTFET..KEEV-SEEVLGLAKRAILEGAS.IR.EVLNFESLLQSLPVQ.CLA--....G..QPIYEFAELFL..SHNVSKYLIF
+#=GR Pfor|Pfor_21429                           PP 9.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******99..8888.*****************.**.***************.**9......9..***********..**********
+Cneo|CNA04920                                     TraeaaSRVLKNTYNFLP....SN...SPIRPSTLLSLMSLLAST.LDLSALPLPTS..TLLPALSSWS..IPSSEKVSF.LTTASGLYQ....STG.NL.AKALELL....TLALKES--..-------VEPTVVERAVLLALA.VP.NKFELDDVLAVQGVKeQLGK-....V..QGVVELFEGDE..VEAIEKGKKW
+#=GR Cneo|CNA04920                             PP 4444449***********....**...******************.***********..**********..*********.*********....***.**.*******....**99975...........56789**********.**.**********9999956653.....3..55555555555..6677888899
+Hpol|HPOL_002702-RA                               K.....LRILSTLFNSLD....AS...DRLRHTVYKTIIQVASAG.NELEAIIPSLK..QLDHWVQQWD..LPVEQLREL.YLHISNELA....QSPtHL.VESHEFL....LKLLNTYQD.lPKEAKKEEINVLTSKAILQAIS.IP.EVLNFEDLFSLTVVE.VLK--....S..SKLVELAKIFL..DQSLAEYNVF
+#=GR Hpol|HPOL_002702-RA                       PP 9.....************....**...******************.***********..**********..*********.*****9888....766266.*******....*******88.877777*****************.**.***************.***......7..8**********..**********
+Mbre|Monbr1_30737                                 R.....LRALKNVFNRID....SN...DQQRCHVFKNIVALACSA.SLVSAIEKQLE..ALPRWLKEWTggSDGELERST.YVHVATCLD....KAQ.RQ.TLAYQFW....LRALRALST..ASASEQSSARPMVERTIAYALS.SH.GDFELYALSRLPVVQ.NL---....D..SPLKKALEAFV..SGDYEAYTSS
+#=GR Mbre|Monbr1_30737                         PP *.....************....**...******************.***********..*********65579999****.*********....***.**.*******....*******99..99999*****************.**.***************.*9.......6..9**********..********95
+Linpe1|Linpe1_268155                              V.....LKVLNNLYNLLP....AT...-AIRASVFKGIVAVAGKT.NLLATLLPLIS..RLPTLFGEWS..IESEAKIEL.LLSIRDSLE....AAG.LN.SEAYETE....LVFLETVSE..---S-PEKLAQIASSAIVHYVN.IS.AVCDLDALANLPQVQ.ELNKG....GklGDAGSLLDTLL..SSDFKGWKAY
+#=GR Linpe1|Linpe1_268155                      PP 5.....9***********....76....*****************.***********..**********..*********.*********....***.**.*******....*******44.....4.788999***********.**.***************.**987....5457899*******..**********
+Lobtra1|Lobtra1_308289                            -.....------IFNTLS....AN...SSLRLSVFNSIVDLAVAS.DDMDLVLPQLQ..YVSSWVSEWG..VNIQAERDL.LLTLSDRLK....KTG.NP.YQSNEFL....LKYLNTFNS..QTAE-LDSQKDHAKRAIVESIA.LP.EVLNFENLLKVDAIQ.HIK--....S..EKAYELLSVFM..NGNVQDYRAL
+#=GR Lobtra1|Lobtra1_308289                    PP ............8*****....**...******************.***********..**********..*********.*********....***.**.*******....*******98..6666.99***************.**.***************.**9......8..9**********..**********
+Rcas|Rcas_21479                                   K.....LKVLQNLYNTLE....YS...SPLRYDVFVGILDIATKN.DEIETILPQLP..RLDTWVKEWS..ISTEQVREL.YLTVSNKLK....EAG.EI.KRSHDFL....LKYLATYTS..SDDL--SAAKSAASRAIIEAIQ.LP.EILSFEDLLELDAIQ.TLK--....N..DEVFELLKVFL..NGNLKEYKSY
+#=GR Rcas|Rcas_21479                           PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******87..5555..89999***********.**.***************.***......8..9**********..**********
+Mucci2|Mucci2_155721                              K.....QKILLNLYNALP....GN...SPLRYNAFVGLVEATAQA.DELESLYPQLE..YIDAWTKQWG..IDQQTQRNL.YDYLSQVLL....KAG.EE.KLALDFS....LKKLAILDE..---N-DAEAAALAKDVVLRAVS.ME.NYYAFEDLLQYNAIQ.KLK--....G..TEEFELLDVFL..NGTLSTYQTF
+#=GR Mucci2|Mucci2_155721                      PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....******954.....4.899**************.**.***************.***......9..9**********..**********
+Gros|Gros_207                                     K.....FKVLQNLYNTLE....YS...SPLRYDVFVAILDIATKN.DEIETILPQLP..RLDTWVKEWS..ISTEQVREL.YLTVSNKLK....EAG.EI.KRSHDFL....LKYLATYTS..SDD--LSVAKSAASRAVIEAIQ.LP.EILSFEDLLELDTIQ.ALK--....N..EEVFELLKVFL..SGNLKEYKQF
+#=GR Gros|Gros_207                             PP *.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******87..555..589**************.**.***************.***......9..9**********..**********
+Conth1|Conth1_305032                              K.....LAMLEILYNSIE....KN...NTLRCTAFEGIIKLSAKH.KIVKSLTPSLS..SIKTWVHQWG..IDATRSRAF.YLLLSNTLK....DFD.YR.KEAFEFL....LCYLYTFET..ETEV-TEEILKIGELGIVEALQ.IP.EVLNFESLLLSQPIK.KLN--....G..SPLYQLAEIFL..SKDVASYKEF
+#=GR Conth1|Conth1_305032                      PP 9.....************....**...******************.***********..**********..*********.*********....***.**.*******....*******88..7777.99999999999******.**.***************.**9......9..9**********..**********
+#=GC PP_cons                                      9.....************....99...******************.***********..**********..*********.*********....999.99.*******....*****9976..767778999999**********.**.***************.99988....8..99*********..**********
+#=GC RF                                           x.....xxxxxxxxxxxx....xx...xxxxxxxxxxxxxxxxxx.xxxxxxxxxxx..xxxxxxxxxx..xxxxxxxxx.xxxxxxxxx....xxx.xx.xxxxxxx....xxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxx.xx.xxxxxxxxxxxxxxx.xxxxx....x..xxxxxxxxxxx..xxxxxxxxxx
+
+Amor|Amor_20373                                   .VE..GK...PGVIEKL....G....................LS........NED..........NIRKIRLLTLASLAS....EHV..SREITYQMIATSLEIEE.....D.......EVEMWTIDVIRANLIEAKVNQVRKTILVNRSTY.....RTFTMEQWQQLSDKLEGWRQSLTDILQVI--------------
+#=GR Amor|Amor_20373                           PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....***************************98..............
+Spom|SPAC1751.03.1                                .VA..EN...HAHCQHQ....K....................FD........EDA..........IARKMKLLTIASLAT....QAP..NNTLSYGDVAKSLKIDE.....N.......EVELWIIDVIRAGLVEGRMSQLTKTLSIHRSSY.....RVFGKHEWVALHEKLAKWGSSLRYMLQVMEQPLSSFTIASSKK
+#=GR Spom|SPAC1751.03.1                        PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*******************************999998887776
+Rambr1|Rambr1_138363                              .VA..TN...PTVFSELgltsQ....................SD........EEN..........ALAKIRMLSLASLATagdaTAV..RAPLQYSSIASALQVEE.....S.......DVEMWVIEAIAAGVIQARIDQLSHTVNISRATI.....RTFTAGHWDNIGERLNAWKKSLSELLSVLDNAKSTAHIG----
+#=GR Rambr1|Rambr1_138363                      PP .**..**...******733334....................57........999..........*************985654555..889**************.....*.......*********************************.....*********************************986544....
+Umbra1|Umbra1_247879                              .AG..QH...QDLLAS-....-....................FD........VES..........NITKMRLLSLASLGS....ENL..SRELTYGEIAAALEISE.....S.......EVEMWVIDVIRAGLVEAKLDQLNKTVIVYRSIY.....RVFGKEQWQQLDSKLNSWKNSLTDILAVIGNAKLIAGNAMQNG
+#=GR Umbra1|Umbra1_247879                      PP .**..**...*****7..........................99........***..........***************....***..*****************.....*.......*********************************.....*********************************9998887765
+Morel1|Morel1_35275                               .VA..KN...GGLLKEL....G....................LE........EEE..........TLRKIRLLSLASLGS....ENL..TRELSYQEIAKALEVEE.....S.......DVELWVIDVIRAGLVEAKLNQVSKLVIISRSIY.....RTFGNAQWQQLSQRLNGWKQSLADILQVIANAKLTTGAAV---
+#=GR Morel1|Morel1_35275                       PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....********************************98877765...
+Ccin|CC1G_01436                                   .EA..SH...PGSLEKH....G....................LD........RAV..........LEHKIRLLTLASLAV....QHV..GQHLPYAKIAEGLEVDV.....S.......EVEKWVIDVIRAGLVWGKLSQNTQNLHVTRATS.....RSFEKEQWATLEKRLQAWKSGLTGVLEVVSNAKRMGGH-----
+#=GR Ccin|CC1G_01436                           PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....********************************976554.....
+Pocc|Pocc_6263                                    .IG..KN...PGIIEKY....G....................LS........NEE..........NIQKIRLLTLASLAS....EHV..SRHVSYSTIANSLEINE.....D.......EVEMWTIDVIRANLIEAKINQVTKTILVNRSTY.....RTFT---------------------------------------
+#=GR Pocc|Pocc_6263                            PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....**96.......................................
+Absrep1|Absrep1_380202                            .VS..KH...GGLIAD-....-....................--........QEA..........GLRKIRLLSLASLGS....ENL..ARELTYGEISKALDINE.....D.......QVEMWVIDVIRAGLVEAKLDQLNKTVIVHRSIY.....RVFGKEQWQQLSVRLNTWKDSLNDILAVIGNAKLIAGGALQG-
+#=GR Absrep1|Absrep1_380202                    PP .**..**...*****6....................................89*..........***************....***..*****************.....*.......*********************************.....********************************9887776554.
+Ncra|NCU02813                                     .RD..EH...QGWIENE....K....................LD........HEK..........LQRKMRLLTFASLAA....STP..NREIPYASIAKALQIPD.....E.......DVEMWTIDVIRSKLVEGRLSQKQKVFLVHRTTY.....RVFGEKQWRELGTRVDQFKTVVDRLVGVVRKAQTDVEAQRERE
+#=GR Ncra|NCU02813                             PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*******************************************
+Gloin1|Gloin1_347408                              .VD..KN...PDDVEKF....G....................LS........IED..........NTRKIRLLTLASLAS....ENV..SREISYETIAKALEIEE.....S.......EVEMWTIDVIRANLIEAKINQVKKTILVNRSTY.....RTFTMEQWKQLSAKLEGWKKSLVDILQVIANAKLIAQHSNLNV
+#=GR Gloin1|Gloin1_347408                      PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*********************************8887776554
+Conco1|Conco1_16070                               .ID..SN...ANLAQEI....G....................LN........KEN..........DLHKLRLLTLTNLGT....ERL..SVPIPYSEIAAKLQIEA.....S.......EVEMWVIDVIRYGLIEAKINQHDETVTISRATH.....RSFTKDNWENLDQALTNWKDSLHQVIQILKTSSNQFQQQAAAI
+#=GR Conco1|Conco1_16070                       PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*************************************997764
+Lichy1|Lichy1_160822                              .AA..AN...ADLMKR-....-....................LD........ADS..........NVRKIRLLALASLGC....ENL..TRELSYAEIAKNLDISE.....D.......EVEMWVIDVIRAGLVEAKLDQLNKTVIVHRSVH.....RVFGKEQWQQLSQRLNTWKESLNEIMAVVGNAKLIAGGALQGG
+#=GR Lichy1|Lichy1_160822                      PP .**..**...*99997..........................**........***..........***************....***..*****************.....*.......*********************************.....*********************************9998887776
+Batde5|Batde5_32890                               .VT..KN...PKFVREQ....G....................LS........QDA..........NIRKMRILSLATLAT....EHL..QGEVSYSTISKALDVSE.....D.......DVEFWVIDAIRAGLVDAKINQLKQTILVSRATQ.....RVFGVPQWKLLQSRMLLWKNNLGECLQVIEKSKPQLTEA----
+#=GR Batde5|Batde5_32890                       PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....********************************9887665....
+Blatri1|Blatri1_379971                            .EK..AN...PSLIDH-....-....................--........SEN..........NTHKMRLLSLASLGS....ENL..SRELTYAEIANSLQIPV.....E.......EVEMWVIDVIRAGLVEAKLDQLNKTVIVHRSIY.....RVFGKEQWKKLSTSLSAWKENLNEILAVIGNAKLIAGGAL---
+#=GR Blatri1|Blatri1_379971                    PP .**..**...*****8....................................799..........***************....***..*****************.....*.......*********************************.....********************************98777664...
+Scal|Scal_6797                                    .ID..TN...PGVVEKL....G....................LS........NED..........NTRKIRLLTLASLAS....EHV..AHEITYQTIAKALEIEE.....E.......EVEMWTIDVIRAHLIEAKVNQVRKTILVNRSTY.....RTFTTNQWQQLSDKLDGWKQSLADILQVIANAKL---------
+#=GR Scal|Scal_6797                            PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*******************************985.........
+Amac|AMAG_05109T0                                 .EK..DL...ATLASKA....A....................IKalpapaalQAS..........ALAKVRQLYLTTLPL....GTP..---VPLATLAKDMGVQD.....A......rDVEAVAISAVANGVIEGKLDGIQKTLTLTSAFK.....PHFTVADWERLLADLHAWKAGLVRVHKAIDA------------
+#=GR Amac|AMAG_05109T0                         PP .99..89...9999997....6....................4444444444677..........789**********99....777.....************98.....7......79********************************.....**************************99976............
+Catan1|Catan1_63845                               iHK..QM...PALIAKA....G....................IK........AKSlpaapamvasTQDKLRMLYLTTLPV....---..GKTHLLADIAAALELPA.....P......rNVEIVFISAVSRGLVQGKINGLEGTVVLTSAVK.....PHLEEGDWEALLADLQAWKAGLAKVAESIHQLRDDDEDDDDVD
+#=GR Catan1|Catan1_63845                       PP 566..77...9*****9....9....................88........6666677777777*************76.........78899************.....8......68********************************.....*********************************9988876665
+Hesve2finisherSC|Hesve2finisherSC_1331019         .AL..--...DGLVDK-....-....................--........-EV..........GLRKIRLLSLASLGS....ENL..ARELTYSQISQALMIPE.....D.......EVEMWVIDVIRAGLVEAKLDQLNKTVIVHRSIY.....RVFGKEQWQQLSSRLNAWKDSLKDILQVIGNAKMISATHG---
+#=GR Hesve2finisherSC|Hesve2finisherSC_1331019 PP .55.......777775.....................................89..........9**************....***..*****************.....*.......*********************************.....********************************97766664...
+Artol1|Artol1_3506                                .KE..ER...EGWLEEN....G....................ID........DAV..........ATRKMRLLTLTALAA....SAQ..DRSLPYSRIVAGLHIPA.....E.......DVELWVIDVIRAGLVEGKLSQLTQNFLIHRVSY.....RTFNKEQWEEVQQRLETWKDSLRSILEVVGQARRQVENQSEKE
+#=GR Artol1|Artol1_3506                        PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*******************************************
+Marpt1|Marpt1_52073                               .AQ..DK...AAVLASL....G....................VD........AEK..........ASDKVRLLTVASLAA....ESL..GQDVPFAAVAQAIEVDE.....D.......EVEVWIIDVIRAGLIQGKMNQVTRTVLPTRSTY.....RTFGEDQWKLLASRLDMWKESLEKLQPVIANAKLVAQQQAMQM
+#=GR Marpt1|Marpt1_52073                       PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*********************************9999998775
+Pgra|PGTG_14943                                   .LT..SNsnlKSALSED....-....................-T........KSW..........VQRKARLLTLTDLCG....NRV..GGEVKYSEVKECLGLAV.....SieeddgmEVEEWVINAIKANLIAARLHQPSHVIYVTKASH.....RSFGTPQWANLETKLKGWGNSIEHLIRVVEQGLSSVESSSNLK
+#=GR Pgra|PGTG_14943                           PP .66..662244444443..........................3........778..........***************....***..***********888777.....554556778********************************.....*********************************9999887655
+Ylip|YALI0C21890g                                 .AA.gDA...KSLIEEN....D....................FD........AES..........LLAKTRVIALANLAA....ESP..--EIEYSIIAKNLDVSL.....D.......TVELWVIDTIRAGLVEGRLSQTKQSFAVHRAQK....sGPIAKADWEVISQKLDVWKKSINDVLHVVKQARENANAQKRK-
+#=GR Ylip|YALI0C21890g                         PP .66.266...9******....*....................**........***..........***************....*88....***************.....*.......********************************9....7889***********************************9876.
+Spun|SPPG_02339T0                                 .VK..AN...PGFIDEH....G....................LS........EED..........NLTKMRLLSMASLAA....ANV..QGEVAYDTIAQTLDVPE.....D.......EVEIWVINVIRAGLMDAKMNQLKRTVVVGRSVH.....RVFSETEWQQLNDKLNAWKANLKDVLQVISNAKLIAGSQGA--
+#=GR Spun|SPPG_02339T0                         PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*********************************98888754..
+Fmos|Fmos_45907                                   .VA..VN...PGAVEKF....G....................LS........NED..........NIRKIRLLTLASLAS....ENV..SREISYETIAKALEIQE.....S.......EVEMWTIDVIRANLIEAKINQVKKKILVNRSTY.....RTFTTAQWQQLSSKLDSWKQSLTDILQVIANAKLIAQPSNLNS
+#=GR Fmos|Fmos_45907                           PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*********************************8888776665
+Coere1|Coere1_83851                               .SK..EN...HEDLTAL....G....................VD........LER..........AGDKMRLLTLASLAA....ERV..GQPIEYTEIAKAIDVEE.....D.......DVELWVIDVVRSGLVQGKMHQGSRTLVPSRSTF.....RHFGTPQWQHLAQRLDEWRVALDSLLPVVRNAREIAQQQANNS
+#=GR Coere1|Coere1_83851                       PP .99..99...999999*....*....................**........***..........***************....***..*****************.....*.......*********************************.....***********************************99998775
+Ccla|Ccla_11261                                   .--..--...-------....-....................--........---..........---------------....---..---------------EE.....S.......EVEMWIIDVIRANLMEARINQLHKAIFINRSTY.....RTFTTAEWEKLSNKLEGWKQSLADILQVIANAKLIRQNSNSNA
+#=GR Ccla|Ccla_11261                           PP ........................................................................................................57.....8.......*********************************.....*********************************8777665554
+Ganpr1|Ganpr1_95389                               .SK..DH...SSELGQY....K....................LS........DDD..........NIRKMRILTLITVTG....RHV..PGKVDYKTIAKALEINE.....S.......EVEVWVIDAIRLNLLDAKMDQLTKSVQVRRTTY.....REFKLQQWKALSLHLEIWRKNLGDVATVLQQAKQM--------
+#=GR Ganpr1|Ganpr1_95389                       PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....********************************975........
+Umay|um01355                                      .AS..SH...SSEFQRL....N....................LS........HDD..........LLHKIRLLDLADLCA....LRV..SADVSYASIAKTLNIEH.....D.......QVELWVIDVIRAGLVSGKLSQVNDAFRVYKSTH.....RQFGKEQWQSLEQRLVQWQNSISSIIESIAATRG---------
+#=GR Umay|um01355                              PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*****************************99875.........
+Rall|O9G_005315                                   .SSvfAN...HTLLNQ-....-....................-Q........AGF..........LKQKISLMALIECAF....KRQgqGRSIPFAVISQETKIPE.....N.......EIEFLVMKALSLNIIKGSIDQVNQVVNINWVQP.....RVLNREQIGSVKNSISQWRERISEIVALAETETKE--------
+#=GR Rall|O9G_005315                           PP .332223...333333...........................2........455..........***************....9987899***************.....*.......*********************************.....*************************9998888765........
+Dver|Dver_1610                                    .--..-N...ASTLPP-....-....................LE........QNQ..........L-NKLKYLSIVSLSE....E--..TRTIPYDILLEYLDIPN.....V......rELEDLIIEAIYQDVIKGKLDQKRKQIEIEYTMG.....RDLRPGQIDQMLQVLGAWSQTSEEILAVIDAKIIQVRDAAIQN
+#=GR Dver|Dver_1610                            PP ......4...566665..........................55........555..........5.6**********99....7....88**************9.....7......69********************************.....******************************9987766665554
+Pfor|Pfor_21429                                   .TS..TY...KDIIQDP....S....................FD........QDV..........SLHKIRLLTVASLGA....ENL..GASISYATFGEALKLDS.....Smge.iesQVELFVIDVIRAGLIEAKLNQLDGSVVITRSTH.....RSFDKTQWIKLLSEFSSWKESLEFVAQTVENSIAS--------
+#=GR Pfor|Pfor_21429                           PP .**..**...*******....*....................**........***..........***************....***..*****************.....6555.5558********************************.....******************************98765........
+Cneo|CNA04920                                     .TA..EN...VSLIEGAg.ipG....................FT........SET..........VLRKLRLIALVALCT....KSE..TRQLEYAPIAKALAIEE.....S.......EVETWVIDAVRSKLIVARISQPQSLIRIHSISSitassRRFGPSEWQLLEKRLEQWKKSVNEARQVVEEAETVAQQGLGQQ
+#=GR Cneo|CNA04920                             PP .99..**...******95.556....................88........***..........***************....***..*****************.....*.......******************************99999999********************************98877774443
+Hpol|HPOL_002702-RA                               .VA..KN...PHLIEEQ....EcalyllltfltrivavefkgMS........HED..........NVSKMRILTLASLGS....ANI..QGDIDYESIASALDIDQ.....D.......DVELWVIEAIRAGLIDAKINQLHRTITVSRATQ.....RVFGQSQWEQLRERLSGWSSSVKECLRVIENAKQQTPQTAAVA
+#=GR Hpol|HPOL_002702-RA                       PP .**..**...******6....666666666666666666666**........***..........***************....***..*****************.....*.......*********************************.....*********************************9988776554
+Mbre|Monbr1_30737                                 .-G..AT...AAIFQQH....G....................FD........EAQ..........ANRRVRLMVLANKCA....DRS..--EVSLADIAEAIHIEE.....A.......EAEDWVIEVVRAGLMDAKIDEMAGTVVITRAKQ.....TKFDAEDWKQLRDQLQMWHENIARVSSMLGRV-----------
+#=GR Mbre|Monbr1_30737                         PP ..6..78...9******....*....................**........***..........***************....*88....***************.....*.......*********************************.....*************************9988765...........
+Linpe1|Linpe1_268155                              .VE..AN...KAQLEAL....G....................VD........IEK..........ASDKMRLLTVASIAA....DNL..GQDVPFSTVAEAIEVDA.....D.......EVEVWIIDVIRAGLIQGKMNQVTSTVLPTRSTY.....RKFGQEQWAVLAERLAQWKASLEKLQPVISNAKLLAQQQAVQM
+#=GR Linpe1|Linpe1_268155                      PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*********************************9988887665
+Lobtra1|Lobtra1_308289                            .TA..KY...SGLVQEL....E....................LN........EEE..........ALRKIRLLSLASLGS....ENL..SRELSYHEIAKALEVDE.....A.......EVELWVIDVIRAGLVEAKLNQVSRVVVISRSIY.....RTFGQPQWQQLSQRLNGWKQSLQEILQVIANAKLTSAAV----
+#=GR Lobtra1|Lobtra1_308289                    PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....********************************9877665....
+Rcas|Rcas_21479                                   .VD..TN...PGVVEKL....G....................LS........NED..........NTRKIRLLTLASLAS....EHV..AREITYQTIAKALEIEE.....D.......EVEMWTIDVIRAHLIEAKVNQVRKTILVNRSTY.....RTFTTSQWQQLSDKLDGWKQSLTDILQVIANAKLIAQHSNVNA
+#=GR Rcas|Rcas_21479                           PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*********************************8877766554
+Mucci2|Mucci2_155721                              .AT..AH...TSLIKD-....-....................--........ADK..........NIHKMRLLSLASLGS....ENL..SRELTYAEIANNLQIPE.....D.......EVEMWVIDVIRAGLVEAKLDQLNKTVIVHRSIY.....RVFGKEQWKKLSTSLSAWKDNLNEILAVVANAKLIAGGALQGG
+#=GR Mucci2|Mucci2_155721                      PP .**..**...*****5....................................9**..........***************....***..*****************.....*.......*********************************.....*********************************9888776665
+Gros|Gros_207                                     .VD..TN...PGAVEKL....G....................LS........NED..........NTRKIRLLTLASLAS....EHV..ASEITYQTIAKALEIEE.....E.......EVEMWTIDVIRAHLIEAKVNQVRKTILVNRSTY.....RTFTMNQWQQLSDKLDGWKQSLADILQVIANAKLIAQHSNVNA
+#=GR Gros|Gros_207                             PP .**..**...*******....*....................**........***..........***************....***..*****************.....*.......*********************************.....*********************************8877776554
+Conth1|Conth1_305032                              .IS..NH...QDLVSTH....Q....................LD........QDS..........LLNKIRVLTVASLGT....QHL..GQPIAYSKLADCMFIEKlegyeT.......EIEIYIIDVIRAGLIEAKLNQLEASVTITRSTY.....RQFEQDHWNKLLLELSNWKVSLEHVIKTVNNATSNINSTLNQR
+#=GR Conth1|Conth1_305032                      PP .**..**...*******....*....................**........***..........***************....***..***************99655555.......8********************************.....**********************************998886554
+#=GC PP_cons                                      .99..99...9999999....9....................99........999..........***************....***..*****************.....9.......*********************************.....*******************************998888776665
+#=GC RF                                           .xx..xx...xxxxxxx....x....................xx........xxx..........xxxxxxxxxxxxxxx....xxx..xxxxxxxxxxxxxxxxx.....x.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Amor|Amor_20373                                   --------..........------
+#=GR Amor|Amor_20373                           PP ........................
+Spom|SPAC1751.03.1                                GNR-----..........------
+#=GR Spom|SPAC1751.03.1                        PP 554.....................
+Rambr1|Rambr1_138363                              --------..........------
+#=GR Rambr1|Rambr1_138363                      PP ........................
+Umbra1|Umbra1_247879                              G-------..........------
+#=GR Umbra1|Umbra1_247879                      PP 4.......................
+Morel1|Morel1_35275                               --------..........------
+#=GR Morel1|Morel1_35275                       PP ........................
+Ccin|CC1G_01436                                   --------..........------
+#=GR Ccin|CC1G_01436                           PP ........................
+Pocc|Pocc_6263                                    --------..........------
+#=GR Pocc|Pocc_6263                            PP ........................
+Absrep1|Absrep1_380202                            --------..........------
+#=GR Absrep1|Absrep1_380202                    PP ........................
+Ncra|NCU02813                                     QQELERKLanaglgeseqR-----
+#=GR Ncra|NCU02813                             PP ******9966666655550.....
+Gloin1|Gloin1_347408                              NNA-----..........------
+#=GR Gloin1|Gloin1_347408                      PP 444.....................
+Conco1|Conco1_16070                               KES-----..........------
+#=GR Conco1|Conco1_16070                       PP 333.....................
+Lichy1|Lichy1_160822                              AAAV----..........------
+#=GR Lichy1|Lichy1_160822                      PP 6555....................
+Batde5|Batde5_32890                               --------..........------
+#=GR Batde5|Batde5_32890                       PP ........................
+Blatri1|Blatri1_379971                            --------..........------
+#=GR Blatri1|Blatri1_379971                    PP ........................
+Scal|Scal_6797                                    --------..........------
+#=GR Scal|Scal_6797                            PP ........................
+Amac|AMAG_05109T0                                 --------..........------
+#=GR Amac|AMAG_05109T0                         PP ........................
+Catan1|Catan1_63845                               ESDLDESE..........------
+#=GR Catan1|Catan1_63845                       PP 55554443................
+Hesve2finisherSC|Hesve2finisherSC_1331019         --------..........------
+#=GR Hesve2finisherSC|Hesve2finisherSC_1331019 PP ........................
+Artol1|Artol1_3506                                KTAAERVL..........QQ----
+#=GR Artol1|Artol1_3506                        PP 99999877..........55....
+Marpt1|Marpt1_52073                               AGQ-----..........------
+#=GR Marpt1|Marpt1_52073                       PP 443.....................
+Pgra|PGTG_14943                                   G-------..........------
+#=GR Pgra|PGTG_14943                           PP 4.......................
+Ylip|YALI0C21890g                                 --------..........------
+#=GR Ylip|YALI0C21890g                         PP ........................
+Spun|SPPG_02339T0                                 --------..........------
+#=GR Spun|SPPG_02339T0                         PP ........................
+Fmos|Fmos_45907                                   NNAA----..........------
+#=GR Fmos|Fmos_45907                           PP 5444....................
+Coere1|Coere1_83851                               SG------..........------
+#=GR Coere1|Coere1_83851                       PP 43......................
+Ccla|Ccla_11261                                   --------..........------
+#=GR Ccla|Ccla_11261                           PP ........................
+Ganpr1|Ganpr1_95389                               --------..........------
+#=GR Ganpr1|Ganpr1_95389                       PP ........................
+Umay|um01355                                      --------..........------
+#=GR Umay|um01355                              PP ........................
+Rall|O9G_005315                                   --------..........------
+#=GR Rall|O9G_005315                           PP ........................
+Dver|Dver_1610                                    KKQKEEY-..........------
+#=GR Dver|Dver_1610                            PP 4433332.................
+Pfor|Pfor_21429                                   --------..........------
+#=GR Pfor|Pfor_21429                           PP ........................
+Cneo|CNA04920                                     RRGGKRRE..........EK----
+#=GR Cneo|CNA04920                             PP 22222222..........11....
+Hpol|HPOL_002702-RA                               A-------..........------
+#=GR Hpol|HPOL_002702-RA                       PP 4.......................
+Mbre|Monbr1_30737                                 --------..........------
+#=GR Mbre|Monbr1_30737                         PP ........................
+Linpe1|Linpe1_268155                              AGQ-----..........------
+#=GR Linpe1|Linpe1_268155                      PP 443.....................
+Lobtra1|Lobtra1_308289                            --------..........------
+#=GR Lobtra1|Lobtra1_308289                    PP ........................
+Rcas|Rcas_21479                                   N-------..........------
+#=GR Rcas|Rcas_21479                           PP 3.......................
+Mucci2|Mucci2_155721                              A-------..........------
+#=GR Mucci2|Mucci2_155721                      PP 5.......................
+Gros|Gros_207                                     N-------..........------
+#=GR Gros|Gros_207                             PP 3.......................
+Conth1|Conth1_305032                              --------..........------
+#=GR Conth1|Conth1_305032                      PP ........................
+#=GC PP_cons                                      55555555..........23....
+#=GC RF                                           xxxxxxxx..........xxxxxx
+//
