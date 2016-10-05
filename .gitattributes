@@ -1,0 +1,2 @@
+*.log.bz2 filter=lfs diff=lfs merge=lfs -text
+*.domtbl.gz filter=lfs diff=lfs merge=lfs -text
