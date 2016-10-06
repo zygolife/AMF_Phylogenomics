@@ -1,6 +1,8 @@
 [submodule "1kfg-phylogenomics-tools"]
 	path = 1kfg-phylogenomics-tools
 	url = git@github.com:1KFG/Phylogenomics.git
+	ignore = dirty
 [submodule "Phylogenomics_HMMs"]
 	path = Phylogenomics_HMMs
 	url = git@github.com:1KFG/Phylogenomics_HMMs.git
+	ignore = dirty
