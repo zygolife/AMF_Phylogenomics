@@ -1,0 +1,47 @@
+
+
+WARNING: RAxML is not checking sequences for duplicate seqs and sites with missing data!
+
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+RAxML Bipartition Computation: Drawing support values from trees in file RAxML_rellBootstrap.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp onto tree in file RAxML_bestTree.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp
+
+
+RAxML was called as follows:
+
+raxmlHPC-AVX -f b -m PROTGAMMALG -t RAxML_bestTree.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp -z RAxML_rellBootstrap.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp -n AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp_BS 
+
+
+
+
+Found 1 tree in File RAxML_bestTree.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp
+
+
+
+Found 1000 trees in File RAxML_rellBootstrap.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp
+
+
+
+Found 1 tree in File RAxML_bestTree.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp
+
+
+
+Time for Computation of Bipartitions 0.050673
+Tree with bipartitions written to file:  /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/phylo/RAxML_bipartitions.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp_BS
+Tree with bipartitions as branch labels written to file:  /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/phylo/RAxML_bipartitionsBranchLabels.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp_BS
+Execution information file written to :  /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/phylo/RAxML_info.AMFPlus_RELL.AMF.2016_Oct_05.JGI1086.41sp_BS
