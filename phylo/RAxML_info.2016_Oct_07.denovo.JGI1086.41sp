@@ -1,0 +1,96 @@
+
+
+This is RAxML version 8.2.8 released by Alexandros Stamatakis on March 23 2016.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 132790 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 17.62%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 132790
+Name: No Name Provided
+DataType: AA
+Substitution Matrix: AUTO
+Using fixed base frequencies
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS-AVX -T 32 -f D -p 771 -o Mbre -m PROTGAMMAAUTO -s 2016_Oct_07.denovo.JGI1086.41sp.fasaln -n 2016_Oct_07.denovo.JGI1086.41sp 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.087 0.044 0.039 0.057 0.019 0.037 0.058 0.083 0.024 0.048 0.086 0.062 0.020 0.038 0.046 0.070 0.061 0.014 0.035 0.071 
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -5890323.333718 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -5889374.461194 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -5889374.182152 with empirical base frequencies
+
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -5888793.938290 with empirical base frequencies
+
+
+Inference[0]: Time 3827.752317 GAMMA-based likelihood -5888793.934670, best rearrangement setting 5
+alpha[0]: 0.870098 
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+Automatic protein model assignment algorithm using ML criterion:
+
+	Partition: 0 best-scoring AA model: LG likelihood -5888793.935056 with empirical base frequencies
+
+
+Inference[0] final GAMMA-based Likelihood: -5888793.934665 tree written to file /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/phylo/RAxML_result.2016_Oct_07.denovo.JGI1086.41sp
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -5888793.934665 .... 
+
+Final GAMMA-based Score of best tree -5888793.934665
+
+
+RELL bootstraps written to file /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/phylo/RAxML_rellBootstrap.2016_Oct_07.denovo.JGI1086.41sp
+Program execution info written to /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/phylo/RAxML_info.2016_Oct_07.denovo.JGI1086.41sp
+Best-scoring ML tree written to: /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/phylo/RAxML_bestTree.2016_Oct_07.denovo.JGI1086.41sp
+
+Overall execution time: 5084.945147 secs or 1.412485 hours or 0.058854 days
+
