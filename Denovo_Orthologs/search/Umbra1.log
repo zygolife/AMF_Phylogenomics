@@ -1,0 +1,1459 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  Glomeromycotina.hmm
+# target sequence database:        outgroup/Umbelopsis_ramanniana_NRRL_5844.Umbra1.v1.aa.fasta
+# per-dom hits tabular output:     search/Umbra1.domtbl
+# sequence reporting threshold:    E-value <= 1e-40
+# number of worker threads:        4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ORTHOMCL1342  [M=444]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   1.1e-218  725.2   0.0   1.3e-218  724.9   0.0    1.0  1  Umbra1|Umbra1_221441  fgenesh1_kg.4_#_44_#_combest_scaffold_4
+   1.8e-125  417.9   0.1   1.5e-124  414.9   0.1    2.0  1  Umbra1|Umbra1_238087  fgenesh1_kg.22_#_551_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_221441  fgenesh1_kg.4_#_44_#_combest_scaffold_4_83983
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  724.9   0.0  2.6e-222  1.3e-218       9     425 ..      11     424 ..       3     435 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 724.9 bits;  conditional E-value: 2.6e-222
+          ORTHOMCL1342   9 llarsllkvllkvlaakrglatvtdqsfakvappsapyalsvsskpapaalklksgevfhgtsfgaqtsvsgeavfttslvgypesmtd 97 
+                            l  sl+    ++l a rg+a v+d +++++a+p+ p a    +  +pa+l+l+sg+vf+gtsfga++sv geavftts+vgypesmtd
+  Umbra1|Umbra1_221441  11 ALRPSLFPKNTHSLLAIRGFAVVKDSPVSQQAKPTQPSA----NATVPASLRLQSGQVFQGTSFGAEKSVFGEAVFTTSVVGYPESMTD 95 
+                           55555555667788899********************99....7889****************************************** PP
+
+          ORTHOMCL1342  98 psyrgqilvftqplignygvpglfkdkygllkyfesdriqvegivvndyatryshwtaveslgewcarhgvpaisgvdtraivhllrdq 186
+                           psy gqilvftqplignygvpg  +d++gll+yfesdriqv+gi+vndya++yshwtaveslg+wc+r+gvpai+gvdtra+vhllrdq
+  Umbra1|Umbra1_221441  96 PSYTGQILVFTQPLIGNYGVPGETRDEFGLLRYFESDRIQVQGIIVNDYAAQYSHWTAVESLGQWCQRFGVPAITGVDTRALVHLLRDQ 184
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1342 187 gstlaklvvgddaa.nedfdkieysdpnkrnlvaevstkvpvsynpfGdikiavidcGvkknilrslvkrGaavtvlpydfdfnkiadq 274
+                           gstl+k+ vg+da+ ++  +++++ dpn+ nlva vstkvp+ yn  Gd+kiavidcGvk+nilr+l  rGaavtvlp+d+dfnk+ dq
+  Umbra1|Umbra1_221441 185 GSTLSKIAVGNDAVvDHSAENVSFPDPNQENLVARVSTKVPLHYNQSGDVKIAVIDCGVKQNILRCLAARGAAVTVLPWDYDFNKVKDQ 273
+                           ************972567899******************************************************************** PP
+
+          ORTHOMCL1342 275 fdGlfisnGpGnpkkvvetvknlrkaletykrpifGicmGnlllGlaaGldvyklrfGnrghnvpalnvkdgkcaitsqnhGyaldddv 363
+                           +dGlfisnGpG p+  +etv+nl+ a++t+++pifGicmGnlllG+aaGl+ ykl fGnrghn pa+ v +g+c+itsqnhGyaldd v
+  Umbra1|Umbra1_221441 274 YDGLFISNGPGSPSLLTETVNNLKVAIDTWNKPIFGICMGNLLLGMAAGLQPYKLPFGNRGHNQPAICVDNGRCHITSQNHGYALDDRV 362
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1342 364 lpkgwkkyfvnandgsneGirhksrpvrsvqfhpeakggpqdteflfdefldkvraeklkre 425
+                           +p+gwk++fvnandgsneGirh +rp+ s qfhpeakggpqdte+lf++fl+ vraek k++
+  Umbra1|Umbra1_221441 363 MPQGWKRFFVNANDGSNEGIRHETRPIFSAQFHPEAKGGPQDTEYLFHDFLEAVRAEKRKNT 424
+                           **********************************************************9975 PP
+
+>> Umbra1|Umbra1_238087  fgenesh1_kg.22_#_551_#_combest_scaffold_22_47625
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  414.9   0.1  3.1e-128  1.5e-124      45     418 ..      50     457 ..      18     476 .. 0.84
+
+  Alignments for each domain:
+  == domain 1  score: 414.9 bits;  conditional E-value: 3.1e-128
+          ORTHOMCL1342  45 pyalsvsskpapaalklksgevfhgtsfgaq.tsvsgeavfttslvgypesmtdpsyrgqilvftqplignygvpglfk.dky..gllk 129
+                            ++   ++  + a+l l+ g  ++g sfg++ +s+sge+vf t +vgypes+tdpsyrgqilv+t pl+gnygvp     d+    + k
+  Umbra1|Umbra1_238087  50 AFT-GEEKDLTIATLALQDGSYYQGISFGSEkKSISGEMVFQTGMVGYPESLTDPSYRGQILVITFPLVGNYGVPSREEmDDLlkDIPK 137
+                           222.223344679****************972579****************************************86541332124679 PP
+
+          ORTHOMCL1342 130 yfesdriqvegivvndyatryshwtaveslgewcarhgvpaisgvdtraivhllrdqgstlaklv......vgddaa............ 200
+                           yfes++i++ g++v++ya  ysh+ a  sl+ w +  ++pa+ g+dtra+ + +r qg  l+k+       v d+aa            
+  Umbra1|Umbra1_238087 138 YFESNQIHIAGLIVGNYAKDYSHYLAHSSLATWLKENDIPALYGLDTRALTKKIRTQGVLLSKILfpksssVLDNAAsafgistsddqa 226
+                           **************************************************************985222222222222111111111111 PP
+
+          ORTHOMCL1342 201 ..nedfdkieysdpnkrnlvaevstkvpvsynp..f.......G.dikiavidcGvkknilrslvkrGaavtvlpydfdfn.kiadqfd 276
+                              ++++++e++dpn+rnlvaevs k p  y p          G  ++i  +d G+k+n +r++v+rG+   v+p+d+df+ + +d fd
+  Umbra1|Umbra1_238087 227 swADKLQDVEWVDPNTRNLVAEVSLKEPKLYCPepSkavktasGrTLRILAVDVGMKYNQIRCFVNRGVELKVVPWDYDFTtEPTDTFD 315
+                           1124567899*********************87333111221122356789*****************************73579**** PP
+
+          ORTHOMCL1342 277 GlfisnGpGnpkkvvetvknlrkaletykrpifGicmGnlllGlaaGldvyklrfGnrghnvpalnvkdgkcaitsqnhGyaldddvlp 365
+                           Glf+snGpG+p++v  t+  +r+ l++ k+pifGic+G  ll la+G +  k+++Gnrghn+p  ++ +g+c itsqnhGya+d   l 
+  Umbra1|Umbra1_238087 316 GLFLSNGPGDPTMVEGTIAHIRTMLKEAKKPIFGICLGHQLLALASGAKTLKMKYGNRGHNIPCTDMISGRCYITSQNHGYAVDATTLT 404
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1342 366 kgwkkyfvnandgsneGirhksrpvrsvqfhpeakggpqdteflfdefldkvr 418
+                             ++  fvnandgsneGi hk++p+ svqfhpe+  gp+dteflfd f++  +
+  Umbra1|Umbra1_238087 405 GDFQELFVNANDGSNEGIMHKTLPFFSVQFHPESTPGPRDTEFLFDVFINTTK 457
+                           ************************************************98765 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (444 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       237  (0.0238647); expected 198.6 (0.02)
+Passed bias filter:                      193  (0.0194341); expected 198.6 (0.02)
+Passed Vit filter:                        14  (0.00140973); expected 9.9 (0.001)
+Passed Fwd filter:                         4  (0.000402779); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.27u 0.01s 00:00:00.28 Elapsed: 00:00:00.57
+# Mc/sec: 3159.15
+//
+Query:       ORTHOMCL1382  [M=248]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    2.7e-68  229.1  19.1    3.2e-68  228.9  19.1    1.1  1  Umbra1|Umbra1_249996  fgenesh1_kg.45_#_28_#_combest_scaffold_
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_249996  fgenesh1_kg.45_#_28_#_combest_scaffold_45_94548
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  228.9  19.1   3.3e-72   3.2e-68      14     247 ..       1     218 [.       1     219 [. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 228.9 bits;  conditional E-value: 3.3e-72
+          ORTHOMCL1382  14 mPkkfkGentkvtaakerkaahqaevnkkkqaekerkeaeeWsvGakdsskkeaqklkkeaqlakkneaaklleqeekelskykpvlkl 102
+                           mPkk  G ntkv+aa erkaa+q + +kkk++e e++eae+W+ G+k  skk+a+  kk a  akk          ekel k kp   l
+  Umbra1|Umbra1_249996   1 MPKK-TGVNTKVAAANERKAANQNQKDKKKNEEAEQREAEDWAGGSKGKSKKDADAEKKAAVAAKKA---------EKELGKTKPTKPL 79 
+                           8999.6*****************************************************99999986.........69*******8665 PP
+
+          ORTHOMCL1382 103 tkksGeekkaikrtqkqekasaerrvipefsasniddaldllsvvtssaaggssgvsasaaniekhPekrfkaalaayeerelpklkke 191
+                               Ge+kka k++  + + s+ rrvipefsasn+dda+dlls+    + gg++    +++++ekhPe+rfkaalaay ere+p+lk +
+  Umbra1|Umbra1_249996  80 K---GEDKKAAKKASAVHNDSQARRVIPEFSASNLDDAIDLLSLDG--PGGGTA-GGPKNKEVEKHPERRFKAALAAYTEREMPQLKID 162
+                           5...**************************************7654..555554.4557889*************************** PP
+
+          ORTHOMCL1382 192 nPglrytqlreilyknfqkspenPfnqanvlrynaskkeqeelieatrkdiedrlr 247
+                           +Pglr  q+++++yknfqkspenPfnqan+l yna++++ +e     r  +edrl+
+  Umbra1|Umbra1_249996 163 HPGLRKQQMEQLIYKNFQKSPENPFNQANILDYNATQEDVQESKAHRRAALEDRLK 218
+                           ****************************************999999999*****97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (248 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       632  (0.0636391); expected 198.6 (0.02)
+Passed bias filter:                      162  (0.0163126); expected 198.6 (0.02)
+Passed Vit filter:                        11  (0.00110764); expected 9.9 (0.001)
+Passed Fwd filter:                         2  (0.00020139); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.15u 0.01s 00:00:00.16 Elapsed: 00:00:00.28
+# Mc/sec: 3655.18
+//
+Query:       ORTHOMCL1401  [M=175]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+      6e-76  253.3   9.6    7.1e-76  253.1   9.6    1.0  1  Umbra1|Umbra1_245954  fgenesh1_kg.36_#_293_#_combest_scaffold
+    6.5e-76  253.2   9.1    7.6e-76  253.0   9.1    1.0  1  Umbra1|Umbra1_219153  fgenesh1_kg.2_#_1077_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_245954  fgenesh1_kg.36_#_293_#_combest_scaffold_36_77615
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  253.1   9.6   1.4e-79   7.1e-76      37     175 .]       6     144 ..       3     144 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 253.1 bits;  conditional E-value: 1.4e-79
+          ORTHOMCL1401  37 kskalaakkavlkgvkgkvkkkirtsttfrrPktlrlprePkyvrksiphaprldqykilknplntesamkkiedtntlvfivdvkank 125
+                           k kal+akka+lkg++gk+++k+rt+ttf+ Pktl+l+r Pky rksiphapr+dqy+++++plnte+amkk+ed ntlvf+vdvkank
+  Umbra1|Umbra1_245954   6 KNKALNAKKAALKGTQGKAQRKVRTTTTFHLPKTLKLARVPKYSRKSIPHAPRMDQYRVIRQPLNTETAMKKLEDDNTLVFLVDVKANK 94 
+                           89*************************************************************************************** PP
+
+          ORTHOMCL1401 126 rqikdavkklydvdaqkintlirpnGtkkayvrltadvdaldvankiGfi 175
+                           rqikdavkklydv+a kintlirp+G kkayvrltad daldvankiGfi
+  Umbra1|Umbra1_245954  95 RQIKDAVKKLYDVEAAKINTLIRPDGQKKAYVRLTADADALDVANKIGFI 144
+                           *************************************************8 PP
+
+>> Umbra1|Umbra1_219153  fgenesh1_kg.2_#_1077_#_combest_scaffold_2_39099
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  253.0   9.1   1.5e-79   7.6e-76      38     175 .]       5     142 ..       2     142 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 253.0 bits;  conditional E-value: 1.5e-79
+          ORTHOMCL1401  38 skalaakkavlkgvkgkvkkkirtsttfrrPktlrlprePkyvrksiphaprldqykilknplntesamkkiedtntlvfivdvkankr 126
+                            kal+akka+lkg++gk+++k+rt+ttf+ Pktlrl+r Pky rksiphapr+dqy+++++plnte+amkk+ed ntlvf+vdvkankr
+  Umbra1|Umbra1_219153   5 NKALTAKKAALKGTQGKAQRKVRTTTTFHLPKTLRLARVPKYSRKSIPHAPRMDQYRVIRQPLNTETAMKKLEDDNTLVFLVDVKANKR 93 
+                           79*************************************************************************************** PP
+
+          ORTHOMCL1401 127 qikdavkklydvdaqkintlirpnGtkkayvrltadvdaldvankiGfi 175
+                           qikdavkklydv+a kintlirp+G kkayvrltad daldvankiGfi
+  Umbra1|Umbra1_219153  94 QIKDAVKKLYDVEAAKINTLIRPDGQKKAYVRLTADADALDVANKIGFI 142
+                           ************************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (175 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       719  (0.0723996); expected 198.6 (0.02)
+Passed bias filter:                      247  (0.0248716); expected 198.6 (0.02)
+Passed Vit filter:                        25  (0.00251737); expected 9.9 (0.001)
+Passed Fwd filter:                         2  (0.00020139); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.14u 0.01s 00:00:00.15 Elapsed: 00:00:00.28
+# Mc/sec: 2490.32
+//
+Query:       ORTHOMCL1414  [M=386]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (386 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       257  (0.0258786); expected 198.6 (0.02)
+Passed bias filter:                      204  (0.0205417); expected 198.6 (0.02)
+Passed Vit filter:                        16  (0.00161112); expected 9.9 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.21u 0.00s 00:00:00.21 Elapsed: 00:00:00.40
+# Mc/sec: 3982.38
+//
+Query:       ORTHOMCL1440  [M=525]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   7.4e-290  961.3   1.0   8.8e-290  961.1   1.0    1.0  1  Umbra1|Umbra1_220801  fgenesh1_kg.3_#_956_#_combest_scaffold_
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_220801  fgenesh1_kg.3_#_956_#_combest_scaffold_3_64612
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  961.1   1.0  8.9e-294  8.8e-290       5     519 ..      11     525 ..       7     528 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 961.1 bits;  conditional E-value: 8.9e-294
+          ORTHOMCL1440   5 avtlpdtvtslkvtapnvkytdthiiadyvyknaivskndvgtlevlptetkyqfktelkvpkvglmmvgwggnngstltasivanren 93 
+                           +v ++ +++ +kv apnv+ytd hi+a+y y n++v+k + g+l+v p ++ y+fkt+ ++pk+glmmvgwggnngst+tasi+an++n
+  Umbra1|Umbra1_220801  11 PVGVAPSSSLFKVHAPNVQYTDDHILAEYTYTNTLVTKAEDGSLNVEPKNSVYHFKTDTRIPKLGLMMVGWGGNNGSTVTASILANKNN 99 
+                           5566678899******************************************************************************* PP
+
+          ORTHOMCL1440  94 iswrtkegvkspnyfgsvvqastlklgvdakgndvyipfnkilpmvhpndlvlggwdisslnlaqamerakvldydlqrqvapeleelk 182
+                           iswr+k gv+ pnyfgsv qast+klgvda+gndvyipf+k+lpmv+pndlvlggwdiss nl +amera+vl+ydlqrqv +e+++l+
+  Umbra1|Umbra1_220801 100 ISWRSKRGVHHPNYFGSVTQASTVKLGVDAEGNDVYIPFSKVLPMVEPNDLVLGGWDISSKNLGEAMERAQVLEYDLQRQVRSEMDKLT 188
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 183 plpsiyypdfiaanqsdradnlipgnnkkehlekirkdirefkaanqldkvivvwtanteryaeiipgvndtadnllkavekshseiap 271
+                           plpsiyypdfiaanqsdradnl++gn+k+ hle+irkdir+fkaanqldkviv+wtanteryaeii gvndtadn+l+av+ sh e++p
+  Umbra1|Umbra1_220801 189 PLPSIYYPDFIAANQSDRADNLMAGNDKQAHLEQIRKDIRDFKAANQLDKVIVIWTANTERYAEIIEGVNDTADNILAAVKASHDEVSP 277
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 272 stifalacilektpfingspqntfvpgcielaerervyiggddfksgqtkvksvlvdflvnagikpigitsynhlgnndgknlsapqqf 360
+                           s++falaci+e+ pfingspqntfvpg++elaere+ yiggddfksgqtk ks +vdflvnagikp+gitsynhlgnndgknls+++qf
+  Umbra1|Umbra1_220801 278 SSVFALACIQEHVPFINGSPQNTFVPGVMELAEREQTYIGGDDFKSGQTKFKSAIVDFLVNAGIKPVGITSYNHLGNNDGKNLSSHKQF 366
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 361 rskeisksnvvddmvaanqilykpgehPdhvvvikyvPavgdskraldeyvseifmGGkntislyntcedsllasPlildlaiitelmt 449
+                           rskeisks+vvddmvaan+ily  +ehPdh vvikyvP+vgdskraldey  +ifmGG+ +is+yn+cedslla+Pli+dl+ +telmt
+  Umbra1|Umbra1_220801 367 RSKEISKSTVVDDMVAANKILYAENEHPDHTVVIKYVPCVGDSKRALDEYECDIFMGGRQSISIYNICEDSLLATPLIIDLITVTELMT 455
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 450 rieyrvedmkefapfdavlsilsfllkaPlvPkGtPvvnalskqrmalenlfraciGlaPqnemllehka 519
+                           r+ey+++dm++f+pf +vlsils++lkaPlv +GtPvvnal+kqr+a+en+frac+GlaP n+m+lehk 
+  Umbra1|Umbra1_220801 456 RVEYKTGDMTKFSPFHSVLSILSYMLKAPLVSPGTPVVNALAKQRTAMENIFRACVGLAPTNDMMLEHKV 525
+                           ********************************************************************95 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (525 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       251  (0.0252744); expected 198.6 (0.02)
+Passed bias filter:                      183  (0.0184271); expected 198.6 (0.02)
+Passed Vit filter:                        13  (0.00130903); expected 9.9 (0.001)
+Passed Fwd filter:                         1  (0.000100695); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.24u 0.01s 00:00:00.25 Elapsed: 00:00:00.49
+# Mc/sec: 4421.59
+//
+Query:       ORTHOMCL1444  [M=286]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   6.5e-106  353.0  13.4   7.3e-106  352.8  13.4    1.0  1  Umbra1|Umbra1_261237  fgenesh1_kg.86_#_76_#_combest_scaffold_
+      2e-79  266.0  16.8    2.3e-79  265.9  16.8    1.0  1  Umbra1|Umbra1_232042  fgenesh1_kg.14_#_630_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_261237  fgenesh1_kg.86_#_76_#_combest_scaffold_86_142618
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  352.8  13.4  1.5e-109  7.3e-106       2     285 ..       1     286 [.       1     287 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 352.8 bits;  conditional E-value: 1.5e-109
+          ORTHOMCL1444   2 ssereaqallakadkkattfgwfg.gnkfeeaaelynkaansfklakrwkeagdafskaanmqlqln.erdeaastfinaskcykkssf 88 
+                           +se++aq  + +a+kk   +gwfg gnk+e+aaely+ka n+fklakrw +agd+f kaa++  ++   r ea+  + naskcykks+ 
+  Umbra1|Umbra1_261237   1 MSEQQAQEYIQQAEKKLNGWGWFGgGNKYEDAAELYAKAGNTFKLAKRWIDAGDTFMKAAELHKKVAdSRFEASRDYENASKCYKKSKP 89 
+                           79*********************736************************************998851699****************** PP
+
+          ORTHOMCL1444  89 edaitslkqaieiltdrgrfqaaaghqkdiaqiyesdlvdlekamqayeiaadwyageeatalanncllkvatfaatleqydkaiekfe 177
+                           e a+ +l +ai+i  +   f+ aa h  ++a+iye dlvdl  a++ ++ aa+ y  +++ a++ +c lk+a +aa l qyd+aiekfe
+  Umbra1|Umbra1_261237  90 EAAVGALLEAINIDKEMANFRIAAKHHSEVAEIYENDLVDLPAALDNWDNAAQLYLADDSPAMVSKCTLKAAHLAAVLGQYDNAIEKFE 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1444 178 qvaaasldnqltkwslkdyflkaglchiafgdhigakraierycdldvtfagtrecqflkaileaveagdvesftnrvvefdqltkldn 266
+                            vaaas+dnqltkws+k+yflkaglc+++ gd +  ++a+e+yc++dv+f++tre++fl++ile+ve+++v+ ft++v  fd+ tkldn
+  Umbra1|Umbra1_261237 179 SVAAASVDNQLTKWSVKEYFLKAGLCQLCTGDTVRVQQALEKYCNMDVSFESTREYEFLQDILECVENDEVDLFTQKVYAFDEKTKLDN 267
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1444 267 wkttillrikksiqeepll 285
+                           wkt+ill+ikks+ eep+l
+  Umbra1|Umbra1_261237 268 WKTSILLKIKKSMAEEPSL 286
+                           *****************97 PP
+
+>> Umbra1|Umbra1_232042  fgenesh1_kg.14_#_630_#_combest_scaffold_14_21806
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  265.9  16.8   4.6e-83   2.3e-79       2     283 ..       1     285 [.       1     288 [. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 265.9 bits;  conditional E-value: 4.6e-83
+          ORTHOMCL1444   2 ssereaqallakadkkattfg..wfggnkfeeaaelynkaansfklakrwkeagdafskaanmqlqlne.rdeaastfinaskcykkss 87 
+                           +se++a+a++ +a  k  +++  w  ++ +e aaely+ka nsf+la  w+eagda++ aa++  + +    eaa +f +a+k ykk +
+  Umbra1|Umbra1_232042   1 MSEKQARAFMEQAKEKLGAWSmfWSSSDSLETAAELYIKAGNSFQLASMWQEAGDAYVEAAKLYKRADHaMFEAARSFEKAAKSYKKVN 89 
+                           79***********9997766611567899*********************************9988776257***************** PP
+
+          ORTHOMCL1444  88 fedaitslkqaieiltdrgrfqaaaghqkdiaqiyesdlvdlekamqayeiaadwyageeatalanncllkvatfaatleqydkaiekf 176
+                            +da+t++  a+ +    g ++ aa h  ++aqiy+  l + +ka + y+ aa+ y  +++ +lan c lk+a +aa l qyd+ai kf
+  Umbra1|Umbra1_232042  90 PKDALTAMIAAVALDKANGSYRIAARHLEEVAQIYQDKLDEPQKAYDYYDEAANLYHADNSPTLANRCTLKAAELAAILGQYDHAIIKF 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1444 177 eqvaaasldnqltkwslkdyflkaglchiafgdhigakraierycdldvtfagtrecqflkaileaveagdvesftnrvvefdqltkld 265
+                           e va as+d+ l  ws+k+yfl+a lchi+  d++ +k+ +e+y+d  v f +tre+ +l+ai+ +ve++d ++ft++v ++d+ltkld
+  Umbra1|Umbra1_232042 179 ETVAFASIDDTLLSWSVKEYFLQAALCHICTKDYVASKKQLEKYADAYVGFDNTREYVLLSAIIRSVEDEDADAFTQHVYDYDKLTKLD 267
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1444 266 nwkttillrikksiqeep 283
+                           nwkttillrik+s+ ++ 
+  Umbra1|Umbra1_232042 268 NWKTTILLRIKRSVTDDE 285
+                           *************98875 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (286 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       292  (0.0294029); expected 198.6 (0.02)
+Passed bias filter:                      177  (0.017823); expected 198.6 (0.02)
+Passed Vit filter:                        12  (0.00120834); expected 9.9 (0.001)
+Passed Fwd filter:                         3  (0.000302084); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.16u 0.01s 00:00:00.17 Elapsed: 00:00:00.30
+# Mc/sec: 3934.23
+//
+Query:       ORTHOMCL1477  [M=369]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   2.9e-126  421.1  39.5   7.6e-117  390.1  16.9    2.0  2  Umbra1|Umbra1_225391  fgenesh1_kg.7_#_550_#_combest_scaffold_
+    2.2e-74  250.3  15.0    2.7e-72  243.5  15.0    2.7  1  Umbra1|Umbra1_289057  MIX4280_277_98
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_225391  fgenesh1_kg.7_#_550_#_combest_scaffold_7_128309
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   37.2  15.2   2.6e-13   1.3e-09       1      89 [.       1      89 [.       1      92 [. 0.70
+   2 !  390.1  16.9  1.5e-120  7.6e-117      68     359 ..      91     399 ..      88     403 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 37.2 bits;  conditional E-value: 2.6e-13
+          ORTHOMCL1477  1 mPsPPkPWeraattkrsstqisttqtaltssstsd...taPavparpsttssnfanrgygsygtg..ynspysnygsygssyGspysryGs 86
+                          mPsPPkPWe a++ +  +  i+++ ta+++ss +    ++P +p rp++ ++n    gyg+   +  y   y + +++gssy spy+r Gs
+  Umbra1|Umbra1_225391  1 MPSPPKPWESANAGTA-TSAITSPATAAGVSSLASdfsSTPDIPSRPQSLAANRP-AGYGT---NsaYGGGYGASTGFGSSYSSPYNRMGS 86
+                          8*********999887.55666666666665544301166777777766665553.45555...333566699999**************9 PP
+
+          ORTHOMCL1477 87 yss 89
+                          + s
+  Umbra1|Umbra1_225391 87 MGS 89
+                          766 PP
+
+  == domain 2  score: 390.1 bits;  conditional E-value: 1.5e-120
+          ORTHOMCL1477  68 snygsygssyGspysryG..sysssyspynry.gygsyggyGg.ygsyg.....ynrfgyggmmGpngPeelsltqrmeantaagfhmi 147
+                            +ygsygssyGs y  yG  s++ssyspy+r  +yg+ g+yG+ ygsyg     ynr gy gm  p+gP+e+sltqrme+ t a f++i
+  Umbra1|Umbra1_225391  91 GSYGSYGSSYGSGYGSYGgmSSMSSYSPYSRLgSYGGMGSYGSgYGSYGggyspYNRMGYNGM--PGGPDEFSLTQRMETGTRATFEVI 177
+                           58****************777889********99********99***99999999********..668********************* PP
+
+          ORTHOMCL1477 148 esvvnafggfaqmlestffathssfmamvgvveqfgnlrnylGqvlsvfalirwirklfykitGrrppvdpneltpsqfeqyqek...k 233
+                           es+v+afggfaqmlestf+athssfmamvgv eqfgnlr ylGqvls+falirw ++lfyk+tGr+pp +p+el++  f+q+qe    k
+  Umbra1|Umbra1_225391 178 ESIVGAFGGFAQMLESTFMATHSSFMAMVGVAEQFGNLRTYLGQVLSIFALIRWAKSLFYKVTGRQPPANPQELNANSFQQFQEAtpqK 266
+                           ***********************************************************************************976779 PP
+
+          ORTHOMCL1477 234 ysrrpllffilavfGvPYlmhkfiqvisrrqqe.......gsippeg.....geeisltqqleastaqnlefiralydfkgessveLsl 310
+                            sr+p + f++av G PYlmhk+i+ is +qq+             g     + + +++q  + + +qnlef ra ydf++es++eL l
+  Umbra1|Umbra1_225391 267 LSRKPFFIFLFAVVGLPYLMHKLIKHISAKQQQqqqmflpD-----GtpmqqPMNGMMPQ-QDQVDPQNLEFARASYDFNAESPMELTL 349
+                           ***************************99888777555442.....22321133333334.44588*********************** PP
+
+          ORTHOMCL1477 311 krgdiiailsktd.lfgqpsqwwrgrlrngeqglfpsnyveiinkggnae 359
+                           k+gdiiailsk+d + g  sqwwrgrlrng  glfp+nyveii+kg  + 
+  Umbra1|Umbra1_225391 350 KKGDIIAILSKVDpATGVQSQWWRGRLRNGTMGLFPANYVEIIQKGAPNA 399
+                           ************96689*****************************8765 PP
+
+>> Umbra1|Umbra1_289057  MIX4280_277_98
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  243.5  15.0   5.4e-76   2.7e-72       1     357 [.       1     332 [.       1     342 [. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 243.5 bits;  conditional E-value: 5.4e-76
+          ORTHOMCL1477   1 mPsPPkPWeraattkrsstqisttqtaltssstsdtaPavparpsttssnfanrgygsygtgynspysnygsygssyGspysryGsyss 89 
+                           mPsPPkPWe ++ ++      s ++  +++s+   taPa+p r++t++   +  + +syg g    y  ygsygs+yG     yGs + 
+  Umbra1|Umbra1_289057   1 MPSPPKPWEASGPQTV-----SDSDVLTSASTALATAPAIPTRANTAGLYNSTSSLNSYGGG---MYNRYGSYGSGYG----GYGS-YN 76 
+                           8********9887665.....555556667777889********999988888999****99...7888888766665....6997.67 PP
+
+          ORTHOMCL1477  90 syspynrygygsyggyGgygsyg..ynrfgyggmmGpngPeelsltqrmeantaagfhmiesvvnafggfaqmlestffathssfmamv 176
+                           syspynr+           gsy+  ynr gyg   G++gPe++++ qrmea t a f++ie++v+afggfaqml++tf+ath+sfmamv
+  Umbra1|Umbra1_289057  77 SYSPYNRF-----------GSYStpYNRLGYG--YGGGGPEDFTVGQRMEAGTRATFELIEQIVGAFGGFAQMLDATFMATHASFMAMV 152
+                           8*****97...........455555****996..699**************************************************** PP
+
+          ORTHOMCL1477 177 gvveqfgnlrnylGqvlsvfalirwirklfykitGrrppvdpneltpsqfeqyq............e..k.kysrrpllffilavfGvP 250
+                           gv eqfg +  ylG++  ++ lirwi+++  k+ Gr  pvd  e +    +q q            e  + k s+ p + f+ a++G P
+  Umbra1|Umbra1_289057 153 GVAEQFGHVHTYLGNIFNIYNLIRWIKRSANKLAGRPDPVDTSEQQQPATQQNQvatddstpppppErpReKLSKTPFIIFLTAIIGLP 241
+                           *****************************************99988776666664444444444442332489**************** PP
+
+          ORTHOMCL1477 251 YlmhkfiqvisrrqqegsippeggeeisltqqleastaqnlefiralydfkgessveLslkrgdiiailsktd.lfgqpsqwwrgrlrn 338
+                           Ylm+k+++ +s           +  +++++ +          +  a++df  +s++eL l++g+++ +l   d +  +ps ww+grlr+
+  Umbra1|Umbra1_289057 242 YLMNKLMKSMSTS---------KAVQMEMSDRPP--------VAVAMFDFVPGSPMELRLTKGATVEVLDTLDpVTREPSSWWQGRLRD 313
+                           ******9999554.........445566666663........445899**********************99945678*********** PP
+
+          ORTHOMCL1477 339 geqglfpsnyveiinkggn 357
+                           g+ g+fp+n+v+ in+  +
+  Umbra1|Umbra1_289057 314 GSIGVFPANHVQYINHTTQ 332
+                           ***************8766 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (369 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       632  (0.0636391); expected 198.6 (0.02)
+Passed bias filter:                      275  (0.0276911); expected 198.6 (0.02)
+Passed Vit filter:                        54  (0.00543752); expected 9.9 (0.001)
+Passed Fwd filter:                        32  (0.00322223); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.56u 0.01s 00:00:00.57 Elapsed: 00:00:01.19
+# Mc/sec: 1279.66
+//
+Query:       ORTHOMCL1514  [M=158]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (158 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       500  (0.0503474); expected 198.6 (0.02)
+Passed bias filter:                      284  (0.0285973); expected 198.6 (0.02)
+Passed Vit filter:                        21  (0.00211459); expected 9.9 (0.001)
+Passed Fwd filter:                         1  (0.000100695); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.13u 0.00s 00:00:00.13 Elapsed: 00:00:00.28
+# Mc/sec: 2248.40
+//
+Query:       ORTHOMCL1518  [M=395]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   1.5e-200  665.1   0.6   1.8e-200  664.9   0.6    1.0  1  Umbra1|Umbra1_244546  fgenesh1_kg.33_#_481_#_combest_scaffold
+    1.1e-98  329.7   5.4    1.4e-98  329.4   5.4    1.0  1  Umbra1|Umbra1_221717  fgenesh1_kg.4_#_320_#_combest_scaffold_
+    3.4e-88  295.2   5.7    3.7e-88  295.1   5.7    1.0  1  Umbra1|Umbra1_223787  fgenesh1_kg.5_#_1151_#_combest_scaffold
+    8.8e-72  241.2   9.2    2.6e-71  239.6   9.2    1.6  1  Umbra1|Umbra1_216542  fgenesh1_kg.1_#_112_#_combest_scaffold_
+    2.1e-71  239.9   5.1    3.7e-71  239.1   5.1    1.4  1  Umbra1|Umbra1_284138  estExt_Genemark1.C_820006
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_244546  fgenesh1_kg.33_#_481_#_combest_scaffold_33_73081
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  664.9   0.6  8.9e-204  1.8e-200       3     395 .]       4     398 ..       2     398 .. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 664.9 bits;  conditional E-value: 8.9e-204
+          ORTHOMCL1518   3 qnvfivaakrtafgafggslknytatelgalaakaaisslkkdvpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcgs 91 
+                           ++v+ivaakrt+fg+fgg l++++a+elg+la+ka +ssl+ + pi s i+gnvlqtd + aylarh+g+ragl+ evpalt+nrlcgs
+  Umbra1|Umbra1_244546   4 RQVYIVAAKRTPFGTFGGKLRSLSAAELGGLASKAVLSSLPANTPISSTIMGNVLQTDTAGAYLARHIGHRAGLPFEVPALTVNRLCGS 92 
+                           579************************************************************************************** PP
+
+          ORTHOMCL1518  92 gfqsvinavqeirsgdsnivltggtesmskspytl..advrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqad 178
+                           gfqsvin v+ei  g+s+ivl+gg+e+msk+py +   ++rwg+rygvdlk+edsl+a+lvdqyp+ tpmg+t+enla kynitreq+d
+  Umbra1|Umbra1_244546  93 GFQSVINGVHEILLGESEIVLAGGAENMSKAPYVVdgDKTRWGTRYGVDLKMEDSLSAVLVDQYPSPTPMGITSENLASKYNITREQCD 181
+                           ***********************************86679************************************************* PP
+
+          ORTHOMCL1518 179 eyalssqkrwaaadeagrfkkeivpieiktkkgvqvfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivasedav 267
+                           e+al+sq+r+a+a  +g f++ei+p+e+k kkg++  + dehprpq+t +slakl++vfk+d g+ taGnasGi+dGa+a+ivase+av
+  Umbra1|Umbra1_244546 182 EFALLSQQRYAKAASQGIFEREIIPVEVKGKKGPETVSVDEHPRPQSTAESLAKLKPVFKRDGGVTTAGNASGINDGAAAIIVASEEAV 270
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 268 kkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhPlaas 356
+                           +k+gl+plarivs++ +Gv+p+imGiGPvpai+ aLk+a+l l +++lievneafaaqylavekelGldrs+tn nGGaia+GhPl+as
+  Umbra1|Umbra1_244546 271 NKYGLTPLARIVSWQSSGVDPSIMGIGPVPAIQGALKRANLGLDQMDLIEVNEAFAAQYLAVEKELGLDRSKTNRNGGAIAIGHPLGAS 359
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 357 GsrilahltyelkktkikyaigsaciGGGqgiavilerv 395
+                           G+ril+hlt+el++t+ k a+gsaciGGGqgiav+lerv
+  Umbra1|Umbra1_244546 360 GARILTHLTHELHRTNSKLAVGSACIGGGQGIAVVLERV 398
+                           **************************************8 PP
+
+>> Umbra1|Umbra1_221717  fgenesh1_kg.4_#_320_#_combest_scaffold_4_84840
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  329.4   5.4    7e-102   1.4e-98       4     393 ..      24     405 ..      22     407 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 329.4 bits;  conditional E-value: 7e-102
+          ORTHOMCL1518   4 nvfivaakrtafgafggslknytatelgalaakaaissl.kkdvpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcgs 91 
+                           +v iv+a rt+++ f gs+k+++a +lga+aa+aai+    k   i+ v++gnvlq++      ar+ +l ag +    a tin++c+s
+  Umbra1|Umbra1_221717  24 EVVIVSAARTPVAIFNGSFKSLSAPQLGAIAARAAIDRAgLKPEQIEEVYLGNVLQAN-IGQAPARQATLAAGCPESTEATTINKVCAS 111
+                           689*********************************865146679***********85.566789************************ PP
+
+          ORTHOMCL1518  92 gfqsvinavqeirsgdsnivltggtesmskspytl.advrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqade 179
+                           g+++v+ a q+++ g  +i+l+gg esm+++py    ++ +g +   d  ++d     l d y  +  mg  aen a  y+i+re  de
+  Umbra1|Umbra1_221717 112 GMKAVMMATQNLQLGVRDIMLAGGMESMTNAPYYSqRNIAFGHQQLSDAIIKDG----LWDPYN-NFHMGNCAENTAVNYKISREAQDE 195
+                           *****************************9987654888888887777777775....678886.578********************* PP
+
+          ORTHOMCL1518 180 yalssqkrwaaadeagrfkkeivpieiktkkgvqvfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivasedavk 268
+                           +a  s kr a+a ++g f+ ei p+ ik+kkg +++++de  + +++++ +  l +vfkkd g+vta nas i+dGa+a+++ + +  +
+  Umbra1|Umbra1_221717 196 HAIESYKRAAEAWKNGVFDAEIAPVTIKSKKGDTIIKEDEEYK-NVKFDKIPTLRPVFKKD-GTVTAANASTINDGASALVLMTRQKAQ 282
+                           ***************************************9876.799************99.99************************* PP
+
+          ORTHOMCL1518 269 khgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhPlaasG 357
+                           + g++plarivsy+ a  +p    i P+ a+  aLk+a+l+lsdi+l+e+neaf+++ + +e++lGld s+ n++GGa+alGhP+++sG
+  Umbra1|Umbra1_221717 283 ELGVKPLARIVSYADAATKPVDFTIAPSLALPIALKRAGLELSDISLFEFNEAFSVVARVNEQILGLDSSKVNVAGGAVALGHPIGSSG 371
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 358 srilahltyelkktkikyaigsaciGGGqgiavile 393
+                           sri+++lt+ lk ++   +++++c+GGG ++++i++
+  Umbra1|Umbra1_221717 372 SRIIVTLTHLLKSGQF--GAAAICNGGGAASSIIIQ 405
+                           ***********99865..****************97 PP
+
+>> Umbra1|Umbra1_223787  fgenesh1_kg.5_#_1151_#_combest_scaffold_5_104198
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  295.1   5.7   1.9e-91   3.7e-88       3     395 .]       4     396 ..       1     396 [. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 295.1 bits;  conditional E-value: 1.9e-91
+          ORTHOMCL1518   3 qnvfivaakrtafgafggslknytatelgalaakaaisslkk.dvpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcg 90 
+                           ++v+i a  rt++g f gsl ++ at+lg++a +aai+  +     ++ vifg vl + n     ar+ +l agl+    + t+n++c+
+  Umbra1|Umbra1_223787   4 RDVYISAVARTPMGGFNGSLSSLPATKLGSIAIEAAIKKANLpAEAVEEVIFGCVLPA-NQGQNPARQAALGAGLKNTTISTTVNKVCA 91 
+                           579**********************************8654313468999*****986.566788************************ PP
+
+          ORTHOMCL1518  91 sgfqsvinavqeirsgdsnivltggtesmskspytladvrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqade 179
+                           sg+++v  a q i  g+++iv++gg esms+ py l + r+g  yg    ++  +a  l  ++  +  mgv+ae+ a  y+itreq d+
+  Umbra1|Umbra1_223787  92 SGMKAVQLAAQTIILGNAEIVVAGGMESMSNVPYYLPKQRFGSTYGNAEVVDGIVADGLT-DFANQYLMGVAAEECATEYEITREQQDD 179
+                           **********************************************88766666666665.5999************************ PP
+
+          ORTHOMCL1518 180 yalssqkrwaaadeagrfkkeivpieiktkkgv..qvfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivaseda 266
+                           ya  s k+  aa++ag++k eivp+ +   +g   +v e d+    + + + l  + + f+++ g+vta n+s +sdGa+a+++ s++a
+  Umbra1|Umbra1_223787 180 YAIESYKKAQAAHAAGHYKGEIVPVTVSGGRGKpdRVVEVDDEC-GKLNEEKLRAVRPAFQPKNGTVTAPNSSPLSDGAAAIVLVSKEA 267
+                           ***************************99887533799988765.688999************************************** PP
+
+          ORTHOMCL1518 267 vkkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhPlaa 355
+                            +k++l  lari  +  a   p      P+ ai +aLk+a++   ++++ e+neaf+++  a+ k+l l  ++ n+ GGa+a+GhPl++
+  Umbra1|Umbra1_223787 268 AEKYNLPLLARIRGWGDAEQAPERFTTTPSLAIPKALKHAGVSAEEVEFYEINEAFSVVACANMKILNLSADKVNVFGGAVAMGHPLGC 356
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 356 sGsrilahltyelkktkikyaigsaciGGGqgiavilerv 395
+                           sG+r++a+l + l +++ k +++ +c+GGG+++a+i+er+
+  Umbra1|Umbra1_223787 357 SGARVIATLLSVLTHKEAKIGAAGICNGGGGASAIIIERL 396
+                           **************************************96 PP
+
+>> Umbra1|Umbra1_216542  fgenesh1_kg.1_#_112_#_combest_scaffold_1_419
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  239.6   9.2   1.3e-74   2.6e-71       4     393 ..      30     414 ..      28     415 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 239.6 bits;  conditional E-value: 1.3e-74
+          ORTHOMCL1518   4 nvfivaakrtafg.afggslknytatelgalaakaaisslkkd.vpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcg 90 
+                           +v +v+a rt++  a  g +k+    e+ +   ka+i+  k +   id + +gnvl +   a   ar  +l+ag++      t nr c+
+  Umbra1|Umbra1_216542  30 DVVVVSALRTPITrARKGGFKDTLPEEMLSAVFKATIEKTKINpALIDDICVGNVLPAGGGA-TAARMAALHAGFPETTSINTTNRQCS 117
+                           68899999*9986367899********99999999999877652679*********988765.579*********************** PP
+
+          ORTHOMCL1518  91 sgfqsvinavqeirsgdsnivltggtesmskspytladvrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqade 179
+                           sg+q+ ++    i+sg  ++ + +g+esm++ + + a      +        ++ a +lv       pmg+t+en+a+ ++itr + d 
+  Umbra1|Umbra1_216542 118 SGLQACVQIATAIQSGLIEVGIGAGVESMTHNYGAGAMGSTSEKVAS--E-CEAAADCLV-------PMGITSENVAKEFQITRAKQDA 196
+                           ******************************98866554333333222..2.234556665.......********************** PP
+
+          ORTHOMCL1518 180 yalssqkrwaaadeagrfkkeivpiei..ktkkgvq...vfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivas 263
+                           +a +s ++  aa++ag f+ eivp+++    k g +   v + d+  rp tt +slakl++ f  ++g  taGnas +sdGa+av++  
+  Umbra1|Umbra1_216542 197 FAAASHQKAVAAQKAGLFDAEIVPVKVvvTDKEGNEkevVVKSDDGVRPGTTAESLAKLKPAFD-EAGFTTAGNASQVSDGAAAVLLMK 284
+                           ************************9962234566534447899*******************95.78********************** PP
+
+          ORTHOMCL1518 264 edavkkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhP 352
+                            ++ +k +l  + + ++ +vaGv p +mGiGP+ a+  a+++a++k+sd++++e+neafa+q +   ++l +  ++ n +GGaia+GhP
+  Umbra1|Umbra1_216542 285 RKTAEKLNLPIIGKYITSAVAGVPPRVMGIGPAYAVPIAVERAGIKISDLDIVELNEAFASQAVYCAEKLNIPFEKINPKGGAIAFGHP 373
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 353 laasGsrilahltyelkktkikyaigsaciGGGqgiavile 393
+                           l+++G+r +a+l  elk++ +k + +++ciG G g+a i e
+  Umbra1|Umbra1_216542 374 LGCTGARQVATLLPELKRQGKKIGCTTMCIGTGMGMAAIWE 414
+                           *************************************9977 PP
+
+>> Umbra1|Umbra1_284138  estExt_Genemark1.C_820006
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  239.1   5.1   1.9e-74   3.7e-71       4     394 ..      31     415 ..      28     416 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 239.1 bits;  conditional E-value: 1.9e-74
+          ORTHOMCL1518   4 nvfivaakrtafga.fggslknytatelgalaakaaisslkkd.vpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcg 90 
+                           +v +v+a rta+     g +k++   ++ +   ka+++  k d   +d + +gnv      a   +r  +l+ag++      t nr c+
+  Umbra1|Umbra1_284138  31 DVVVVSALRTAITKgRKGGFKDMLPEDILSAVLKATLEKTKLDpKLVDDICVGNVAAPGGLA-TASRMAALHAGFPDTTSLNTTNRQCS 118
+                           68899999*998652578899*999999999999999888776245899*****99876655.578999******************** PP
+
+          ORTHOMCL1518  91 sgfqsvinavqeirsgdsnivltggtesmskspytladvrwgvrygvdlkledslaa.alvdqypaktpmgvtaenlaekynitreqad 178
+                           sg+q+ ++    i+sg  +i + +g+esm++ +++ +     +     l  e   aa +l        pmg+t+en+a  +ni+r   d
+  Umbra1|Umbra1_284138 119 SGLQACVQIATAIQSGLIEIGIGAGVESMTQNYFSRN-----ITTSKKLTAESQAAAdCL-------IPMGITSENVAAEWNISRLTQD 195
+                           *******************************999753.....334556666654443155.......5********************* PP
+
+          ORTHOMCL1518 179 eyalssqkrwaaadeagrfkkeivpie..iktkkgvq...vfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagaviva 262
+                           e++ +s  +  aa++ag fk+eivp+   i  k g +   v ++de  r  t+ q+lakl++ fk d g  taGnas +sdGa+av++ 
+  Umbra1|Umbra1_284138 196 EFSTLSHTKAIAAQKAGLFKDEIVPVTatIVDKDGNEktiVVDQDEGMREGTSPQTLAKLKPAFKAD-GSTTAGNASQVSDGAAAVLLM 283
+                           *************************96336678886444489**********************998.889****************** PP
+
+          ORTHOMCL1518 263 sedavkkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGh 351
+                             ++ +k gl  l + v+ +v Gv p +mGiGP+ ai  a+++a+lk+ d++++e+neafa+q +   ++  +  ++ n +GGaialGh
+  Umbra1|Umbra1_284138 284 KRKTAHKLGLPILGKYVTSAVVGVPPKVMGIGPAFAIPVAVERAGLKIDDVDIFELNEAFASQAVYTVQKCNIPIEKVNPKGGAIALGH 372
+                           ******************************************************************99********************* PP
+
+          ORTHOMCL1518 352 PlaasGsrilahltyelkktkikyaigsaciGGGqgiaviler 394
+                           Pl+++G+r +a+l  elk++++k + +++ciG G g+a i er
+  Umbra1|Umbra1_284138 373 PLGCTGARQVATLFPELKRQNKKIGCTTMCIGSGMGMAAIWER 415
+                           ****************************************998 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (395 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       235  (0.0236633); expected 198.6 (0.02)
+Passed bias filter:                      180  (0.0181251); expected 198.6 (0.02)
+Passed Vit filter:                        19  (0.0019132); expected 9.9 (0.001)
+Passed Fwd filter:                         8  (0.000805558); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               5  [number of targets reported over threshold]
+# CPU time: 0.30u 0.02s 00:00:00.32 Elapsed: 00:00:00.62
+# Mc/sec: 2629.18
+//
+Query:       ORTHOMCL1529  [M=185]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   1.9e-115  382.0   0.9   2.1e-115  381.9   0.9    1.0  1  Umbra1|Umbra1_225857  fgenesh1_kg.7_#_1016_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_225857  fgenesh1_kg.7_#_1016_#_combest_scaffold_7_129581
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  381.9   0.9  2.1e-119  2.1e-115       1     185 []       1     185 [.       1     185 [. 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 381.9 bits;  conditional E-value: 2.1e-119
+          ORTHOMCL1529   1 maailksfldwlrslffkteleltlvglqnsgkttlvnviasgqfsedmiptvgfnmrkvtkgnvtmklwdiggqprfrsmwerycrgv 89 
+                           ma+i++s+l+wlrslffkte+eltlvglqnsgkttlvnviasgqf ed iptvgfnmrkvtkg+vt+klwdiggqprfrsmwerycrgv
+  Umbra1|Umbra1_225857   1 MASIIQSLLEWLRSLFFKTEMELTLVGLQNSGKTTLVNVIASGQFIEDSIPTVGFNMRKVTKGSVTLKLWDIGGQPRFRSMWERYCRGV 89 
+                           9**************************************************************************************** PP
+
+          ORTHOMCL1529  90 naivfvidsadhekleaartelrsllekpqlanipvlvlgnkndleealpvekiieemnlksinnrevscysisaknqvniditlqwli 178
+                           naivfv+d+adh+k++aartel+sllekpql+nipvlvlgnkndl+ al+v+++i+ +nlk+i nrevscysisaknqvniditlqwli
+  Umbra1|Umbra1_225857  90 NAIVFVVDAADHDKIDAARTELKSLLEKPQLSNIPVLVLGNKNDLPTALNVDELIDILNLKTITNREVSCYSISAKNQVNIDITLQWLI 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1529 179 kkgkgsk 185
+                           kkgkg+k
+  Umbra1|Umbra1_225857 179 KKGKGQK 185
+                           *****87 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (185 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       347  (0.0349411); expected 198.6 (0.02)
+Passed bias filter:                      304  (0.0306112); expected 198.6 (0.02)
+Passed Vit filter:                        71  (0.00714933); expected 9.9 (0.001)
+Passed Fwd filter:                        55  (0.00553821); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.25u 0.00s 00:00:00.25 Elapsed: 00:00:00.48
+# Mc/sec: 1590.54
+//
+Query:       ORTHOMCL1548  [M=383]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   1.8e-155  516.8   7.0   4.2e-155  515.5   7.0    1.5  1  Umbra1|Umbra1_253930  fgenesh1_kg.55_#_124_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_253930  fgenesh1_kg.55_#_124_#_combest_scaffold_55_110259
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  515.5   7.0  4.3e-159  4.2e-155       1     383 []       1     370 [.       1     370 [. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 515.5 bits;  conditional E-value: 4.3e-159
+          ORTHOMCL1548   1 msenikniyiretetrnePkPhivyrvevkaavrtwsiwkrysefdelndklvrlfPnnppPvelPakhyfqstlGnPvlveerrrGle 89 
+                           mseni++iy+r++e r++PkPh+vyr+e++aavr+wsiwkr+sef+++  +l+  fP++ppP  lP kh+f st GnP  +eerrrGl+
+  Umbra1|Umbra1_253930   1 MSENIQAIYVRNSENREKPKPHTVYRIEIHAAVRSWSIWKRFSEFEKFHSQLIAQFPKHPPPNSLPPKHWFTSTYGNPDKIEERRRGLD 89 
+                           89*************************************************************************************** PP
+
+          ORTHOMCL1548  90 eylrgilfhkddrwretdewkeflaiPtGrsldaatmytseswldeynqvqaiakeirsllnrrethiarnevqashncsvqakksltt 178
+                            ylrgi++ +ddrwr+td w+efl+iPtGr+lda++mytseswlde++++q+ a+e+rsl+n+rethiarne+ ashnc++qakk lt+
+  Umbra1|Umbra1_253930  90 AYLRGIMSSRDDRWRQTDVWREFLSIPTGRPLDASSMYTSESWLDEFREMQTSAREVRSLINKRETHIARNEISASHNCTMQAKKLLTV 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1548 179 lgvrvsqlesGlkGlakgsgrdgkvmsegelrrrqdllnelkdekdtltklvlanrpdisk..atkpassvdraalfrqpvkqrsapll 265
+                           l+ r s+l+sGl+Gla+gs  +  +m+egelrrrqdll+ lkde+dtl++l  a r+d+     +kpa + dr al+++    ++  + 
+  Umbra1|Umbra1_253930 179 LSSRLSDLDSGLTGLAHGSSGE-SLMTEGELRRRQDLLSGLKDERDTLARLASAARSDVMMpsDAKPAKAGDRRALLKSTADPQARDP- 265
+                           ******************9765.68*********************************98622579**********987655444322. PP
+
+          ORTHOMCL1548 266 nkgisgkansngssssvvqkapasrrvfgnkraslpaeteqtrgldneglvelqkqtmedqdrhveqfsailsrhkhiglaigqeleiq 354
+                                   n      +  q a  s rvfgn r +   eteqtrg+dnegl++lq+q m+dqd+ veqfs+il+r++++g aigqele q
+  Umbra1|Umbra1_253930 266 -------GN------TNGQPAIVSNRVFGNARRQQGRETEQTRGVDNEGLLKLQQQMMDDQDSQVEQFSSILNRQRQVGYAIGQELENQ 341
+                           .......22......2235677899**************************************************************** PP
+
+          ORTHOMCL1548 355 nrllseldedvdktadklrlatrklnsik 383
+                           n+ll+eld d+d+t  kl++a++kln+ik
+  Umbra1|Umbra1_253930 342 NQLLEELDSDLDRTQVKLKFANKKLNKIK 370
+                           ***************************97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (383 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       395  (0.0397744); expected 198.6 (0.02)
+Passed bias filter:                      191  (0.0192327); expected 198.6 (0.02)
+Passed Vit filter:                        25  (0.00251737); expected 9.9 (0.001)
+Passed Fwd filter:                         8  (0.000805558); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.25u 0.01s 00:00:00.26 Elapsed: 00:00:00.51
+# Mc/sec: 3099.16
+//
+Query:       ORTHOMCL1559  [M=366]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (366 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       504  (0.0507502); expected 198.6 (0.02)
+Passed bias filter:                      351  (0.0353439); expected 198.6 (0.02)
+Passed Vit filter:                        72  (0.00725003); expected 9.9 (0.001)
+Passed Fwd filter:                        43  (0.00432988); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 1.01u 0.02s 00:00:01.03 Elapsed: 00:00:02.09
+# Mc/sec: 722.69
+//
+Query:       ORTHOMCL1570  [M=249]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (249 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       225  (0.0226563); expected 198.6 (0.02)
+Passed bias filter:                      161  (0.0162119); expected 198.6 (0.02)
+Passed Vit filter:                        10  (0.00100695); expected 9.9 (0.001)
+Passed Fwd filter:                         2  (0.00020139); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.13u 0.00s 00:00:00.13 Elapsed: 00:00:00.28
+# Mc/sec: 3669.92
+//
+Query:       ORTHOMCL1576  [M=370]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   2.8e-166  552.1   2.1   3.1e-166  551.9   2.1    1.0  1  Umbra1|Umbra1_254882  fgenesh1_kg.57_#_350_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_254882  fgenesh1_kg.57_#_350_#_combest_scaffold_57_113467
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  551.9   2.1  3.1e-170  3.1e-166      17     367 ..      11     364 ..       1     367 [. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 551.9 bits;  conditional E-value: 3.1e-170
+          ORTHOMCL1576  17 eeenkdyrkplyigdwkksipyvdediaiddldephmkrkvtilkkypeieklygydvstvpitivaaaaqivaayvfgrilldwnwtm 105
+                           +e   d+r+ply g wk+sip +d+d+a dd+deph+krk +il ++pe+eklyg d++t+ ++i  aaaq+  ay fgri +   w m
+  Umbra1|Umbra1_254882  11 GEAPIDHRHPLYRGTWKRSIPGIDDDFAKDDMDEPHLKRKFAILSSHPEVEKLYGTDIRTLYVAIANAAAQVGLAYYFGRINVS-LWQM 98 
+                           456789***************************************************************************986.6*** PP
+
+          ORTHOMCL1576 106 iiysyvvgasltqlygviiheaahclaaptrlqnrivgllanialplpiamsfrryhlehhtfqgvvgldpdlplewekklirgnallk 194
+                           ++ +y+vg++lt l+gv+ihea+h+l   +r+ nrivgl+ani lp+pia sfrryhlehht+qgv g+dpdlpl+we+ lirgnal k
+  Umbra1|Umbra1_254882  99 LVVAYFVGGTLTALSGVLIHEACHSLVLSSRFWNRIVGLIANINLPVPIAQSFRRYHLEHHTWQGVEGMDPDLPLDWERTLIRGNALKK 187
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1576 195 llwlniypvlyvvrglimq....kspqfweyvnwiftiitdvliyylcglrgllylvlslwlgygvhpaaahfiqehytfddgqetysy 279
+                            lw+ iyp +yv+rg ++q    ksp+ we +n  fti  d li +l+g rgl yl+lslw+gy++hp aahf+qehytfddgqetysy
+  Umbra1|Umbra1_254882 188 TLWILIYPFMYVIRGAVQQhrqnKSPSKWELINVAFTICSDALIVKLAGWRGLGYLFLSLWFGYSLHPGAAHFVQEHYTFDDGQETYSY 276
+                           ***************9865444489**************************************************************** PP
+
+          ORTHOMCL1576 280 ygilnllflnigyhnehhdftkvpwsklpevrkiaseyydelayhtswllvhwnfvtkkqfgpqsrvgrsvedhkkgrkllgvlkkel 367
+                           yg+ln+ f+nigyhnehhdf k+pws lp +r ia eyyd+l+yhtswl vhw+f+t+  +gpqsrv r+ +dhk+gr++l+ ++k+ 
+  Umbra1|Umbra1_254882 277 YGVLNIPFMNIGYHNEHHDFQKIPWSGLPALRSIAREYYDTLSYHTSWLYVHWKFITEPTIGPQSRVYRTEKDHKEGRHMLKDMRKQF 364
+                           ************************************************************************************9986 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (370 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       314  (0.0316182); expected 198.6 (0.02)
+Passed bias filter:                      203  (0.020441); expected 198.6 (0.02)
+Passed Vit filter:                        11  (0.00110764); expected 9.9 (0.001)
+Passed Fwd filter:                         1  (0.000100695); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.20u 0.01s 00:00:00.21 Elapsed: 00:00:00.39
+# Mc/sec: 3915.19
+//
+Query:       ORTHOMCL1586  [M=244]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   1.6e-106  354.9   7.2   1.8e-106  354.7   7.2    1.0  1  Umbra1|Umbra1_247111  fgenesh1_kg.38_#_430_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_247111  fgenesh1_kg.38_#_430_#_combest_scaffold_38_81319
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  354.7   7.2  1.8e-110  1.8e-106       1     213 [.       1     212 [.       1     245 [. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 354.7 bits;  conditional E-value: 1.8e-110
+          ORTHOMCL1586   1 maeylasiygtekdkvncsfyfkigacrhgdrcsrkhvkptfsqtilcsniyqnpahdtncnmseeqiqahfddfyedfftelckygev 89 
+                           ma+ylasiygtekdkvncsfyfkigacrhgdrcsrkh+kp+fsqt+l sn+y+np+hd   nms eq+q  fd fyed+f el+k+ge+
+  Umbra1|Umbra1_247111   1 MADYLASIYGTEKDKVNCSFYFKIGACRHGDRCSRKHIKPSFSQTLLLSNLYRNPSHDPTKNMSPEQLQEDFDLFYEDIFMELAKFGEI 89 
+                           8**************************************************************************************** PP
+
+          ORTHOMCL1586  90 eemhvcdnvgdhlignvyarfryeedaqkavdnlnqrfyagrpiyaelspvtdfreaccrqnenaectrggfcnfmhlkevsrylkkel 178
+                           eem vcdnvgdhl+gnvy ++ yee+a +avd+ln+rfyagrp+yaelspvtdf+eaccrq e aec+rggfcnfmhlk   r l++el
+  Umbra1|Umbra1_247111  90 EEMVVCDNVGDHLVGNVYVQYHYEEQAGNAVDDLNKRFYAGRPLYAELSPVTDFKEACCRQHEIAECNRGGFCNFMHLKHPRRALRREL 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1586 179 faaqrnylreqrrakrekseeessrsrslsedrkr 213
+                           f aqr+ ++e++r +++  +e +++ rs s  ++ 
+  Umbra1|Umbra1_247111 179 FEAQRASIKEKKREEKHGGDE-RRKDRSGSPRHHA 212
+                           *************98876655.5555554442222 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (244 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       786  (0.0791461); expected 198.6 (0.02)
+Passed bias filter:                      424  (0.0426946); expected 198.6 (0.02)
+Passed Vit filter:                        83  (0.00835767); expected 9.9 (0.001)
+Passed Fwd filter:                        28  (0.00281945); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.40u 0.00s 00:00:00.40 Elapsed: 00:00:00.81
+# Mc/sec: 1243.14
+//
+Query:       ORTHOMCL1610  [M=194]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (194 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       221  (0.0222535); expected 198.6 (0.02)
+Passed bias filter:                      187  (0.0188299); expected 198.6 (0.02)
+Passed Vit filter:                        20  (0.0020139); expected 9.9 (0.001)
+Passed Fwd filter:                         8  (0.000805558); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.18u 0.00s 00:00:00.18 Elapsed: 00:00:00.31
+# Mc/sec: 2582.59
+//
+Query:       ORTHOMCL1650  [M=232]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+      5e-94  312.8   0.3    6.2e-94  312.5   0.3    1.0  1  Umbra1|Umbra1_209841  estExt_Genewise1Plus.C_270040
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_209841  estExt_Genewise1Plus.C_270040
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  312.5   0.3   6.3e-98   6.2e-94       3     225 ..      12     234 ..      10     239 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 312.5 bits;  conditional E-value: 6.3e-98
+          ORTHOMCL1650   3 nalvtlvregplfiltmkngenrftttfveallaaldeiek.ireqedaeraalitigegkfysngldlehalstpgffdnyylkllvr 90 
+                           ++ +tl++eg l+il m+n +nrf+++fv al++al  +e    ++e+ + +al+tig+ k+ysngldl ha++ p+f+d y l ll r
+  Umbra1|Umbra1_209841  12 KHFMTLHKEGGLYILHMHNADNRFNSEFVAALNQALSIVEGeYNSAEELQATALVTIGNDKIYSNGLDLMHAFANPAFMDGY-LALLRR 99 
+                           6789***********************************961566799999****************************985.89**** PP
+
+          ORTHOMCL1650  91 vltfpiptvaainghafaggfmlalahdyrvmrkdrGylcmnevdipsplhpGmaaivrikitpktyrdcilqayrfnaqealdrelvd 179
+                           +ltf iptvaa+nghafagg+m+a+ahdyrvmr+drGy+cmnevd+p+pl pGmaai+r k+tp++yrd ilq++rf+a+eal+ +lvd
+  Umbra1|Umbra1_209841 100 LLTFCIPTVAALNGHAFAGGCMMAFAHDYRVMRSDRGYICMNEVDLPAPLAPGMAAILREKMTPHVYRDMILQGHRFTAKEALETHLVD 188
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1650 180 iiapeeevlpkakelalkwskkaraGaiygslkkemyveaikylev 225
+                            ia+ ++vlp ak lalkw+ ka+aG +y++lk em+++++  l++
+  Umbra1|Umbra1_209841 189 EIAEADKVLPAAKALALKWAPKAKAGIVYKQLKDEMFTNVVAKLSI 234
+                           ****************************************999987 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (232 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       237  (0.0238647); expected 198.6 (0.02)
+Passed bias filter:                      217  (0.0218508); expected 198.6 (0.02)
+Passed Vit filter:                        18  (0.00181251); expected 9.9 (0.001)
+Passed Fwd filter:                         6  (0.000604169); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.16u 0.01s 00:00:00.17 Elapsed: 00:00:00.39
+# Mc/sec: 2454.93
+//
+Query:       ORTHOMCL1662  [M=341]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    3.9e-96  321.3   0.0    4.5e-96  321.1   0.0    1.0  1  Umbra1|Umbra1_218973  fgenesh1_kg.2_#_897_#_combest_scaffold_
+    2.2e-86  289.2   1.8      4e-86  288.4   1.8    1.4  1  Umbra1|Umbra1_199062  fgenesh1_pg.25_#_97
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_218973  fgenesh1_kg.2_#_897_#_combest_scaffold_2_38572
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  321.1   0.0  9.1e-100   4.5e-96      96     315 ..      41     260 ..       4     278 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 321.1 bits;  conditional E-value: 9.1e-100
+          ORTHOMCL1662  96 keyslakrtkmsnekefplskllatldkpqllslinnlidahpnlqseiasniprptiqsvtnvlnslekkyqdsfPytkWGqskddys 184
+                             ++ +kr k+++++ fp+s+llat+dk +l+ lin lidahp +q +ia+++p pt+q+ +++l+ lek+++ s+Py k G+ kddys
+  Umbra1|Umbra1_218973  41 SRHAEIKRLKTGSQRRFPISRLLATMDKDKLVHLINGLIDAHPFIQEDIAQIMPSPTLQTASSTLADLEKRMNLSYPYNKGGPGKDDYS 129
+                           346889*********************************************************************************** PP
+
+          ORTHOMCL1662 185 fnrvkPailelkgaildyaahftspeefPtttfsflhlatsiaqrlPeWdnslhnelkrdlyiklaeyWkkaivdaaskvseGkiyGql 273
+                           fnrv+Pa+++l  ++ d+a+hft p efPtt fs+lh+at + +rlP Wd ++hn++krd y+ l+ yWk+ i++a++kv +GkiyGq 
+  Umbra1|Umbra1_218973 130 FNRVRPALMDLVTTLTDFAEHFTQPSEFPTTSFSYLHIATCVIHRLPTWDTESHNNIKRDAYVSLSGYWKRVIRQASDKVGDGKIYGQQ 218
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1662 274 vvneWaknlaqhnrdsnGmfqqaldefveklGwiiglqegss 315
+                           vv+eWaknlaqhn  +nG f  a++ef+++lGwiigl +g +
+  Umbra1|Umbra1_218973 219 VVSEWAKNLAQHNTVTNGLFSSAIEEFTKQLGWIIGLHSGPE 260
+                           *************************************99875 PP
+
+>> Umbra1|Umbra1_199062  fgenesh1_pg.25_#_97
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  288.4   1.8   8.1e-90     4e-86      76     316 ..      78     316 ..      35     342 .. 0.84
+
+  Alignments for each domain:
+  == domain 1  score: 288.4 bits;  conditional E-value: 8.1e-90
+          ORTHOMCL1662  76 msdsksppssprlvstqdmekeyslakrtkmsnekefplskllatldkpqllslinnlidahpnlqseiasniprptiqsvtnvlnsle 164
+                           m  + + +ss r   + dm ++ s+ k    ++  e+    ++ tldk  l+ l+n lid++p lq ei +nip pt+qsv++ +n le
+  Umbra1|Umbra1_199062  78 MKAKTAENSSKR--TKTDMTNHLSVRKLLVRGSLIELFSLLIVDTLDKTTLVDLVNGLIDSYPSLQPEIEKNIPAPTLQSVSQAINDLE 164
+                           444444445555..566777777777766666665554445678********************************************* PP
+
+          ORTHOMCL1662 165 kkyqdsfPytkWGqskddysfnrvkPailelkgaildyaahftspeefPtttfsflhlatsiaqrlPeWdnslhnelkrdlyiklaeyW 253
+                            k  +sfPy++ G+++ddys+nrvk  +++l +a+ +ya+hft++ +fPtttfs+lh+at +a+rlP W n  hn+++r+ly+ l++yW
+  Umbra1|Umbra1_199062 165 YKLSESFPYSRSGPMRDDYSYNRVKGHLMDLVNALQEYADHFTTSSDFPTTTFSYLHFATLVAERLPSWSNPTHNNIQRNLYLDLVKYW 253
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1662 254 kkaivdaaskvseGkiyGqlvvneWaknlaqhnrdsnGmfqqaldefveklGwiiglqegsss 316
+                            kai +a+sk+ eGkiyG+ vv+eWaknl qhn+ +nG f +a+d f + lGwiig+ + ++ 
+  Umbra1|Umbra1_199062 254 MKAIEQATSKIAEGKIYGEQVVTEWAKNLMQHNNATNGLFSEAIDLFANSLGWIIGFSSPTIG 316
+                           ********************************************************9988852 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (341 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       340  (0.0342362); expected 198.6 (0.02)
+Passed bias filter:                      168  (0.0169167); expected 198.6 (0.02)
+Passed Vit filter:                        15  (0.00151042); expected 9.9 (0.001)
+Passed Fwd filter:                         2  (0.00020139); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.19u 0.00s 00:00:00.19 Elapsed: 00:00:00.39
+# Mc/sec: 3608.32
+//
+Query:       ORTHOMCL1673  [M=215]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    4.7e-95  316.2   0.1    5.2e-95  316.1   0.1    1.0  1  Umbra1|Umbra1_241067  fgenesh1_kg.27_#_367_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_241067  fgenesh1_kg.27_#_367_#_combest_scaffold_27_57147
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  316.1   0.1   5.3e-99   5.2e-95      11     214 ..       1     200 [.       1     200 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 316.1 bits;  conditional E-value: 5.3e-99
+          ORTHOMCL1673  11 lalapqfaghrygsstaahvlevyldyvcpfsaklfkrlrnevlpyieekysekvqflfrqqvqpwhpsstvvheaalavekidkekff 99 
+                           +alapqf ghr gs+ a h levyldy cpfsak++k+lr+ev+py++++++++vq++frqqvqpwhpsst+vheaalave++d++kf+
+  Umbra1|Umbra1_241067   1 MALAPQFIGHRIGSAAAKHSLEVYLDYTCPFSAKIYKKLRKEVIPYLNNEHPNEVQLIFRQQVQPWHPSSTLVHEAALAVERVDNTKFW 89 
+                           89*************************************************************************************** PP
+
+          ORTHOMCL1673 100 efsaklfevqkeyfdesvqaltreqineslakhaesvGissdqflslleiksvsdasearnaGnkvtndlklhiklgrqegihvsptvl 188
+                           +fs+ lfe q ey+de+v + +r++i+ +la +a +v ++ d+ ls l+i+s     ea+n+Gn+vtndlkl ik+grq+gihvsptvl
+  Umbra1|Umbra1_241067  90 DFSDVLFERQTEYYDEAVYTKSRNEIYGKLADLATTVNVPGDKVLSYLTIRSG----EAKNSGNQVTNDLKLQIKIGRQNGIHVSPTVL 174
+                           *************************************************9876....9******************************* PP
+
+          ORTHOMCL1673 189 fdgiidnsissgwtldqwkewlakkv 214
+                           fdg+ d+s+ss+w+ldqwke+++ k+
+  Umbra1|Umbra1_241067 175 FDGLKDDSVSSSWDLDQWKEYFKSKL 200
+                           **********************9986 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (215 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       289  (0.0291008); expected 198.6 (0.02)
+Passed bias filter:                      205  (0.0206424); expected 198.6 (0.02)
+Passed Vit filter:                        10  (0.00100695); expected 9.9 (0.001)
+Passed Fwd filter:                         1  (0.000100695); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.16u 0.00s 00:00:00.16 Elapsed: 00:00:00.30
+# Mc/sec: 2957.55
+//
+Query:       ORTHOMCL1703  [M=672]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    1.1e-65  221.6   4.1      5e-65  219.4   4.0    2.0  1  Umbra1|Umbra1_249446  fgenesh1_kg.43_#_303_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_249446  fgenesh1_kg.43_#_303_#_combest_scaffold_43_92815
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  219.4   4.0     5e-69     5e-65      12     453 ..      12     440 ..       1     507 [. 0.71
+
+  Alignments for each domain:
+  == domain 1  score: 219.4 bits;  conditional E-value: 5e-69
+          ORTHOMCL1703  12 GrsswktvrdspyfLlqkgpqqqnnnskrssasgYRiitkgFPHYRvadhdDfnqikeaFdllhqevlsevegkktvkKiLkqlkiwcs 100
+                           G  +w t+  s  + +q  pq +         s YR++t+ +P Y+++++ D + i +aF l+  e l+e++gk t+k+i k++ +   
+  Umbra1|Umbra1_249446  12 GNKQWTTIAHSDNLCVQASPQGRP-------RSIYRLVTRRYPNYKLSESYDQETIYQAFTLVA-EQLRELDGKVTSKRIAKHVHQLLL 92 
+                           678999999999999999998653.......478**************************9876.558******************988 PP
+
+          ORTHOMCL1703 101 knknitfeedvdeyasdtsispegnssgemddqddsyplistennissnsssSsstksenai...inekknagtsldqeklsqsperse 186
+                           +n n  f       +s t ++ e +s  e     ++ pl +   + s +s sS  t + +a    i  ++ +++  +       + +++
+  Umbra1|Umbra1_249446  93 QN-NKLFSL----TSSSTAVTDEDESDYEA----NGSPLAMQGLSASVSSTSSDETPQPTATpdlIPISTIKTQIHQTAAEIPITPPAD 172
+                           87.555665....45888888888887777....4556655444444433444445444444443222222222222222222334455 PP
+
+          ORTHOMCL1703 187 fpvnqsdypdpdsdssdgeaavdenvdetvdesgvrnvdewvslgsslldsLmgwlegppiegan..svssknnntnktsnnknqTilD 273
+                           ++    + p   s +    ++ + +vd      g +  ++   +   l+  +  ++egp +  +      +++ ++ ++++   q +lD
+  Umbra1|Umbra1_249446 173 IQLPPLELPRITSLELV--ETPE-EVD-----IGNNFLENTAWVDPDLMAAFSYFFEGPQLGRSGesGNVKRKRKSDAEKKRDPQSLLD 253
+                           55446666544443322..2222.233.....23334566666778999***********9888733233455666667777789**** PP
+
+          ORTHOMCL1703 274 iPlqFidLLTyPeidska....skKaSFavlreisfvkqrrkvLlLitiylfvirlcsfdlflvllfasncamlflmknsGkvnvtmak 358
+                           iP+ Fi LLTyPe+ ++a    ++K  F+ lreisfv+ rr++Ll it+y + +r+csfd+fl  lf +nc ml+lmk sG vnvtmak
+  Umbra1|Umbra1_249446 254 IPFMFISLLTYPEVPQEAdndkAQKIRFTALREISFVRNRRRMLLGITFYCLFLRFCSFDFFLFALFCTNCGMLYLMKKSGSVNVTMAK 342
+                           **************7776333357889************************************************************** PP
+
+          ORTHOMCL1703 359 ravrqriGWakqWaGslfrtranvinnntavnr..kntapvtvknqpess...ktrmskqssqdatvqs.GslsdvtavGskvaktapk 441
+                           ravrqri Wa+qW+G l+ +r n++++ ++ n+   +t p+t++ +  +s      m + +s   +v+   s   ++a Gs  +  +  
+  Umbra1|Umbra1_249446 343 RAVRQRITWARQWTGLLL-SRNNNTEKSSSSNKekSKTLPTTLQRKQTASsigSVAMLRTNSSPVEVRPpTSPVPTGASGSRFS--SFG 428
+                           ***************877.57777777766665114689999976544431113456666666555553134445555555543..344 PP
+
+          ORTHOMCL1703 442 rgvflrksasad 453
+                           ++ f +ks++ +
+  Umbra1|Umbra1_249446 429 KALFRHKSSKGN 440
+                           555555555555 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (672 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                      1004  (0.101098); expected 198.6 (0.02)
+Passed bias filter:                      296  (0.0298057); expected 198.6 (0.02)
+Passed Vit filter:                        32  (0.00322223); expected 9.9 (0.001)
+Passed Fwd filter:                         3  (0.000302084); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.41u 0.01s 00:00:00.42 Elapsed: 00:00:00.81
+# Mc/sec: 3423.73
+//
+Query:       ORTHOMCL1728  [M=1173]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+          0 1398.6   5.4   5.8e-257  854.8   0.1    3.0  3  Umbra1|Umbra1_228062  fgenesh1_kg.10_#_197_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_228062  fgenesh1_kg.10_#_197_#_combest_scaffold_10_5659
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  854.8   0.1  5.8e-261  5.8e-257      23     648 ..       7     644 ..       1     652 [. 0.94
+   2 !  218.8   0.1     6e-69   5.9e-65     625     883 ..     649     898 ..     645     917 .. 0.88
+   3 !  326.8   0.2  1.6e-101   1.5e-97     872    1143 ..     928    1198 ..     912    1214 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 854.8 bits;  conditional E-value: 5.8e-261
+          ORTHOMCL1728  23 settksegklvenvvedtiv......eaeePnftlainlphfPgktyvlanaseLvqevkqwlidsPetciytCfsLslkgrrLdDyke 105
+                           ++ + +e++ v+  v+dt+v       + e  ++l++ lp+  g+ +vla   e + ++kq +i+sPetciy Cf+L+++g++L+D+ e
+  Umbra1|Umbra1_228062   7 ESVEAAENQPVHSEVNDTVVtedqedLVAEETYQLTVCLPRESGQIQVLASPREAIHDIKQSIIESPETCIYSCFYLTFNGQKLNDFEE 95 
+                           44667888899999999999776654466889********************************************************* PP
+
+          ORTHOMCL1728 106 Lqe.egitqDCdLdLveepYterearihvihvrellaGPfkqvtssvGidpGlsfftavsgi...nvktnneqseengkskedeevkkt 190
+                           L + egit + +L Lve++Yt+r++rih++ +r+llaGP+k ++   G+d Glsf+tav+g    ++ ++ e+++e+ +   d  v +t
+  Umbra1|Umbra1_228062  96 LGDiEGITTESQLYLVEDKYTDRDSRIHINRLRDLLAGPYKPNPGDAGVDGGLSFLTAVTGKideEIVPAGEKKDEEHELFSDAPVAET 184
+                           *766*******************************************************9852213456889999999999******** PP
+
+          ORTHOMCL1728 191 PftdydftaPs.lskfiPdnfgrhkikcleslylsGwnPvPferrrrGdllyltvstieGetlhitagvdGffvnrstiknfdfnPr.. 276
+                            ft+ydf a s ls+f+P +f+r+  +cl+s+ lsGwnPvP  ++ +Gdllyl+ +t+e et+hit+ v Gffvn s++++fd+  +  
+  Umbra1|Umbra1_228062 185 AFTNYDFDAKShLSQFVPTSFQRTAPQCLKSFGLSGWNPVPQSQKLKGDLLYLVFTTLENETVHITSNVRGFFVNNSSNNKFDPTVKra 273
+                           *******997669**********************************************************************986533 PP
+
+          ORTHOMCL1728 277 .selqvyhahslitllqglsPsfrtnfkalqdfigahhpfetiPvntcfPaypwivkqskhnydlgrateiylnfgmdavdslrdwnde 364
+                            s  ++ ++hslitllq +sP f tnf  lq fi+ hh +e +Pvnt +Paypw+vk++ h++dl+r +e +ln+g+d+vdslrdwnde
+  Umbra1|Umbra1_228062 274 pSAEKLTESHSLITLLQHVSPLFATNFEKLQKFITDHHMLEVLPVNTTLPAYPWAVKKTPHTFDLTRPAEAFLNYGTDSVDSLRDWNDE 362
+                           356799*********************************************************************************** PP
+
+          ORTHOMCL1728 365 fqsqreyprvelrdrvlrerlinkiqadftesavkGaiavinGnvipfnprdpedehmyvynniffskafdtrGtfaklGGndaahvat 453
+                           +qs re pr +l++rvlrerlink+qa+ft++avkGa+av++G ++ +np +pe  hmyvynniffsk  d rGtf klGG++aahvat
+  Umbra1|Umbra1_228062 363 LQSHRELPRTNLQERVLRERLINKLQAEFTDAAVKGAMAVVEGTIVALNPLEPEGSHMYVYNNIFFSKGSDGRGTFEKLGGDEAAHVAT 451
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1728 454 Gkdlegirivnsidieglytlgcvvidykgvrivaqtivpgifrrqddssivygyfdngrddpklcanpefheivgkaakalhlaehsv 542
+                           Gkdleg+ri n+ d+egl tlg v++dykgvr+vaq+ivpgifrrqd++sivyg  dng    k+ a+ +fhe++g aakalhla h v
+  Umbra1|Umbra1_228062 452 GKDLEGVRILNNADVEGLCTLGSVIVDYKGVRVVAQSIVPGIFRRQDETSIVYGSVDNGE---KISADEKFHELLGAAAKALHLAAHPV 537
+                           ***********************************************************5...9************************* PP
+
+          ORTHOMCL1728 543 cdtkgttvklytsletkglmgddgrrylfdlyrlnpvdiefiekecepke..esdipayphklvllrpeliesywdyrfrlwlqdkank 629
+                           +d  g+ v lytsletkgl+g dgrry++dlyrlnpvdief e+e  +    ++++p yphk++llrpel+  yw+ + r w+++k+ k
+  Umbra1|Umbra1_228062 538 VDGEGNEVELYTSLETKGLLGADGRRYILDLYRLNPVDIEFQENEATETSdaDNKLPVYPHKMTLLRPELMALYWEQKLREWVKEKTGK 626
+                           *********************************************8765411678********************************** PP
+
+          ORTHOMCL1728 630 kkevvddstkevvisende 648
+                             +++d + +++++ e++e
+  Umbra1|Umbra1_228062 627 TDDTKD-AEQQATTPESEE 644
+                           ***999.555666666665 PP
+
+  == domain 2  score: 218.8 bits;  conditional E-value: 6e-69
+          ORTHOMCL1728 625 dkankkkevvddstkevvisendefnldfnpdafttfnlpigeehaarkvaeeenvrnaskylrdtvirmliiefttlavspvdgislt 713
+                            k +++ +++++s +ev+i + ++f+l+fnpdaft +++  ge+  + +  +e+nvr+ask+l ++vi  l+++f++ +vsp+dg +lt
+  Umbra1|Umbra1_228062 649 TKKEQNGNAAENSEEEVKI-DVNDFKLSFNPDAFTGVKTKEGEHEESIR-EHENNVRDASKFLAESVIPSLVLDFSSYVVSPLDGDALT 735
+                           3444445566766666555.7778*****************99776665.6789*********************************** PP
+
+          ORTHOMCL1728 714 ttmhrrginmrylgmianiinesqdhkldhikhlvihemiiraskrilrnllrqvtntyipycvshflncllgtdfnmnpqplvsestl 802
+                            +mh+rginmrylg i+++++ s+d++ldh+k + i+em+ raskrilrnll   + t i  c+shflncl+g+ fn +p+  v   + 
+  Umbra1|Umbra1_228062 736 KAMHQRGINMRYLGKIVQLVEISKDNRLDHVKVIAIQEMVTRASKRILRNLLTSCAITDISACISHFLNCLFGAKFNPKPEAEVFAGSS 824
+                           ****************************************************************************9999877755443 PP
+
+          ORTHOMCL1728 803 tknlkydyltltpsslcqqiletvliryryrlpedfvnvhvrklpllreiclrvgvqiavqgyhflkkkskkrlttfipdd 883
+                                  y  ltpssl qqi   v  r+ry lp+dfv+ +++ +p lreiclrvg+q+ ++ yhf    s+++l+ f  +d
+  Umbra1|Umbra1_228062 825 -----ATYADLTPSSLRQQIQSEVQKRFRYNLPDDFVD-NLKTVPALREICLRVGIQLEAKDYHFE-AYSEEQLAQFSAED 898
+                           .....45889***************************8.6899*********************96.46777788887776 PP
+
+  == domain 3  score: 326.8 bits;  conditional E-value: 1.6e-101
+          ORTHOMCL1728  872 skkrlttfipddilnliptikqatpkcafaeetfetgklsiaqgsrdlgvdlmlqslalheqsygflhpatakcysalamcfyhned 958 
+                              ++ t+f+pddilnl pt+kqa  + +faee+fe+gk+si+qg r+lg++l+l+slalheq+ygflhp t+kcy+alam++yh ed
+  Umbra1|Umbra1_228062  928 IIRQTTVFVPDDILNLKPTVKQANTRSVFAEEAFEAGKMSISQGHRQLGLELLLESLALHEQTYGFLHPETSKCYAALAMIYYHGED 1014
+                            4467899******************************************************************************** PP
+
+          ORTHOMCL1728  959 leiaidfqkkavivlertcgvdsvdaihgylhlglfenaightelglkymrhamyyweiifgdlhpdgatadhnvgimlqnmkdyeg 1045
+                             e a+dfq+kavi  ertcgvd  +++h yl+lglfe + g+t+l+l+y+rha+yyw++ifg  hpd+atad+n+g+mlq+++dy  
+  Umbra1|Umbra1_228062 1015 SEAALDFQRKAVIASERTCGVDHPETLHTYLNLGLFEHSAGRTKLALRYLRHALYYWHLIFGAGHPDSATADNNIGVMLQSLRDYPT 1101
+                            *************************************************************************************** PP
+
+          ORTHOMCL1728 1046 sikfferakntnefvfgknnvvtgesyhllakalayaedykaaliaeksayhifnavfgaehpktretelllrdltsnavhnakmal 1132
+                            s k fera +t+e+++gk+ v+tg  yh+laka++   +++ al ae+ a+ +f a +g e p+t+e++l l++ltsna++ ak a 
+  Umbra1|Umbra1_228062 1102 SAKCFERACKTQEVILGKDHVLTGTGYHVLAKAFTLQGEFEKALNAERVAHEVFTAKLGEEDPRTKESDLWLKELTSNALFTAKQAE 1188
+                            ************************************************************************************986 PP
+
+          ORTHOMCL1728 1133 qqkqdkpqrkp 1143
+                             ++  k  +k 
+  Umbra1|Umbra1_228062 1189 VEQA-KLAQKA 1198
+                            5443.433333 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (1173 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       224  (0.0225556); expected 198.6 (0.02)
+Passed bias filter:                      145  (0.0146007); expected 198.6 (0.02)
+Passed Vit filter:                        10  (0.00100695); expected 9.9 (0.001)
+Passed Fwd filter:                         2  (0.00020139); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.59u 0.02s 00:00:00.61 Elapsed: 00:00:01.20
+# Mc/sec: 4033.96
+//
+Query:       ORTHOMCL1769  [M=221]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    8.9e-59  198.0  10.2    3.3e-57  192.9  10.2    2.0  1  Umbra1|Umbra1_256915  fgenesh1_kg.64_#_197_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_256915  fgenesh1_kg.64_#_197_#_combest_scaffold_64_122888
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  192.9  10.2   3.3e-61   3.3e-57       3     204 ..       3     254 ..       1     268 [. 0.82
+
+  Alignments for each domain:
+  == domain 1  score: 192.9 bits;  conditional E-value: 3.3e-61
+          ORTHOMCL1769   3 srwgstpkcprcekavymaeqvigpngp.whkailtcidikkrldsyalaehegeaycktchgrrfgpkgygfasgtsllssdkPvkkp 90 
+                            r+g++pkcprc+k vymaeqv+gpn   +h+a++tc +++k lds ++ae eg+aycktc++r++gpkgyg + g s++ ++  + k+
+  Umbra1|Umbra1_256915   3 PRFGGAPKCPRCDKYVYMAEQVLGPNSVyYHRACFTCKECNKSLDSTTMAEREGQAYCKTCYNRQWGPKGYGSG-GLSFMHTETKTAKE 90 
+                           69***********************98637******************************************76.67888888766665 PP
+
+          ORTHOMCL1769  91 ssnksesssdk.....isqsppksainpssesyGffstrsqspr............................................. 129
+                              +s+  +++     + +   ++a++p s+      t     +                                             
+  Umbra1|Umbra1_256915  91 VLAESDWAAEQaatskVPTNFNQAAVQPASPQ----QT-----Qpiaapslparptnnapslpsrpmvtknasappaippkpstvnerp 170
+                           54433333333000003333333333333222....22.....1334445666799999****************************** PP
+
+          ORTHOMCL1769 130 ..........gakrswtlPvnndiCPrCskavyaaeavlGaGvkyhkLclrcvkcsklldstnltdregkiycrlcyskefgpkg 204
+                                      +k+  ++ vn d+C +C k+vyaae +lGaG kyhk+c rc kc+klldst + d+   iycr+cysk+fgpk 
+  Umbra1|Umbra1_256915 171 sayvnsrtgyVPKK-MSFQVNSDLCAKCDKPVYAAELILGAGKKYHKMCFRCLKCNKLLDSTSMVDKGFDIYCRPCYSKDFGPKV 254
+                           ****9999865555.9*******************************************************************93 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (221 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       617  (0.0621287); expected 198.6 (0.02)
+Passed bias filter:                      357  (0.035948); expected 198.6 (0.02)
+Passed Vit filter:                        40  (0.00402779); expected 9.9 (0.001)
+Passed Fwd filter:                        11  (0.00110764); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.35u 0.01s 00:00:00.36 Elapsed: 00:00:00.71
+# Mc/sec: 1284.54
+//
+Query:       ORTHOMCL1770  [M=397]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   3.2e-145  483.1   6.0   4.1e-145  482.7   6.0    1.1  1  Umbra1|Umbra1_228793  fgenesh1_kg.11_#_91_#_combest_scaffold_
+     9e-108  359.8  11.7   3.7e-107  357.7  11.7    1.7  1  Umbra1|Umbra1_251893  fgenesh1_kg.49_#_284_#_combest_scaffold
+
+
+Domain annotation for each sequence (and alignments):
+>> Umbra1|Umbra1_228793  fgenesh1_kg.11_#_91_#_combest_scaffold_11_9638
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  482.7   6.0  8.3e-149  4.1e-145       9     397 .]       6     394 ..       1     394 [. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 482.7 bits;  conditional E-value: 8.3e-149
+          ORTHOMCL1770   9 kprsklftclacqvafntaedqrehygtdwhrynlkrkvaelppvtaevfeqkvlaqqaqskda.eekasfsaecaackktyysenaya 96 
+                           +  s lftc+acqvaf + e qr+hy +dwhrynlkrkva+lpp+t   f+qk+  +q+++ +   e+ +fs ec+ac+kt+ ++ ++ 
+  Umbra1|Umbra1_228793   6 EQTSGLFTCMACQVAFRSGEGQRNHYRSDWHRYNLKRKVADLPPITLAQFDQKLQVNQTKTDEKkAEQEAFSGECEACRKTFGTQGSFN 94 
+                           56799*************************************************9998876654156779******************* PP
+
+          ORTHOMCL1770  97 nhlrsnkhkvaeikaaqegkaqkkktvlearkdaen.iqee........evidkkiaaavkleeidclfctqksesfeenlkhmtkvhs 176
+                            h++s+khk a +kaa   ++++k+t  e+  ++ n + +e        e+idk+i+ av+l e+dclfct+ks++fe  + hmtkvhs
+  Umbra1|Umbra1_228793  95 SHIQSKKHKEAVAKAASRPQKTVKETDDEKAATTVNlVVDEnmsdgevnEIIDKRISEAVRLAETDCLFCTHKSDTFEDTMAHMTKVHS 183
+                           ***************99999888877665555444422222345557889*************************************** PP
+
+          ORTHOMCL1770 177 ffipeieylvdlrGlikylGekisvgnvclycngrgkglksleavrkhmidkGhckiaydrdedimeivdfydftssypdeeeeeweev 265
+                           ffip+ieyl dlrGlikylGekisvgnvclycng+g++++sleavr hm+dkGhckiay+ ded me+vdfydf+ssyp+  + e  +v
+  Umbra1|Umbra1_228793 184 FFIPDIEYLSDLRGLIKYLGEKISVGNVCLYCNGKGRAIRSLEAVRAHMLDKGHCKIAYESDEDAMEVVDFYDFSSSYPQGYDPENPDV 272
+                           *******************************************************************************9984444444 PP
+
+          ORTHOMCL1770 266 eddeeedeeedlddeeedeleksdllyeddvelvlPsGariGhrslrryykqnlrpeeerdsiiinrliteygenlgykr......rsg 348
+                                   + +l      +l++   l+ed++el+lPsGariGhrsl+ryykq+++p ++rds++in+lit+y++++gy+       r +
+  Umbra1|Umbra1_228793 273 --------DAEL-----AQLTNDIQLNEDEMELILPSGARIGHRSLQRYYKQSFKPDDSRDSVLINKLITQYTDDFGYESlrsntgRHA 348
+                           ........3333.....4556666899***************************************************97777666677 PP
+
+          ORTHOMCL1770 349 gvlitkdeeakaaqakivalkdkrrqqefdtrvGikanklqrhfraqil 397
+                             ++t +++     +k+ a+ + r++++f+ + G++an+ q+hfr qil
+  Umbra1|Umbra1_228793 349 QYMVTDGRNGA--PTKRDAFAEIRHREDFKMKTGMQANN-QKHFRLQIL 394
+                           78888854433..346999*******************7.9******98 PP
+
+>> Umbra1|Umbra1_251893  fgenesh1_kg.49_#_284_#_combest_scaffold_49_100035
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  357.7  11.7  7.5e-111  3.7e-107       5     395 ..       9     387 ..       5     388 .. 0.84
+
+  Alignments for each domain:
+  == domain 1  score: 357.7 bits;  conditional E-value: 7.5e-111
+          ORTHOMCL1770   5 vsvqkprsklftclacqvafntaedqrehygtdwhrynlkrkvaelppvtaevfeqkvlaqqaqskdaeekasfsaecaackktyysen 93 
+                           +    prs l+tclacqvaf+++e+qr+hy tdwh+ynlkrkvael p++ae f+qkvlaqqa+ ++ ee+  +  +c  c+kty se+
+  Umbra1|Umbra1_251893   9 SEPLAPRSSLYTCLACQVAFHSSEKQRNHYRTDWHKYNLKRKVAELNPISAEQFAQKVLAQQARGREEEERHDLVYDCVLCQKTYRSEQ 97 
+                           45568************************************************************************************ PP
+
+          ORTHOMCL1770  94 ayanhlrsnkhkvaeikaaqegkaqkkktvlearkdaeniqeeevidkkiaaa....vkleeidclfctqksesfeenlkhmtkvhsff 178
+                           a++nh++s+khk +e+ka q  +  +   +++  +  ++ ++e+v d + +a+    +   ++dclfc +++  ++enlkhm k+h ff
+  Umbra1|Umbra1_251893  98 AFTNHVQSKKHKDTELKAEQLHELPQSTIIINNGRLLQDEDDESVSDIHSQASriehIDEPDKDCLFCRHHALEMDENLKHMEKAHGFF 186
+                           ********************99999999998876655556666666654433211114555689************************* PP
+
+          ORTHOMCL1770 179 ipeieylvdlrGlikylGekisvgnvclycngrgkglksleavrkhmidkGhckiaydrdedimeivdfydftssypdeeeeeweeved 267
+                           +p+ +yl d  G++++l +k+  + +clycngrg+  +sleavr hm+d Ghck+++++  d+ e+ +fyd+  s  + +     +v  
+  Umbra1|Umbra1_251893 187 LPDPDYLKDTSGFLQHLTNKLVQEHLCLYCNGRGREYRSLEAVRAHMLDCGHCKVSFETVGDLEEVIEFYDYDLSVIESD----MDV-- 269
+                           ************************************************************************88876655....334.. PP
+
+          ORTHOMCL1770 268 deeedeeedlddeeedeleksdllyeddvelvlPsGariGhrslrryykqnlrpeeerdsiiinrliteygenlgy.....krrsggvl 351
+                           de+          + ++ + sdl+   + elvlPsG+riGhrs++ yy+q+lrp + r+s+  nrl+t+ ge ++      k+r   + 
+  Umbra1|Umbra1_251893 270 DES----S-----KTKSGQPSDLV---EAELVLPSGTRIGHRSFNVYYRQSLRPVDARESVAANRLLTQNGEGTESlsksqKKRMHQLA 346
+                           111....1.....12223345555...58*****************************************9876541111134555666 PP
+
+          ORTHOMCL1770 352 itkdeeakaaqakivalkdkrrqqefdtrvGikanklqrhfraq 395
+                           it ++ + ++q+   a    +++q+f+ r+G++ n l +h+r q
+  Umbra1|Umbra1_251893 347 ITDGSYSPEQQQSLSA---VKQRQKFQLRMGVRNNGLMKHYRLQ 387
+                           6665555555533333...344579*****************87 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (397 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       624  (0.0628336); expected 198.6 (0.02)
+Passed bias filter:                      322  (0.0324237); expected 198.6 (0.02)
+Passed Vit filter:                        34  (0.00342362); expected 9.9 (0.001)
+Passed Fwd filter:                         8  (0.000805558); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.33u 0.01s 00:00:00.34 Elapsed: 00:00:00.69
+# Mc/sec: 2374.42
+//
+Query:       ORTHOMCL1781  [M=412]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (412 nodes)
+Target sequences:                         9931  (4126818 residues searched)
+Passed MSV filter:                       282  (0.0283959); expected 198.6 (0.02)
+Passed bias filter:                      177  (0.017823); expected 198.6 (0.02)
+Passed Vit filter:                        22  (0.00221529); expected 9.9 (0.001)
+Passed Fwd filter:                         8  (0.000805558); expected 0.1 (1e-05)
+Initial search space (Z):               9931  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.28u 0.00s 00:00:00.28 Elapsed: 00:00:00.56
+# Mc/sec: 2982.89
+//
+[ok]

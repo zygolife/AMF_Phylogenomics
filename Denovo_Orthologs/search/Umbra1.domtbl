@@ -1,0 +1,44 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Umbra1|Umbra1_221441 -            441 ORTHOMCL1342         -            444  1.1e-218  725.2   0.0   1   1  2.6e-222  1.3e-218  724.9   0.0     9   425    11   424     3   435 0.96 fgenesh1_kg.4_#_44_#_combest_scaffold_4_83983
+Umbra1|Umbra1_238087 -           2250 ORTHOMCL1342         -            444  1.8e-125  417.9   0.1   1   1  3.1e-128  1.5e-124  414.9   0.1    45   418    50   457    18   476 0.84 fgenesh1_kg.22_#_551_#_combest_scaffold_22_47625
+Umbra1|Umbra1_249996 -            220 ORTHOMCL1382         -            248   2.7e-68  229.1  19.1   1   1   3.3e-72   3.2e-68  228.9  19.1    14   247     1   218     1   219 0.94 fgenesh1_kg.45_#_28_#_combest_scaffold_45_94548
+Umbra1|Umbra1_245954 -            145 ORTHOMCL1401         -            175     6e-76  253.3   9.6   1   1   1.4e-79   7.1e-76  253.1   9.6    37   175     6   144     3   144 0.99 fgenesh1_kg.36_#_293_#_combest_scaffold_36_77615
+Umbra1|Umbra1_219153 -            143 ORTHOMCL1401         -            175   6.5e-76  253.2   9.1   1   1   1.5e-79   7.6e-76  253.0   9.1    38   175     5   142     2   142 0.99 fgenesh1_kg.2_#_1077_#_combest_scaffold_2_39099
+Umbra1|Umbra1_220801 -            529 ORTHOMCL1440         -            525  7.4e-290  961.3   1.0   1   1  8.9e-294  8.8e-290  961.1   1.0     5   519    11   525     7   528 0.99 fgenesh1_kg.3_#_956_#_combest_scaffold_3_64612
+Umbra1|Umbra1_261237 -            288 ORTHOMCL1444         -            286  6.5e-106  353.0  13.4   1   1  1.5e-109  7.3e-106  352.8  13.4     2   285     1   286     1   287 0.98 fgenesh1_kg.86_#_76_#_combest_scaffold_86_142618
+Umbra1|Umbra1_232042 -            290 ORTHOMCL1444         -            286     2e-79  266.0  16.8   1   1   4.6e-83   2.3e-79  265.9  16.8     2   283     1   285     1   288 0.96 fgenesh1_kg.14_#_630_#_combest_scaffold_14_21806
+Umbra1|Umbra1_225391 -            413 ORTHOMCL1477         -            369  2.9e-126  421.1  39.5   1   2   2.6e-13   1.3e-09   37.2  15.2     1    89     1    89     1    92 0.70 fgenesh1_kg.7_#_550_#_combest_scaffold_7_128309
+Umbra1|Umbra1_225391 -            413 ORTHOMCL1477         -            369  2.9e-126  421.1  39.5   2   2  1.5e-120  7.6e-117  390.1  16.9    68   359    91   399    88   403 0.91 fgenesh1_kg.7_#_550_#_combest_scaffold_7_128309
+Umbra1|Umbra1_289057 -            349 ORTHOMCL1477         -            369   2.2e-74  250.3  15.0   1   1   5.4e-76   2.7e-72  243.5  15.0     1   357     1   332     1   342 0.85 MIX4280_277_98
+Umbra1|Umbra1_244546 -            399 ORTHOMCL1518         -            395  1.5e-200  665.1   0.6   1   1  8.9e-204  1.8e-200  664.9   0.6     3   395     4   398     2   398 0.99 fgenesh1_kg.33_#_481_#_combest_scaffold_33_73081
+Umbra1|Umbra1_221717 -            408 ORTHOMCL1518         -            395   1.1e-98  329.7   5.4   1   1    7e-102   1.4e-98  329.4   5.4     4   393    24   405    22   407 0.94 fgenesh1_kg.4_#_320_#_combest_scaffold_4_84840
+Umbra1|Umbra1_223787 -            397 ORTHOMCL1518         -            395   3.4e-88  295.2   5.7   1   1   1.9e-91   3.7e-88  295.1   5.7     3   395     4   396     1   396 0.94 fgenesh1_kg.5_#_1151_#_combest_scaffold_5_104198
+Umbra1|Umbra1_216542 -            417 ORTHOMCL1518         -            395   8.8e-72  241.2   9.2   1   1   1.3e-74   2.6e-71  239.6   9.2     4   393    30   414    28   415 0.90 fgenesh1_kg.1_#_112_#_combest_scaffold_1_419
+Umbra1|Umbra1_284138 -            417 ORTHOMCL1518         -            395   2.1e-71  239.9   5.1   1   1   1.9e-74   3.7e-71  239.1   5.1     4   394    31   415    28   416 0.91 estExt_Genemark1.C_820006
+Umbra1|Umbra1_225857 -            186 ORTHOMCL1529         -            185  1.9e-115  382.0   0.9   1   1  2.1e-119  2.1e-115  381.9   0.9     1   185     1   185     1   185 1.00 fgenesh1_kg.7_#_1016_#_combest_scaffold_7_129581
+Umbra1|Umbra1_253930 -            371 ORTHOMCL1548         -            383  1.8e-155  516.8   7.0   1   1  4.3e-159  4.2e-155  515.5   7.0     1   383     1   370     1   370 0.95 fgenesh1_kg.55_#_124_#_combest_scaffold_55_110259
+Umbra1|Umbra1_254882 -            373 ORTHOMCL1576         -            370  2.8e-166  552.1   2.1   1   1  3.1e-170  3.1e-166  551.9   2.1    17   367    11   364     1   367 0.96 fgenesh1_kg.57_#_350_#_combest_scaffold_57_113467
+Umbra1|Umbra1_247111 -            247 ORTHOMCL1586         -            244  1.6e-106  354.9   7.2   1   1  1.8e-110  1.8e-106  354.7   7.2     1   213     1   212     1   245 0.88 fgenesh1_kg.38_#_430_#_combest_scaffold_38_81319
+Umbra1|Umbra1_209841 -            244 ORTHOMCL1650         -            232     5e-94  312.8   0.3   1   1   6.3e-98   6.2e-94  312.5   0.3     3   225    12   234    10   239 0.96 estExt_Genewise1Plus.C_270040
+Umbra1|Umbra1_218973 -            289 ORTHOMCL1662         -            341   3.9e-96  321.3   0.0   1   1  9.1e-100   4.5e-96  321.1   0.0    96   315    41   260     4   278 0.91 fgenesh1_kg.2_#_897_#_combest_scaffold_2_38572
+Umbra1|Umbra1_199062 -            441 ORTHOMCL1662         -            341   2.2e-86  289.2   1.8   1   1   8.1e-90     4e-86  288.4   1.8    76   316    78   316    35   342 0.84 fgenesh1_pg.25_#_97
+Umbra1|Umbra1_241067 -            201 ORTHOMCL1673         -            215   4.7e-95  316.2   0.1   1   1   5.3e-99   5.2e-95  316.1   0.1    11   214     1   200     1   200 0.99 fgenesh1_kg.27_#_367_#_combest_scaffold_27_57147
+Umbra1|Umbra1_249446 -            533 ORTHOMCL1703         -            672   1.1e-65  221.6   4.1   1   1     5e-69     5e-65  219.4   4.0    12   453    12   440     1   507 0.71 fgenesh1_kg.43_#_303_#_combest_scaffold_43_92815
+Umbra1|Umbra1_228062 -           1246 ORTHOMCL1728         -           1173         0 1398.6   5.4   1   3  5.8e-261  5.8e-257  854.8   0.1    23   648     7   644     1   652 0.94 fgenesh1_kg.10_#_197_#_combest_scaffold_10_5659
+Umbra1|Umbra1_228062 -           1246 ORTHOMCL1728         -           1173         0 1398.6   5.4   2   3     6e-69   5.9e-65  218.8   0.1   625   883   649   898   645   917 0.88 fgenesh1_kg.10_#_197_#_combest_scaffold_10_5659
+Umbra1|Umbra1_228062 -           1246 ORTHOMCL1728         -           1173         0 1398.6   5.4   3   3  1.6e-101   1.5e-97  326.8   0.2   872  1143   928  1198   912  1214 0.94 fgenesh1_kg.10_#_197_#_combest_scaffold_10_5659
+Umbra1|Umbra1_256915 -            277 ORTHOMCL1769         -            221   8.9e-59  198.0  10.2   1   1   3.3e-61   3.3e-57  192.9  10.2     3   204     3   254     1   268 0.82 fgenesh1_kg.64_#_197_#_combest_scaffold_64_122888
+Umbra1|Umbra1_228793 -            396 ORTHOMCL1770         -            397  3.2e-145  483.1   6.0   1   1  8.3e-149  4.1e-145  482.7   6.0     9   397     6   394     1   394 0.89 fgenesh1_kg.11_#_91_#_combest_scaffold_11_9638
+Umbra1|Umbra1_251893 -            391 ORTHOMCL1770         -            397    9e-108  359.8  11.7   1   1  7.5e-111  3.7e-107  357.7  11.7     5   395     9   387     5   388 0.84 fgenesh1_kg.49_#_284_#_combest_scaffold_49_100035
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      Glomeromycotina.hmm
+# Target file:     outgroup/Umbelopsis_ramanniana_NRRL_5844.Umbra1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout search/Umbra1.domtbl -E 1e-40 --cpu 4 Glomeromycotina.hmm outgroup/Umbelopsis_ramanniana_NRRL_5844.Umbra1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/Denovo_Orthologs
+# Date:            Tue Oct  3 15:20:10 2017
+# [ok]

@@ -1,0 +1,1655 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  Glomeromycotina.hmm
+# target sequence database:        outgroup/Mortierella_elongata.Morel1.v1.aa.fasta
+# per-dom hits tabular output:     search/Morel1.domtbl
+# sequence reporting threshold:    E-value <= 1e-40
+# number of worker threads:        4
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ORTHOMCL1342  [M=444]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   2.6e-208  691.6   0.0   3.2e-208  691.3   0.0    1.0  1  Morel1|Morel1_146809  fgenesh1_pm.79_#_2
+   2.5e-130  434.6   0.0   3.7e-130  434.0   0.0    1.1  1  Morel1|Morel1_37260   estExt_Genemark1.C_1670007
+   1.6e-129  431.9   0.0   2.7e-129  431.2   0.0    1.2  1  Morel1|Morel1_130982  fgenesh1_pg.128_#_16
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_146809  fgenesh1_pm.79_#_2
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  691.3   0.0    6e-212  3.2e-208      49     437 ..      28     422 ..       3     429 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 691.3 bits;  conditional E-value: 6e-212
+          ORTHOMCL1342  49 svsskpapaalklksgevfhgtsfgaqtsvsgeavfttslvgypesmtdpsyrgqilvftqplignygvpglfkdkygllkyfesdriq 137
+                           s + k +paalklksg+vf gtsfga +s  geavfttslvgypesmtdpsyrgqilvftqplignygvp   kd++gllkyfes++iq
+  Morel1|Morel1_146809  28 SEAPKAVPAALKLKSGHVFTGTSFGAPISSFGEAVFTTSLVGYPESMTDPSYRGQILVFTQPLIGNYGVPSQEKDQFGLLKYFESNKIQ 116
+                           4567899********************************************************************************** PP
+
+          ORTHOMCL1342 138 vegivvndyatryshwtaveslgewcarhgvpaisgvdtraivhllrdqgstlaklvvgddaanedfdkieysdpnkrnlvaevstkvp 226
+                           ++givvndyat+yshwtaveslgewcar g+paisgvdtraivhllrdqgstlakl vgd+   e+ + +e+ +pn rnlv+e stk  
+  Morel1|Morel1_146809 117 CQGIVVNDYATKYSHWTAVESLGEWCAREGIPAISGVDTRAIVHLLRDQGSTLAKLEVGDEV-LENKEVVEFPNPNVRNLVSEASTKEV 204
+                           ************************************************************98.688999******************** PP
+
+          ORTHOMCL1342 227 vsynpfGdikiavidcGvkknilrslvkrGaavtvlpydfdfnkiadqfdGlfisnGpGnpkkvvetvknlrkalet.ykrpifGicmG 314
+                              np Gd+kia+idcGvk+nilr+lv rGa+vtv+p+d+dfn++ dq+dGlfisnGpG+p+++ +tv+nl +a+++   +pifGicmG
+  Morel1|Morel1_146809 205 YELNPLGDVKIALIDCGVKENILRCLVARGASVTVFPWDYDFNQVMDQYDGLFISNGPGDPRAASKTVQNLTTAFKNpAPKPIFGICMG 293
+                           **************************************************************************976368********* PP
+
+          ORTHOMCL1342 315 nlllGlaaGldvyklrfGnrghnvpalnvkdgkcaitsqnhGyaldddvlp......kgwkkyfvnandgsneGirhksrpvrsvqfhp 397
+                           n l+G+aaGldvykl+fGnrghn pa+n+++g+c+itsqnhGyal+d+vl       +gw+kyfvnandgsneGirh ++p++svqfhp
+  Morel1|Morel1_146809 294 NQLMGMAAGLDVYKLQFGNRGHNQPAVNMQNGRCSITSQNHGYALEDSVLSapgsvvQGWEKYFVNANDGSNEGIRHLTKPFSSVQFHP 382
+                           ************************************************9853344448******************************* PP
+
+          ORTHOMCL1342 398 eakggpqdteflfdefldkvraeklkregikvfvpetlvk 437
+                           eakggpqdte+lfd+fl+  raeklk++   +fv+e l  
+  Morel1|Morel1_146809 383 EAKGGPQDTEYLFDDFLNLARAEKLKHSQKPFFVAEPLSV 422
+                           **********************************998755 PP
+
+>> Morel1|Morel1_37260  estExt_Genemark1.C_1670007
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  434.0   0.0    7e-134  3.7e-130      50     426 ..      30     427 ..       6     444 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 434.0 bits;  conditional E-value: 7e-134
+         ORTHOMCL1342  50 vsskpapaalklksgevfhgtsfgaqt.svsgeavfttslvgypesmtdpsyrgqilvftqplignygvpglfkdk...ygllkyfesdr 135
+                          v +  + a+l l+ g  ++g sfga+t s+sge vf t +vgypes+tdpsyrgqilv+t pl+gnygvp     +     l kyfes+ 
+  Morel1|Morel1_37260  30 V-EPSTIATLVLQDGSSYQGISFGAETkSISGECVFQTGMVGYPESLTDPSYRGQILVLTFPLVGNYGVPSRETMDpllKDLPKYFESNE 118
+                          2.3346799****************87369****************************************86543311146889****** PP
+
+         ORTHOMCL1342 136 iqvegivvndyatryshwtaveslgewcarhgvpaisgvdtraivhllrdqgstlakl.....vvg......ddaanedfdkieysdpnk 214
+                          i++ g++v++y++ ysh+ a  slg w + +++pai g+dtra+ + +r qg  l k+      vg      d+a  +++++++++dpn+
+  Morel1|Morel1_37260 119 IHIAGLIVGQYSQDYSHYLATSSLGAWLKEYNIPAIYGIDTRAMTKKIRSQGVMLGKIlfptaLVGptvvpaDEAWMNEYQNVDWVDPNE 208
+                          *******************************************************99733333233333333899999************ PP
+
+         ORTHOMCL1342 215 rnlvaevstkvpvsynp.........fGd.ikiavidcGvkknilrslvkrGaavtvlpydfdfnkiadqfdGlfisnGpGnpkkvvetv 294
+                          rnlvaevs k p  y p         +G  ++i  +d G+k+n +r++v rG+ v v+p+d+dfn    ++dGlfisnGpG+p++ + t+
+  Morel1|Morel1_37260 209 RNLVAEVSLKEPKIYSPepstalmgpHGKpLRILAVDVGMKYNQIRCFVARGVEVKVVPWDYDFNAD-TDYDGLFISNGPGDPTMTKITI 297
+                          ************99976333333222564589********************************975.569******************* PP
+
+         ORTHOMCL1342 295 knlrkaletykrpifGicmGnlllGlaaGldvyklrfGnrghnvpalnvkdgkcaitsqnhGyaldddvlpkgwkkyfvnandgsneGir 384
+                            l kal++ + pifGic+G  ll la+G    k++fGnrghn+p  ++ +g+c i+sqnhGya+d   lp+ +   fvnandgsneGi 
+  Morel1|Morel1_37260 298 AHLTKALQIARTPIFGICLGHQLLALASGATTKKMKFGNRGHNIPCTDMISGRCYISSQNHGYAVDVASLPENFMELFVNANDGSNEGIM 387
+                          ****************************************************************************************** PP
+
+         ORTHOMCL1342 385 hksrpvrsvqfhpeakggpqdteflfdefldkvraeklkreg 426
+                          hk++p+ svqfhpe+  gp+dte+lfd f++ v     +++g
+  Morel1|Morel1_37260 388 HKTLPIFSVQFHPESTPGPRDTEYLFDVFIKAVD--DFRKTG 427
+                          ******************************9874..444444 PP
+
+>> Morel1|Morel1_130982  fgenesh1_pg.128_#_16
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  431.2   0.0    5e-133  2.7e-129      43     425 ..      23     426 ..       5     444 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 431.2 bits;  conditional E-value: 5e-133
+          ORTHOMCL1342  43 sapyalsvsskpapaalklksgevfhgtsfgaqt.svsgeavfttslvgypesmtdpsyrgqilvftqplignygvpglfkdk...ygl 127
+                           sap + +v +  + a+l l+ g  ++g sfga+t s+sge vf t +vgypes+tdpsyrgqilv+t pl+gnygvp     +     l
+  Morel1|Morel1_130982  23 SAPPCDQV-EPSTIATLVLQDGSSYQGISFGAETkSISGECVFQTGMVGYPESLTDPSYRGQILVLTFPLVGNYGVPSRETMDpllKDL 110
+                           23333222.3346799****************87369****************************************865433111468 PP
+
+          ORTHOMCL1342 128 lkyfesdriqvegivvndyatryshwtaveslgewcarhgvpaisgvdtraivhllrdqgstlakl.....vvg......ddaanedfd 205
+                            kyfes+ i++ g++v++y++ ysh+ a  slg w + +++pai g+dtra+ + +r qg  l k+      vg      d+a  ++++
+  Morel1|Morel1_130982 111 PKYFESNEIHIAGLIVGQYSQDYSHYLATSSLGAWLKEYNIPAIYGIDTRAMTKKIRSQGVMLGKIlfptaLVGptvvpaDEAWMNEYQ 199
+                           89*************************************************************99733333233333333899999*** PP
+
+          ORTHOMCL1342 206 kieysdpnkrnlvaevstkvpvsynp.........fGd.ikiavidcGvkknilrslvkrGaavtvlpydfdfnkiadqfdGlfisnGp 284
+                           +++++dpn+rnlvaevs k p  y p         +G  ++i  +d G+k+n +r++v rG+ v v+p+d+dfn    ++dGlfisnGp
+  Morel1|Morel1_130982 200 NVDWVDPNERNLVAEVSLKEPKIYSPepstalmgpHGKpLRILAVDVGMKYNQIRCFVARGVEVKVVPWDYDFNAD-TDYDGLFISNGP 287
+                           *********************99976333333222564589********************************975.569********* PP
+
+          ORTHOMCL1342 285 GnpkkvvetvknlrkaletykrpifGicmGnlllGlaaGldvyklrfGnrghnvpalnvkdgkcaitsqnhGyaldddvlpkgwkkyfv 373
+                           G+p++ + t+  l kal++ + pifGic+G  ll la+G    k++fGnrghn+p  ++ +g+c i+sqnhGya+d   lp+ +   fv
+  Morel1|Morel1_130982 288 GDPTMTKITIAHLTKALQIARTPIFGICLGHQLLALASGATTKKMKFGNRGHNIPCTDMISGRCYISSQNHGYAVDVASLPENFMELFV 376
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1342 374 nandgsneGirhksrpvrsvqfhpeakggpqdteflfdefldkvraeklkre 425
+                           nandgsneGi hk++p+ svqfhpe+  gp+dte+lfd f++ v     +++
+  Morel1|Morel1_130982 377 NANDGSNEGIMHKTLPIFSVQFHPESTPGPRDTEYLFDVFIKAVD--DFRKT 426
+                           *****************************************9874..44444 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (444 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       313  (0.0195919); expected 319.5 (0.02)
+Passed bias filter:                      262  (0.0163996); expected 319.5 (0.02)
+Passed Vit filter:                        21  (0.00131447); expected 16.0 (0.001)
+Passed Fwd filter:                         5  (0.000312969); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.40u 0.02s 00:00:00.42 Elapsed: 00:00:00.81
+# Mc/sec: 3749.62
+//
+Query:       ORTHOMCL1382  [M=248]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    9.8e-74  247.6  23.9    1.1e-73  247.4  23.9    1.0  1  Morel1|Morel1_147571  estExt_fgenesh1_pm.C_30009
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_147571  estExt_fgenesh1_pm.C_30009
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  247.4  23.9   7.2e-78   1.1e-73      20     247 ..       5     227 ..       2     228 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 247.4 bits;  conditional E-value: 7.2e-78
+          ORTHOMCL1382  20 GentkvtaakerkaahqaevnkkkqaekerkeaeeWsvGakdsskkeaqklkkeaqlakkneaaklleqeekelskykpvlkltkksGe 108
+                            en+kvtaa erka+  a  ++kk ++ e  +a +W+ Gak + kkea+ +k+++qlakk+eaa+ le+eek l k kp   +    Ge
+  Morel1|Morel1_147571   5 KENSKVTAANERKAVAAAAKTAKKAQDDESVNAADWAKGAK-ANKKEAEEQKRQEQLAKKREAARALEEEEKSL-KSKPAKPV---KGE 88 
+                           69**************************************9.579**********************9999988.77887444...5** PP
+
+          ORTHOMCL1382 109 ekkaikrtqkqekasaerrvipefsasniddaldllsvvtssaaggssgvsasaaniekhPekrfkaalaayeerelpklkkenPglry 197
+                           ekkaik+t k e   +e +v++efsasniddaldll+++   a +++  ++++++++++hPe+rfkaa+aay ere+p lkke+Pglr 
+  Morel1|Morel1_147571  89 EKKAIKKTAKAEAFGNEVKVVEEFSASNIDDALDLLTLTGAPAGTNGPITTGKGKDVDRHPERRFKAAFAAYVEREMPILKKEHPGLRQ 177
+                           ************************************99987777777779999************************************ PP
+
+          ORTHOMCL1382 198 tqlreilyknfqkspenPfnqanvlrynaskkeqeelieatrkdiedrlr 247
+                            q++++lyk+fqkspenPfnqanvl y+a ++e+ e i+a + +i +rl+
+  Morel1|Morel1_147571 178 NQMQDLLYKQFQKSPENPFNQANVLAYDANRQEEREHINARKDEIANRLK 227
+                           ************************************************97 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (248 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       952  (0.0595894); expected 319.5 (0.02)
+Passed bias filter:                      256  (0.016024); expected 319.5 (0.02)
+Passed Vit filter:                        30  (0.00187782); expected 16.0 (0.001)
+Passed Fwd filter:                         4  (0.000250376); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.26u 0.01s 00:00:00.27 Elapsed: 00:00:00.57
+# Mc/sec: 2924.92
+//
+Query:       ORTHOMCL1401  [M=175]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    2.2e-78  261.9  11.6    2.4e-78  261.8  11.6    1.0  1  Morel1|Morel1_114531  estExt_Genewise1Plus.C_490038
+    2.8e-78  261.6  12.0    3.1e-78  261.5  12.0    1.0  1  Morel1|Morel1_140653  fgenesh1_kg.60_#_56_#_Locus195v1rpkm101
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_114531  estExt_Genewise1Plus.C_490038
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  261.8  11.6     3e-82   2.4e-78      33     175 .]       5     147 ..       1     147 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 261.8 bits;  conditional E-value: 3e-82
+          ORTHOMCL1401  33 kskekskalaakkavlkgvkgkvkkkirtsttfrrPktlrlprePkyvrksiphaprldqykilknplntesamkkiedtntlvfivdv 121
+                              +k kalaakka+lkgv+g++ +kirtsttf+rPktl+l+r+Pky rks+ph+prldqyk+lk plntesamkkie++ntlvfivdv
+  Morel1|Morel1_114531   5 APSDKNKALAAKKAALKGVNGQKARKIRTSTTFNRPKTLKLARSPKYARKSVPHVPRLDQYKVLKTPLNTESAMKKIEENNTLVFIVDV 93 
+                           5578************************************************************************************* PP
+
+          ORTHOMCL1401 122 kankrqikdavkklydvdaqkintlirpnGtkkayvrltadvdaldvankiGfi 175
+                           kankrqikda+kk+ydv a k+ntlirp+G kkay++ltadvdaldvankiGfi
+  Morel1|Morel1_114531  94 KANKRQIKDALKKMYDVTALKVNTLIRPDGNKKAYIKLTADVDALDVANKIGFI 147
+                           *****************************************************8 PP
+
+>> Morel1|Morel1_140653  fgenesh1_kg.60_#_56_#_Locus195v1rpkm1019.27
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  261.5  12.0   3.8e-82   3.1e-78      32     175 .]       4     147 ..       1     147 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 261.5 bits;  conditional E-value: 3.8e-82
+          ORTHOMCL1401  32 skskekskalaakkavlkgvkgkvkkkirtsttfrrPktlrlprePkyvrksiphaprldqykilknplntesamkkiedtntlvfivd 120
+                           +   +k kalaakka+lkgv+g++ +kirtsttf+rPktl+l+r+Pky rks+ph+prldqyk+lk plntesamkkie++ntlvfivd
+  Morel1|Morel1_140653   4 AAPSDKNKALAAKKAALKGVNGQKARKIRTSTTFNRPKTLKLARSPKYARKSVPHVPRLDQYKVLKTPLNTESAMKKIEENNTLVFIVD 92 
+                           55579************************************************************************************ PP
+
+          ORTHOMCL1401 121 vkankrqikdavkklydvdaqkintlirpnGtkkayvrltadvdaldvankiGfi 175
+                           vkankrqikda+kk+ydv a k+ntlirp+G kkay++ltadvdaldvankiGfi
+  Morel1|Morel1_140653  93 VKANKRQIKDALKKMYDVTALKVNTLIRPDGNKKAYIKLTADVDALDVANKIGFI 147
+                           ******************************************************8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (175 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      1215  (0.0760516); expected 319.5 (0.02)
+Passed bias filter:                      480  (0.0300451); expected 319.5 (0.02)
+Passed Vit filter:                        46  (0.00287932); expected 16.0 (0.001)
+Passed Fwd filter:                         2  (0.000125188); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.26u 0.01s 00:00:00.27 Elapsed: 00:00:00.70
+# Mc/sec: 1710.13
+//
+Query:       ORTHOMCL1414  [M=386]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   4.4e-150  500.0   0.0   5.8e-150  499.6   0.0    1.0  1  Morel1|Morel1_133693  fgenesh1_kg.8_#_51_#_Locus1669v1rpkm135
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_133693  fgenesh1_kg.8_#_51_#_Locus1669v1rpkm135.55
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  499.6   0.0  3.6e-154  5.8e-150      25     381 ..      12     366 ..       2     371 .. 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 499.6 bits;  conditional E-value: 3.6e-154
+          ORTHOMCL1414  25 ysiiasskklskeelvlkrklarelsttssskaptsttklrnfliGtvsivlgvlfleyyfdsraaihkylitpvlrtvtdaetshkla 113
+                            +++ +s+++s+++ v  + + r+++t  +++  tst +  nf++Gt  +v gv+ l y fdsra+ihky i+p+++ ++daet+hk+a
+  Morel1|Morel1_133693  12 SARTLTSRVASTTTCVRPTAAIRHYATVRKEH--TSTSRTINFVLGTGLLVGGVVGLSYAFDSRASIHKYAIIPLIHWTMDAETAHKVA 98 
+                           34445555555556666666666665555544..4688899************************************************ PP
+
+          ORTHOMCL1414 114 iWvakwgltakdrlpddeklavevwgkkisnPiglaaGfdknGeaidglfdlGfGyveiGsvtPePqPGnpkPrvfrlskdkavinryG 202
+                           i   k gl++ d   dd  l v+ w k +snP+g+aaGfdk+ eaidglfdlGfGyveiGsvtPePqPGnp+Pr+frl++dk+vinryG
+  Morel1|Morel1_133693  99 IKCLKMGLSPWDTQEDDASLEVKLWNKTFSNPLGMAAGFDKHAEAIDGLFDLGFGYVEIGSVTPEPQPGNPQPRMFRLPEDKCVINRYG 187
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1414 203 fnsdGhkavelrlrdrlrrylyhsaklhpkttasllasspdgaslsdalginrslkedkllginlgknkssdaesvddyvkgvkslgsy 291
+                           fns+Ghkave rlr+r++r+ly+ a+    +t   l  sp   sl d l +nrsl++d++l +nlgknk s +esvddyv gv++lg+y
+  Morel1|Morel1_133693 188 FNSEGHKAVEARLRQRIKRFLYKHAREDKDQTQDKLKQSP-AESLVDQLSTNRSLRDDRILAVNLGKNKASTPESVDDYVIGVERLGPY 275
+                           ***************************************9.679********************************************* PP
+
+          ORTHOMCL1414 292 advlvinvsspntpglrglqrkdifekllkevidarnslsep.rpallvkiapdlsddelddiadaalksgvdgiivsnttisrpesla 379
+                           advlv+nvsspntpglr lqrk+++e ll++vi+ar+ l+ + +p llvkiapdlsd+el+d+++aal + vdgii+snttisrp+sl 
+  Morel1|Morel1_133693 276 ADVLVVNVSSPNTPGLRSLQRKGMLEDLLRQVIQARDRLQSSyKPPLLVKIAPDLSDEELEDVSEAALATKVDGIIISNTTISRPKSLL 364
+                           ***************************************76449******************************************997 PP
+
+          ORTHOMCL1414 380 sd 381
+                            +
+  Morel1|Morel1_133693 365 NK 366
+                           65 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (386 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       413  (0.0258513); expected 319.5 (0.02)
+Passed bias filter:                      307  (0.0192163); expected 319.5 (0.02)
+Passed Vit filter:                        28  (0.00175263); expected 16.0 (0.001)
+Passed Fwd filter:                         1  (6.25939e-05); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.36u 0.00s 00:00:00.36 Elapsed: 00:00:00.71
+# Mc/sec: 3718.93
+//
+Query:       ORTHOMCL1440  [M=525]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   3.1e-281  933.6   2.1   3.4e-281  933.4   2.1    1.0  1  Morel1|Morel1_133161  fgenesh1_kg.6_#_34_#_Locus211v1rpkm984.
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_133161  fgenesh1_kg.6_#_34_#_Locus211v1rpkm984.85
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  933.4   2.1  2.1e-285  3.4e-281      72     523 ..       1     452 [.       1     453 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 933.4 bits;  conditional E-value: 2.1e-285
+          ORTHOMCL1440  72 mvgwggnngstltasivanreniswrtkegvkspnyfgsvvqastlklgvdakgndvyipfnkilpmvhpndlvlggwdisslnlaqam 160
+                           mvgwggnngstltasi+anr++++w+tkegv+ pnyfgsvvqastlklgvd+kgndvyipfn+ilpmvhpndlvlggwdis lnla +m
+  Morel1|Morel1_133161   1 MVGWGGNNGSTLTASIIANRRKLTWNTKEGVQEPNYFGSVVQASTLKLGVDVKGNDVYIPFNDILPMVHPNDLVLGGWDISGLNLADSM 89 
+                           9**************************************************************************************** PP
+
+          ORTHOMCL1440 161 erakvldydlqrqvapeleelkplpsiyypdfiaanqsdradnlipgnnkkehlekirkdirefkaanqldkvivvwtanteryaeiip 249
+                            rakvldydlqrqv++e+e+lkpl s+yypdfiaanqsdradn+ipg++k+ h+++ir dir+fkaan+ldkviv+wtanter++ +i 
+  Morel1|Morel1_133161  90 TRAKVLDYDLQRQVKAEMETLKPLASVYYPDFIAANQSDRADNVIPGSDKQAHVDHIRADIRNFKAANHLDKVIVIWTANTERFSSLID 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 250 gvndtadnllkavekshseiapstifalacilektpfingspqntfvpgcielaerervyiggddfksgqtkvksvlvdflvnagikpi 338
+                           gvndtadnllkav++sh e++pst+fa+a+ile+tpfingspqntfvpgc+elaer  vyiggddfksgqtkvksv+vdflvnagikp+
+  Morel1|Morel1_133161 179 GVNDTADNLLKAVKDSHEEVSPSTVFAIASILENTPFINGSPQNTFVPGCVELAERHAVYIGGDDFKSGQTKVKSVIVDFLVNAGIKPV 267
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 339 gitsynhlgnndgknlsapqqfrskeisksnvvddmvaanqilykpgehPdhvvvikyvPavgdskraldeyvseifmGGkntislynt 427
+                           +i+synhlgnndgknlsapqqfrskeisksnvvddmvaan++lyk +ehPdh+vviky+PavgdskraldeyvseifmGG+ntis+ynt
+  Morel1|Morel1_133161 268 SIASYNHLGNNDGKNLSAPQQFRSKEISKSNVVDDMVAANHLLYKKDEHPDHLVVIKYIPAVGDSKRALDEYVSEIFMGGRNTISMYNT 356
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 428 cedsllasPlildlaiitelmtrieyrvedmkefapfdavlsilsfllkaPlvPkGtPvvnalskqrmalenlfraciGlaPqnemlle 516
+                           cedsllasPlildl+i+telmtriey++edm+e+apf++vlsils++lkaP+vP+Gt vvnal+kqr+a+en+frac+Gl+Pqn+mlle
+  Morel1|Morel1_133161 357 CEDSLLASPLILDLVILTELMTRIEYKTEDMAEYAPFNSVLSILSYMLKAPMVPHGTQVVNALAKQRTAMENIFRACVGLPPQNDMLLE 445
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1440 517 hkaPvkk 523
+                            k+ +++
+  Morel1|Morel1_133161 446 AKTQANR 452
+                           **87766 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (525 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       293  (0.01834); expected 319.5 (0.02)
+Passed bias filter:                      245  (0.0153355); expected 319.5 (0.02)
+Passed Vit filter:                        14  (0.000876314); expected 16.0 (0.001)
+Passed Fwd filter:                         2  (0.000125188); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.37u 0.01s 00:00:00.38 Elapsed: 00:00:00.79
+# Mc/sec: 4545.92
+//
+Query:       ORTHOMCL1444  [M=286]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------            -----------
+   6.8e-146  484.9  12.8   7.5e-146  484.7  12.8    1.0  1  Morel1|Morel1_73608  e_gw1.25.210.1
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_73608  e_gw1.25.210.1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  484.7  12.8  4.7e-150  7.5e-146       2     285 ..       1     285 [.       1     286 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 484.7 bits;  conditional E-value: 4.7e-150
+         ORTHOMCL1444   2 ssereaqallakadkkattfgwf.ggnkfeeaaelynkaansfklakrwkeagdafskaanmqlqlnerdeaastfinaskcykkssfed 90 
+                          +sereaq l+akadkkat+ +wf  gnk+eeaaely+ka n++k+akrwke+gd+f+kaa+mql++ne+deaa+tfinask y+kss +d
+  Morel1|Morel1_73608   1 MSEREAQELIAKADKKATSSSWFfSGNKYEEAAELYTKAGNIYKMAKRWKESGDTFCKAADMQLKMNEKDEAANTFINASKSYRKSSPQD 90 
+                          79*****************9995389**************************************************************** PP
+
+         ORTHOMCL1444  91 aitslkqaieiltdrgrfqaaaghqkdiaqiyesdlvdlekamqayeiaadwyageeatalanncllkvatfaatleqydkaiekfeqva 180
+                          ai+sl +ai ilt+rgrfq+aa hq dia iyes+l+dl++am+aye+aadwyage +tal+ +c+lkvatfaa l qydkaiekfe va
+  Morel1|Morel1_73608  91 AIASLENAIMILTERGRFQSAAKHQEDIASIYESELIDLDQAMRAYEVAADWYAGESSTALSHKCMLKVATFAAQLGQYDKAIEKFELVA 180
+                          ****************************************************************************************** PP
+
+         ORTHOMCL1444 181 aasldnqltkwslkdyflkaglchiafgdhigakraierycdldvtfagtrecqflkaileaveagdvesftnrvvefdqltkldnwktt 270
+                          +asldnql kwslk+yflkaglchia gd + a++a++ryc++dvtf +trecqfl++il av+++dv +ft  vvefdql+kldnwkt 
+  Morel1|Morel1_73608 181 SASLDNQLMKWSLKEYFLKAGLCHIASGDSVTAHNAVDRYCEMDVTFGSTRECQFLQNILTAVDNSDVGQFTGSVVEFDQLSKLDNWKTK 270
+                          ****************************************************************************************** PP
+
+         ORTHOMCL1444 271 illrikksiqeepll 285
+                          ill+ik+si ee++l
+  Morel1|Morel1_73608 271 ILLEIKNSIGEESSL 285
+                          ***********9987 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (286 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       347  (0.0217201); expected 319.5 (0.02)
+Passed bias filter:                      232  (0.0145218); expected 319.5 (0.02)
+Passed Vit filter:                        17  (0.0010641); expected 16.0 (0.001)
+Passed Fwd filter:                         3  (0.000187782); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.24u 0.01s 00:00:00.25 Elapsed: 00:00:00.49
+# Mc/sec: 3992.63
+//
+Query:       ORTHOMCL1477  [M=369]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   1.8e-111  373.0  45.9   2.2e-109  366.2  45.9    2.1  1  Morel1|Morel1_134002  fgenesh1_kg.9_#_117_#_Locus4836v1rpkm38
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_134002  fgenesh1_kg.9_#_117_#_Locus4836v1rpkm38.06
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  366.2  45.9  1.4e-113  2.2e-109       4     362 ..       2     411 ..       1     417 [. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 366.2 bits;  conditional E-value: 1.4e-113
+          ORTHOMCL1477   4 PPkPWeraattkr.......sstqisttqtaltssstsd..taPavparpsttssnfa........nrgygs.ygtg..ynspysnygs 72 
+                           P kPWera ++++       +   ++ ++ a+ ssst+d   +P++par++++++  a          gygs yg++  +++ y   ++
+  Morel1|Morel1_134002   2 PEKPWERARQANPaatsagpAPPALPASSPAAMSSSTTDlaGPPTLPARSNAMGTMGAsstgyrpgMNGYGSgYGSTgyGSTGYGM-SG 89 
+                           89********999888888744455555555444444441168*******987654443335545444555555554442223322.23 PP
+
+          ORTHOMCL1477  73 yg.ssyGspysryG....sysssy.spynry.gygsyg.gyGg...........ygsygynrfgyggmmGp.........ngPeelslt 133
+                           yg ssy +py+r G    +y ssy spy+r  gyg+yg +yGg           yg yg nr g+ gm G           gPee+sl 
+  Morel1|Morel1_134002  90 YGsSSYSTPYNRMGgygsTYGSSYsSPYSRMgGYGGYGsSYGGygssysgygssYGGYGMNRMGMNGMNGMngmngmngpMGPEEMSLM 178
+                           333667777777653333344555447777666665542244444476666668888999**955555444444555555********* PP
+
+          ORTHOMCL1477 134 qrmeantaagfhmiesvvnafggfaqmlestffathssfmamvgvveqfgnlrnylGqvlsvfalirwirklfykitGrrppvdpnelt 222
+                           qrme   a  f++iesvv+afggfaqmlestf+athssfmamvgv eqfg lr+ylGqvls+fal+rw ++l y+++G ++pv+ +elt
+  Morel1|Morel1_134002 179 QRMEQGSAPTFQLIESVVGAFGGFAQMLESTFMATHSSFMAMVGVAEQFGHLRGYLGQVLSIFALLRWAKSLAYRMVGMKAPVNTQELT 267
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1477 223 psqfeqyqek.kysrrpllffilavfGvPYlmhkfiqvisrrqqegsippeg.....geeisltqqleastaqnlefiralydfk.ges 304
+                           p +f+++q + +ys+rp++ f+lavfG PYlm ++i+ +s+r+ + ++   g     + ++ ++  + ++ +q l+f ralydf+ ++ 
+  Morel1|Morel1_134002 268 PGNFQEFQAQpRYSKRPIVIFLLAVFGLPYLMGRLIRALSNRNPAPQQ---GqlpgqEGQVAQPGAVAPVNPQSLDFARALYDFTpSNT 353
+                           ******************************************766333...33332355688899*******************84578 PP
+
+          ORTHOMCL1477 305 sveLslkrgdiiailsktdlfgqpsqwwrgrlrngeqglfpsnyveiinkggnaeegk 362
+                            +eL ++rgdiiails++d +gq s wwrgrlr+ge glfpsnyveiinkggn +++ 
+  Morel1|Morel1_134002 354 HQELAFRRGDIIAILSRQDPMGQESLWWRGRLRSGEMGLFPSNYVEIINKGGNGNNSG 411
+                           99**************************************************987654 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (369 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      1688  (0.105658); expected 319.5 (0.02)
+Passed bias filter:                      525  (0.0328618); expected 319.5 (0.02)
+Passed Vit filter:                        72  (0.00450676); expected 16.0 (0.001)
+Passed Fwd filter:                        23  (0.00143966); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.62u 0.02s 00:00:00.64 Elapsed: 00:00:01.30
+# Mc/sec: 1941.66
+//
+Query:       ORTHOMCL1514  [M=158]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (158 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      1002  (0.0627191); expected 319.5 (0.02)
+Passed bias filter:                      565  (0.0353655); expected 319.5 (0.02)
+Passed Vit filter:                        44  (0.00275413); expected 16.0 (0.001)
+Passed Fwd filter:                         4  (0.000250376); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.29u 0.00s 00:00:00.28 Elapsed: 00:00:00.59
+# Mc/sec: 1831.87
+//
+Query:       ORTHOMCL1518  [M=395]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   5.4e-198  657.4   4.1     6e-198  657.2   4.1    1.0  1  Morel1|Morel1_133275  fgenesh1_kg.6_#_148_#_Locus2452v1rpkm88
+    1.2e-98  330.3   3.6    1.5e-98  330.0   3.6    1.0  1  Morel1|Morel1_133174  fgenesh1_kg.6_#_47_#_Locus1609v1rpkm140
+    9.1e-91  304.3   8.4    1.1e-90  304.1   8.4    1.0  1  Morel1|Morel1_135678  fgenesh1_kg.17_#_49_#_Locus2028v1rpkm11
+    1.8e-72  244.1   7.2    7.3e-72  242.1   7.2    1.7  1  Morel1|Morel1_93365   estExt_Genewise1.C_240198
+    1.8e-70  237.5   7.2    9.9e-70  235.1   7.2    1.8  1  Morel1|Morel1_142573  fgenesh1_kg.103_#_1_#_Locus5576v1rpkm31
+    1.2e-67  228.2   7.9    5.8e-67  226.0   7.9    1.8  1  Morel1|Morel1_141607  fgenesh1_kg.76_#_55_#_Locus6817v1rpkm21
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_133275  fgenesh1_kg.6_#_148_#_Locus2452v1rpkm88.62
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  657.2   4.1  2.3e-201    6e-198       3     394 ..       2     393 ..       1     394 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 657.2 bits;  conditional E-value: 2.3e-201
+          ORTHOMCL1518   3 qnvfivaakrtafgafggslknytatelgalaakaaisslkkdvpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcgs 91 
+                            nvfivaakrt+fgafgg lk+yta+elga+a+kaa++ + k +pidsvi+gnv +td + +ylarhvglr+gl i vpalt+nrlcgs
+  Morel1|Morel1_133275   2 ANVFIVAAKRTPFGAFGGKLKDYTAAELGAFASKAALADVGKPIPIDSVIVGNVAHTDAAGPYLARHVGLRTGLDITVPALTVNRLCGS 90 
+                           59*************************************************************************************** PP
+
+          ORTHOMCL1518  92 gfqsvinavqeirsgdsnivltggtesmskspytladvrw.gvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqade 179
+                           gfqs+ina +ei +gd+nivltgg+esms +py+l  +r+ g+r+gvdlkled+laaalvd++p  tpmg+taenla+++ni+r+++de
+  Morel1|Morel1_133275  91 GFQSIINAAHEIITGDANIVLTGGSESMSLAPYALRGIRFgGTRFGVDLKLEDTLAAALVDRFPKETPMGITAENLAQQHNISRQDCDE 179
+                           ***************************************9459********************************************** PP
+
+          ORTHOMCL1518 180 yalssqkrwaaadeagrfkkeivpieiktkkgvqvfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivasedavk 268
+                           yal+sq+rwaaa++agrf+ ei p+e k kk v+ +++deh rp tti+sl+klpsvfkk+ g+vtaGnasGisdGaga++vase+a+k
+  Morel1|Morel1_133275 180 YALLSQQRWAAANKAGRFNAEIAPVEYKVKKNVETLSHDEHARPTTTIESLTKLPSVFKKE-GTVTAGNASGISDGAGAIVVASEQAIK 267
+                           **********************************************************986.9************************** PP
+
+          ORTHOMCL1518 269 khgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhPlaasG 357
+                           +hgl+pla++vs++v+ vep+imGiGPv ai+ aLkka+l l d++l+evneafaaqylavek lGldrs+tn nGGaialGhPl+asG
+  Morel1|Morel1_133275 268 EHGLKPLAKVVSWHVTAVEPSIMGIGPVSAIQGALKKAGLTLKDMDLVEVNEAFAAQYLAVEKVLGLDRSKTNLNGGAIALGHPLGASG 356
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 358 srilahltyelkktkikyaigsaciGGGqgiaviler 394
+                           sri+ahl +el++t+ kyaigsaciGGGqgiav++er
+  Morel1|Morel1_133275 357 SRIMAHLSHELQRTQGKYAIGSACIGGGQGIAVVIER 393
+                           ************************************9 PP
+
+>> Morel1|Morel1_133174  fgenesh1_kg.6_#_47_#_Locus1609v1rpkm140.61
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  330.0   3.6  5.7e-102   1.5e-98       4     395 .]      24     408 ..      22     408 .. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 330.0 bits;  conditional E-value: 5.7e-102
+          ORTHOMCL1518   4 nvfivaakrtafgafggslknytatelgalaakaaisslk.kdvpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcgs 91 
+                           +v iv+a rt++++f g+lk+++a +lg++a + ai+    k   ++ v++gnvlq+ n+    ar+ +l ag ++   a tin++c+s
+  Morel1|Morel1_133174  24 EVVIVSAVRTPVACFNGALKSFSAPQLGSIAIRGAIEKAGiKADQVEEVYMGNVLQA-NVGQSPARQAALGAGCPLTTEATTINKVCAS 111
+                           689*********************************8654166689**********8.667789************************* PP
+
+          ORTHOMCL1518  92 gfqsvinavqeirsgdsnivltggtesmskspytl.advrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqade 179
+                           g+++v+ a q++++g  +++++gg esms+ p+    ++ +g +   d  ++d     l d y  +  mg  aen a+k +itreq d 
+  Morel1|Morel1_133174 112 GLKAVMLAAQNLQTGARDVMVAGGMESMSNVPFYSpRNAGYGHQVLADGIIKD----GLWDVYN-QFHMGNCAENTADKLKITREQQDA 195
+                           ******************************98754366666666555555555....5677775.678********************* PP
+
+          ORTHOMCL1518 180 yalssqkrwaaadeagrfkkeivpieiktkkgvqvfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivasedavk 268
+                           +a  s  r a+a ++g f +eivp+ ik k+g + f +de  + +++++ +  l++vf+k+ g+vta nas ++dGa+a+++ +    +
+  Morel1|Morel1_133174 196 HAVESYTRAAKAWKDGVFANEIVPVTIKDKRGDKTFAEDEEYK-NVKFDKIPGLKPVFQKEKGTVTAANASSLNDGASALVLMTRAKAD 283
+                           ****************************************876.799****************************************** PP
+
+          ORTHOMCL1518 269 khgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhPlaasG 357
+                           + gl+plari+s++ a + p    i P+ a  +aL+ka+lk+ di+l+e+neaf+++ la+++ lGld+++ n++GGa+ lGhP+++sG
+  Morel1|Morel1_133174 284 ELGLKPLARILSFADASIAPIDFPIAPAAAFPKALEKANLKIEDIDLFEFNEAFSVVALANNQLLGLDPKKVNIAGGAVGLGHPIGSSG 372
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 358 srilahltyelkktkikyaigsaciGGGqgiavilerv 395
+                           sril++lt+ lkk+++  + +++c+GGG ++a+++er+
+  Morel1|Morel1_133174 373 SRILVTLTHLLKKGQK--GGAAICNGGGAASAMVIERL 408
+                           **************99..8999**************96 PP
+
+>> Morel1|Morel1_135678  fgenesh1_kg.17_#_49_#_Locus2028v1rpkm110.01
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  304.1   8.4     4e-94   1.1e-90       3     395 .]       5     397 ..       3     397 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 304.1 bits;  conditional E-value: 4e-94
+          ORTHOMCL1518   3 qnvfivaakrtafgafggslknytatelgalaakaaisslk.kdvpidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcg 90 
+                           + v+i a  rt++g+f gsl ++ta++lg+la k a++ ++ k   +d ++fgnvl +       ar+v+l agl+    + t+n++c+
+  Morel1|Morel1_135678   5 NTVYIAAIARTPIGSFNGSLASFTAVQLGSLAVKGALKKVDiKPEQVDEIYFGNVLSAGL-GQNPARQVALGAGLPQTTVSTTVNKVCA 92 
+                           579**********************************999735678**********8765.5678************************ PP
+
+          ORTHOMCL1518  91 sgfqsvinavqeirsgdsnivltggtesmskspytladvrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqade 179
+                           s++++v+ a q i++g+++iv++gg+esm++ py l ++r+g++yg +  ++      l d y     mgv+ae+ ae +++tre+ d+
+  Morel1|Morel1_135678  93 SSMKAVMLAAQTIQTGQADIVIAGGAESMTNVPYYLPKMRFGAKYGHQEVIDGVQKDGLTDVYNN-YAMGVAAEETAEEHGVTREDQDD 180
+                           ************************************************999999999*****975.68********************* PP
+
+          ORTHOMCL1518 180 yalssqkrwaaadeagrfkkeivpieiktkkgv..qvfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivaseda 266
+                           ya  s kr   a eag fk+eivp+ +   +g   ++++ de    + +   l  + + fk++ g+vta n+s isdGa a+i+ s + 
+  Morel1|Morel1_135678 181 YAIQSYKRAQHATEAGLFKNEIVPVVVPGARGKpdTIISADEEV-SNLNEAKLRAMRPAFKPNGGTVTAPNSSPISDGACAIILISGQK 268
+                           ***************************98887533899999986.5677788999********************************** PP
+
+          ORTHOMCL1518 267 vkkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhPlaa 355
+                            ++ ++  la i   + a  +p+     P+ ai +a+k+a++   ++++ e+neaf+++  a+ k+lGl  +  n+nGGa+alGhPl++
+  Morel1|Morel1_135678 269 ARELNIPVLAIIRGSADAERDPSRFTTAPSLAIPKAIKRAGITAEQVEFYELNEAFSVVACANMKILGLTSENVNVNGGAVALGHPLGC 357
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 356 sGsrilahltyelkktkikyaigsaciGGGqgiavilerv 395
+                           sG+r++++l++ l++++ k +++ +c+GGG+++av++erv
+  Morel1|Morel1_135678 358 SGARVIVTLVNVLQQKNAKIGVAGICNGGGGASAVVIERV 397
+                           ***************************************8 PP
+
+>> Morel1|Morel1_93365  estExt_Genewise1.C_240198
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  242.1   7.2   2.7e-75   7.3e-72       4     394 ..      35     419 ..      33     420 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 242.1 bits;  conditional E-value: 2.7e-75
+         ORTHOMCL1518   4 nvfivaakrtafga.fggslknytatelgalaakaaisslkkdvp..idsvifgnvlqtdntaaylarhvglraglsievpaltinrlcg 90 
+                          +v iv a rt++     g +k+ +  +l a     ai+  +k  p  +d + +gnvlq+   a  ++r  +l ag + +    t nr c+
+  Morel1|Morel1_93365  35 DVVIVDAVRTPMTRgKKGGFKDTVPEDLLAA-VLIAIKERNKIDPaiVDDICVGNVLQAAGGA-TVSRMAALYAGYPEKTSIYTTNRQCS 122
+                          6889999999986414577888777777654.34455555543333379*********98765.689*********************** PP
+
+         ORTHOMCL1518  91 sgfqsvinavqeirsgdsnivltggtesmskspytladvrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqadey 180
+                          sg+q+v+    +i++g  +i + +g+esm+  +   a +        +   e s aaa       + pmg+t+en+a  +nitre+ d++
+  Morel1|Morel1_93365 123 SGLQAVVSIATHIQAGLIDIGIGAGVESMTMGYGPSAMAPQ----TSEKIPEASEAAA-----DCQLPMGITSENVATDFNITREKQDKF 203
+                          *****************************998765544332....2333346777776.....46789********************** PP
+
+         ORTHOMCL1518 181 alssqkrwaaadeagrfkkeivpie..iktkkgvq...vfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagavivased 265
+                          a +s ++ a a+++g+f++eivp++  ik   g +   +++kd+  r  tt++sl+kl + f    g  taGnas +sdGa+av++   +
+  Morel1|Morel1_93365 204 AALSFEKAARAQAEGKFDHEIVPVKtiIKDAEGNEkevIISKDDGIRAGTTVESLSKLRPAFD---GATTAGNASQVSDGAAAVLLMKRK 290
+                          ************************8556777776444489**********************6...788********************* PP
+
+         ORTHOMCL1518 266 avkkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGhPlaa 355
+                          + +k gl  + + v+ +v G  p imG+GP+ ai  +Lkk + ++ di+++e+neafa+q +   +  Gl  ++ n nGGaia+GhPl++
+  Morel1|Morel1_93365 291 TAEKLGLPIVGKFVASAVVGCPPRIMGVGPAVAIPAVLKKIGKEVKDIDIFELNEAFASQAVYSIETCGLPLEKVNPNGGAIAMGHPLGC 380
+                          *************************************************************999999*********************** PP
+
+         ORTHOMCL1518 356 sGsrilahltyelkktkikyaigsaciGGGqgiaviler 394
+                          +G+r +a+l+ elk++ +k +++++ciG G g+a ++er
+  Morel1|Morel1_93365 381 TGARQIATLMPELKRQGKKLGLTTMCIGTGMGMAAVFER 419
+                          *************************************99 PP
+
+>> Morel1|Morel1_142573  fgenesh1_kg.103_#_1_#_Locus5576v1rpkm31.16
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  235.1   7.2   3.7e-73   9.9e-70       4     394 ..      37     421 ..      35     422 .. 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 235.1 bits;  conditional E-value: 3.7e-73
+          ORTHOMCL1518   4 nvfivaakrtafga.fggslknytatelgalaakaaisslkkdvp..idsvifgnvlqtdntaaylarhvglraglsievpaltinrlc 89 
+                           +v i+ a rt++     g +k+ +  +l a     ai+  +k  p  +d + +g vlq+   a  ++r+ +l ag + +    t nr c
+  Morel1|Morel1_142573  37 DVVIIDAVRTPMTRgKKGGFKDTVPEDLLAAVL-IAIKDRTKIDPsiVDDICVGTVLQASGGA-TVSRQAALYAGYPEKTSIYTTNRQC 123
+                           688999999998641457788887777765444.44444444333237999*******98765.689********************** PP
+
+          ORTHOMCL1518  90 gsgfqsvinavqeirsgdsnivltggtesmskspytladvrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqad 178
+                           +sg+q+v+n   +i++g  ++ + +g+esm+  +   a +    r   ++    s aaa       + pmg+t+en+a  +ni r++ d
+  Morel1|Morel1_142573 124 SSGLQAVVNIAAHIQAGLIDVGIGAGVESMTMGYGPSAMA---PR-TSEIIPAKSQAAA-----DCNLPMGITSENVASDFNIDRKRQD 203
+                           ******************************9987655432...23.2344455666766.....3578********************* PP
+
+          ORTHOMCL1518 179 eyalssqkrwaaadeagrfkkeivpieikt.....kkgvqvfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdGagaviva 262
+                            ++  s ++ a a+++g+f+ ei+p++        k       +d+  r  +t +sl+kl++ f    gl taG as +sdGa+av++ 
+  Morel1|Morel1_142573 204 AFSARSFQKAARAQKEGKFTSEIIPVQTTIldadgKPQSITVAHDDGVRDGVTEESLSKLKPAF---GGLTTAGSASQVSDGAAAVLLM 289
+                           *************************9854311111333456789999*****************...59******************** PP
+
+          ORTHOMCL1518 263 sedavkkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnGGaialGh 351
+                             ++ ++ gl  l + v+ +v Gv p imG+GP+ ai  + +ka++ + di++ie+neafa+q + v + lGld ++ n+nGGaialGh
+  Morel1|Morel1_142573 290 KRKTAQRLGLPILGKYVAAAVQGVPPRIMGVGPAVAIPAVCEKAGVAIQDIDVIELNEAFASQAVYVIETLGLDENKINVNGGAIALGH 378
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1518 352 PlaasGsrilahltyelkktkikyaigsaciGGGqgiaviler 394
+                           Pl+++G+r +a+l   lk ++++ +++++ciG G g+a i+er
+  Morel1|Morel1_142573 379 PLGCTGARQIATLFPILKSQNKRLGLTTMCIGTGMGMAAIFER 421
+                           ******************************************9 PP
+
+>> Morel1|Morel1_141607  fgenesh1_kg.76_#_55_#_Locus6817v1rpkm21.64
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  226.0   7.9   2.2e-70   5.8e-67       4     392 ..      31     422 ..      29     425 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 226.0 bits;  conditional E-value: 2.2e-70
+          ORTHOMCL1518   4 nvfivaakrtafgafg.gslknytatelgalaakaaisslkkdv.pidsvifgnvlqtdntaaylarhvglraglsievpaltinrlcg 90 
+                           +v iv+a rt++   g g +k++   +l a+  kaa +  k d   ++ +  gnvlq       + r   + ag++      ++nr c+
+  Morel1|Morel1_141607  31 DVVIVSAVRTPICRAGkGGFKDMYPEDLLAVILKAAAERAKIDPkVVNDIQTGNVLQELG-GIKVGRAAMFAAGFPYTTTYGVLNRQCS 118
+                           689********98766489*********999999998877766414688999****9765.5678999********************* PP
+
+          ORTHOMCL1518  91 sgfqsvinavqeirsgdsnivltggtesmskspytladvrwgvrygvdlkledslaaalvdqypaktpmgvtaenlaekynitreqade 179
+                           sg+q+     + ir+g+ ++ + +g+esm++ + + +      r   ++k     a    d +    pmg+t+en+a ++ i+re+ d+
+  Morel1|Morel1_141607 119 SGLQACNYVANAIRAGEIDVGIGAGVESMTHDYGSKS---MPSRISPEIKAAPGAA----DVF---FPMGITSENVASQFLISREDQDQ 197
+                           ******9999********************9986654...5578888888766554....444...69********************* PP
+
+          ORTHOMCL1518 180 yalssqkrwaaadeagrfkkeivpieiktk......kgvq.......vfekdehprpqttiqslaklpsvfkkdtglvtaGnasGisdG 255
+                           +a  s ++   a+e+g f+ eivp+++  k       g +       v++kde pr  +t + l kl++vfkkd g  taGnas +sdG
+  Morel1|Morel1_141607 198 FAVESHEKALRAQEQGLFNAEIVPVKVTQKitvkdeNGQEkqivkevVISKDEGPRAGSTAEKLGKLKAVFKKD-GSTTAGNASQVSDG 285
+                           ************************98755422211134323344444799**********************99.789*********** PP
+
+          ORTHOMCL1518 256 agavivasedavkkhgleplarivsysvaGveptimGiGPvpaikeaLkkaklklsdiglievneafaaqylavekelGldrsitntnG 344
+                           a+av++   +   + g   lar    +v+G  p+imGiGP+ ai  +Lk  +l++ d+++ e+neafa+q l   + l + +++ n +G
+  Morel1|Morel1_141607 286 AAAVVLMRRSKAIELGCPILARWCGAKVTGERPSIMGIGPATAIPAVLKNVGLQVDDVDIYEINEAFASQALYCARHLNIKPAKLNPKG 374
+                           *****9998888899************************************************************************** PP
+
+          ORTHOMCL1518 345 GaialGhPlaasGsrilahltyelkktkikyaigsaciGGGqgiavil 392
+                           GaialGhPl+ +G+r +++l+++l++t +k ++ s+c G G+g+a ++
+  Morel1|Morel1_141607 375 GAIALGHPLGMTGARQMSTLITQLHHTGQKIGVISMCYGIGGGMAAVI 422
+                           *************************************99777765443 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (395 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       385  (0.0240986); expected 319.5 (0.02)
+Passed bias filter:                      284  (0.0177767); expected 319.5 (0.02)
+Passed Vit filter:                        30  (0.00187782); expected 16.0 (0.001)
+Passed Fwd filter:                         8  (0.000500751); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               6  [number of targets reported over threshold]
+# CPU time: 0.44u 0.02s 00:00:00.46 Elapsed: 00:00:00.99
+# Mc/sec: 2729.30
+//
+Query:       ORTHOMCL1529  [M=185]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   1.1e-116  386.8   0.8   1.2e-116  386.6   0.8    1.0  1  Morel1|Morel1_136425  fgenesh1_kg.21_#_99_#_Locus9610v1rpkm8.
+    8.1e-80  266.5   0.3    8.9e-80  266.4   0.3    1.0  1  Morel1|Morel1_137397  fgenesh1_kg.27_#_127_#_Locus3011v3rpkm0
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_136425  fgenesh1_kg.21_#_99_#_Locus9610v1rpkm8.64
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  386.6   0.8  1.5e-120  1.2e-116       1     182 [.       1     182 [.       1     182 [. 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 386.6 bits;  conditional E-value: 1.5e-120
+          ORTHOMCL1529   1 maailksfldwlrslffkteleltlvglqnsgkttlvnviasgqfsedmiptvgfnmrkvtkgnvtmklwdiggqprfrsmwerycrgv 89 
+                           ma+i++++ldwlrslffkte+eltlvglqnsgkttlvnviasgq+sedmiptvgfnmrkvtkgnvtmklwdiggqprfrsmwerycrgv
+  Morel1|Morel1_136425   1 MASIIQAVLDWLRSLFFKTEMELTLVGLQNSGKTTLVNVIASGQYSEDMIPTVGFNMRKVTKGNVTMKLWDIGGQPRFRSMWERYCRGV 89 
+                           9**************************************************************************************** PP
+
+          ORTHOMCL1529  90 naivfvidsadhekleaartelrsllekpqlanipvlvlgnkndleealpvekiieemnlksinnrevscysisaknqvniditlqwli 178
+                           naivfvid+adh+kl+aartelr+ll+kpqla+ipvlvlgnkndl+ al+v++i+e+mnlk i  revscysisaknqvniditlqwli
+  Morel1|Morel1_136425  90 NAIVFVIDAADHDKLDAARTELRNLLDKPQLASIPVLVLGNKNDLPGALTVDQIVEVMNLKQIASREVSCYSISAKNQVNIDITLQWLI 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1529 179 kkgk 182
+                           kkgk
+  Morel1|Morel1_136425 179 KKGK 182
+                           **98 PP
+
+>> Morel1|Morel1_137397  fgenesh1_kg.27_#_127_#_Locus3011v3rpkm0.00_PRE
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  266.4   0.3   1.1e-83   8.9e-80      57     184 ..       1     128 [.       1     128 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 266.4 bits;  conditional E-value: 1.1e-83
+          ORTHOMCL1529  57 mrkvtkgnvtmklwdiggqprfrsmwerycrgvnaivfvidsadhekleaartelrsllekpqlanipvlvlgnkndleealpvekiie 145
+                           mrkvtkgnvtmklwdiggqprfrsmwerycrgvnaivfv+d+adh+kl+aartelr+ll+kpqla+ipvlvlgnkndl+ al+ve+iie
+  Morel1|Morel1_137397   1 MRKVTKGNVTMKLWDIGGQPRFRSMWERYCRGVNAIVFVLDAADHDKLDAARTELRNLLDKPQLASIPVLVLGNKNDLPGALTVEQIIE 89 
+                           9**************************************************************************************** PP
+
+          ORTHOMCL1529 146 emnlksinnrevscysisaknqvniditlqwlikkgkgs 184
+                           +mnlk i  revscysisaknqvniditlqwl kkgkg+
+  Morel1|Morel1_137397  90 VMNLKQIASREVSCYSISAKNQVNIDITLQWLTKKGKGK 128
+                           *************************************95 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (185 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       408  (0.0255383); expected 319.5 (0.02)
+Passed bias filter:                      373  (0.0233475); expected 319.5 (0.02)
+Passed Vit filter:                        89  (0.00557086); expected 16.0 (0.001)
+Passed Fwd filter:                        72  (0.00450676); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.33u 0.01s 00:00:00.34 Elapsed: 00:00:00.61
+# Mc/sec: 2074.59
+//
+Query:       ORTHOMCL1548  [M=383]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------            -----------
+   4.8e-131  437.0  16.4    5.1e-98  328.3   6.9    2.8  2  Morel1|Morel1_74430  e_gw1.29.157.1
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_74430  e_gw1.29.157.1
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  328.3   6.9  3.2e-102   5.1e-98       1     235 [.       1     224 [.       1     228 [. 0.97
+   2 !  112.4   2.2   1.2e-36   1.9e-32     283     382 ..     229     328 ..     224     329 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 328.3 bits;  conditional E-value: 3.2e-102
+         ORTHOMCL1548   1 msenikniyiretetrnePkPhivyrvevkaavrtwsiwkrysefdelndklvrlfPnnppPvelPakhyfqstlGnPvlveerrrGlee 90 
+                          m+e++++iy+r+ etr++PkPh+v++vev+aavrtws+wkrysef+ lnd+++ lfP++ppP  lP+kh++qst+ nP l+eerr Gle 
+  Morel1|Morel1_74430   1 MAETLQAIYVRDYETRSQPKPHTVFKVEVHAAVRTWSVWKRYSEFETLNDRFLELFPDHPPPQPLPTKHWWQSTMDNPELLEERRAGLET 90 
+                          789*************************************************************************************** PP
+
+         ORTHOMCL1548  91 ylrgilfhkddrwretdewkeflaiPtGrsldaatmytseswldeynqvqaiakeirsllnrrethiarnevqashncsvqakkslttlg 180
+                          ylrgil+h+ddrwr t+ew+efla+P              swl+e++++q i++e+rsl+nrreth+ rne+ ashnc++q+kk lt lg
+  Morel1|Morel1_74430  91 YLRGILSHRDDRWRLTHEWNEFLAVP--------------SWLEEFRNLQGISREVRSLINRRETHLGRNEISASHNCTIQSKKLLTSLG 166
+                          **************************..............7************************************************* PP
+
+         ORTHOMCL1548 181 vrvsqlesGlkGlakgsg...rdgkvmsegelrrrqdllnelkdekdtltklvlanrp 235
+                          +r+  le Gl+ la g g     g +ms+gelrrrqd+l+elkde+++ltklv+anr 
+  Morel1|Morel1_74430 167 LRIPALENGLMSLAMGGGgggGKGSIMSDGELRRRQDMLSELKDEREVLTKLVIANRQ 224
+                          **************97641116789*******************************97 PP
+
+  == domain 2  score: 112.4 bits;  conditional E-value: 1.2e-36
+         ORTHOMCL1548 283 vqkapasrrvfgnkraslpaeteqtrgldneglvelqkqtmedqdrhveqfsailsrhkhiglaigqeleiqnrllseldedvdktadkl 372
+                          v + p+ rrvfg    +l+ et qtrgldnegl+ lq++ m++qd h+eqf ail+r+khiglaigqel+ q +ll+eld dvd+t+ kl
+  Morel1|Morel1_74430 229 VGRVPNPRRVFGRVVQTLVQETSQTRGLDNEGLLLLQQEQMKQQDDHIEQFNAILQRQKHIGLAIGQELDNQIQLLDELDRDVDRTTLKL 318
+                          5567899*********************************************************************************** PP
+
+         ORTHOMCL1548 373 rlatrklnsi 382
+                           l ++k+ +i
+  Morel1|Morel1_74430 319 GLVNKKIGKI 328
+                          *******988 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (383 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       665  (0.0416249); expected 319.5 (0.02)
+Passed bias filter:                      351  (0.0219705); expected 319.5 (0.02)
+Passed Vit filter:                        40  (0.00250376); expected 16.0 (0.001)
+Passed Fwd filter:                        10  (0.000625939); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.41u 0.01s 00:00:00.42 Elapsed: 00:00:00.81
+# Mc/sec: 3234.47
+//
+Query:       ORTHOMCL1559  [M=366]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    2.2e-55  188.0   1.2    5.3e-55  186.8   1.2    1.6  1  Morel1|Morel1_108103  estExt_Genewise1Plus.C_150073
+    6.7e-51  173.3   6.0    6.6e-30  104.2   5.1    2.2  2  Morel1|Morel1_31166   estExt_Genemark1.C_220108
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_108103  estExt_Genewise1Plus.C_150073
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  186.8   1.2   6.6e-59   5.3e-55       9     360 ..       9     376 ..       4     382 .. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 186.8 bits;  conditional E-value: 6.6e-59
+          ORTHOMCL1559   9 kaidfkryylygflinllpiyvfypirtvktiqqsnigtssstslvkvvtervktegvrglykGvgvyalGsisGrlvhfstydalrer 97 
+                             idf++yy+yg ++n+ pi ++yp+rtv+ +qq +     s+s++ v+ +  + +g r+l+ G +v++lG  + +++ f+tyd + ++
+  Morel1|Morel1_108103   9 SKIDFQKYYFYGTVLNVPPILLMYPMRTVRLLQQRKSSVPVSSSIFTVIRDVQQKNGTRALFAGATVFSLGLTTTKILQFATYDYMAQK 97 
+                           469*********************************************************************************99876 PP
+
+          ORTHOMCL1559  98 vykgrgksvGlgWlegrsqttinallGtlsavitssfmvPfdvisqqlqvskaeasntknvnlsnnesatlkrkistassitkqssfvv 186
+                            +    ++  ++ l   +++ + ++lGt+sav+t+ f+vPfd++sqq+ ++ka a  + + +    ++a++     t ++ +  s+ v 
+  Morel1|Morel1_108103  98 TKE--NDYFEIEVLK--NPSVLSGVLGTISAVVTTFFVVPFDMVSQQITIAKAGADGSIASAAVPPTTAASVAPPFTPTTPSLSSTAVK 182
+                           544..4566777775..7899*******************************9988777666555555554444444444443333333 PP
+
+          ORTHOMCL1559 187 tsekdskkvhsakdak.lskvslkknfitrlkpkdvplyrflyrgwaagllntisffpayfftytyt..........leqlkqnk.hrl 263
+                           t+      + s +  +  + + +++ +  ++k      +rfl+rg+ a l+ t+ ff ayf +y y           + ++  nk +  
+  Morel1|Morel1_108103 183 TK-LPIYVTGSFEPLQpPQPMPISESLKLQFKQ---EGFRFLFRGYYATLMSTVPFFAAYFPAYEYSkvwvkdginyVRTMDFNKdKDT 267
+                           33.222222222221102223333333333443...359**********************9998862221111111122222331345 PP
+
+          ORTHOMCL1559 264 tflp..ssyfllsvlagvlagatatvtsapfdvvktkiqiarkagqk..........elrwlnlaksivkteGlkGlfvGlsarlwiiv 340
+                           +f+p     +++s++ag  a+ +  ++s+p d+vkt+iq  ++ +             l+w+++  +i k eG+  +f G+ ar  + v
+  Morel1|Morel1_108103 268 PFPPpeVHQLIISSIAGCCASLAGVMISSPSDMVKTRIQTEQRLQPTngtgvklpvpSLKWMDVFMEIWKKEGFMKFFSGTKARAILAV 356
+                           565421456899***************************99874332111122333369****************************** PP
+
+          ORTHOMCL1559 341 plGslnfwvfekvrdwsvvk 360
+                           p G+lnf +f+ vr  s+++
+  Morel1|Morel1_108103 357 PGGALNFVIFDFVRSVSIIR 376
+                           *****************987 PP
+
+>> Morel1|Morel1_31166  estExt_Genemark1.C_220108
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  104.2   5.1   8.3e-34   6.6e-30       9     152 ..      11     150 ..       6     165 .. 0.93
+   2 !   67.6   0.0   1.1e-22   9.1e-19     225     358 ..     190     347 ..     182     355 .. 0.77
+
+  Alignments for each domain:
+  == domain 1  score: 104.2 bits;  conditional E-value: 8.3e-34
+         ORTHOMCL1559   9 kaidfkryylygflinllpiyvfypirtvktiqqsnigtssstslvkvvtervktegvrglykGvgvyalGsisGrlvhfstydalrerv 98 
+                           +idf+ryy+y  + n+ pi + yp+rtv+ +qqs+     sts++kv+ +  k +g r+l+ G ++++ G  + ++v f+tyd   +++
+  Morel1|Morel1_31166  11 SVIDFRRYYFYATIYNVPPILLTYPLRTVRLLQQSKTSIPISTSVFKVIRNVYKKNGFRALFAGSAIFTTGVTTTKIVQFATYDYSAQKI 100
+                          68**********************************************************************************999888 PP
+
+         ORTHOMCL1559  99 ykgrgksvGlgWlegrsqttinallGtlsavitssfmvPfdvisqqlqvskaea 152
+                          +  + k+ G   l++ +   + ++lGt+sav+t+ f+vPf+++sqq+ ++ka +
+  Morel1|Morel1_31166 101 K--ENKYFGYPVLQNSN--VLSGVLGTFSAVVTTFFIVPFNMVSQQITIAKAGT 150
+                          5..45789999998765..789****************************9865 PP
+
+  == domain 2  score: 67.6 bits;  conditional E-value: 1.1e-22
+         ORTHOMCL1559 225 rflyrgwaagllntisffpayfftyt...........ytleqlkqnkhr.ltflp..ssyfllsvlagvlagatatvtsapfdvvktkiq 300
+                          rfl+rg+ a ll t  ff ayf +y            y+ e    + h+  +f++  s  fl+s++ag +a+ +  ++s+p d+vkt++q
+  Morel1|Morel1_31166 190 RFLFRGYYASLLSTGPFFAAYFPAYEisrvwvkdgidYIREVQAARSHNpNPFPRqsSHQFLISSIAGSIASLAGVFVSSPADMVKTRVQ 279
+                          9*********************998522332222222444444444444234544115579***************************** PP
+
+         ORTHOMCL1559 301 iark......agqk....elrwlnlaksivkteGlkGlfvGlsarlwiivplGslnfwvfekvrdwsv 358
+                            ++      +g k     l+w+++ k++vk eG   lf G  ar  + vp G+lnf +f+ vr  s+
+  Morel1|Morel1_31166 280 TEQRlqptnaSGIKlplpSLKWMEVFKEVVKKEGPMALFSGAKARAMLAVPGGALNFIIFDLVRAKSL 347
+                          98872222212322333369********************************************8876 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (366 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      1098  (0.0687281); expected 319.5 (0.02)
+Passed bias filter:                      840  (0.0525789); expected 319.5 (0.02)
+Passed Vit filter:                       118  (0.00738608); expected 16.0 (0.001)
+Passed Fwd filter:                        62  (0.00388082); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 1.46u 0.02s 00:00:01.48 Elapsed: 00:00:02.99
+# Mc/sec: 837.34
+//
+Query:       ORTHOMCL1570  [M=249]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (249 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       302  (0.0189034); expected 319.5 (0.02)
+Passed bias filter:                      232  (0.0145218); expected 319.5 (0.02)
+Passed Vit filter:                        34  (0.00212819); expected 16.0 (0.001)
+Passed Fwd filter:                        25  (0.00156485); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.26u 0.01s 00:00:00.27 Elapsed: 00:00:00.57
+# Mc/sec: 2936.71
+//
+Query:       ORTHOMCL1576  [M=370]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   4.9e-179  594.7   2.2   6.1e-179  594.4   2.2    1.0  1  Morel1|Morel1_140092  fgenesh1_kg.53_#_27_#_Locus2670v2rpkm37
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_140092  fgenesh1_kg.53_#_27_#_Locus2670v2rpkm37.75
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  594.4   2.2  3.8e-183  6.1e-179       6     366 ..      11     371 ..       5     375 .. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 594.4 bits;  conditional E-value: 3.8e-183
+          ORTHOMCL1576   6 eikdeaplpekeeenkdyrkplyigdwkksipyvdediaiddldephmkrkvtilkkypeieklygydvstvpitivaaaaqivaayvf 94 
+                           + ++ +   +k+ +  d r ply+gdwkks p vd+d+a+d++dephmkrk++ilkk+p+ieklyg+d +t  +ti aaaaq+  ay+f
+  Morel1|Morel1_140092  11 QREQYKDQLPKDPKALDNRFPLYLGDWKKSDPRVDDDLAMDNMDEPHMKRKLAILKKHPDIEKLYGHDSRTSLVTIAAAAAQVYFAYLF 99 
+                           4455556667888999************************************************************************* PP
+
+          ORTHOMCL1576  95 grilldwnwtmiiysyvvgasltqlygviiheaahclaaptrlqnrivgllanialplpiamsfrryhlehhtfqgvvgldpdlplewe 183
+                           gr+ +d  w +++++yvvg+s+t lygv+ihea+h  aapt + n++vgl ani++p+pi  sfrryhlehht+qgv+g+dpdlplewe
+  Morel1|Morel1_140092 100 GRVWTDTFWGFVVFAYVVGGSITALYGVLIHEATHNHAAPTVFLNKLVGLAANIGIPVPIYASFRRYHLEHHTYQGVTGMDPDLPLEWE 188
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1576 184 kklirgnallkllwlniypvlyvvrglimqkspqfweyvnwiftiitdvliyylcglrgllylvlslwlgygvhpaaahfiqehytfdd 272
+                           kk+irgna lkllwl iypv+yvvrg +m+k+p+ we  n ifti+tdvl+ ++cglrgllyl++slw+gyg+hp aahfiqehytfdd
+  Morel1|Morel1_140092 189 KKMIRGNAALKLLWLFIYPVMYVVRGAAMKKTPSTWEIYNIIFTITTDVLVAHFCGLRGLLYLFVSLWFGYGLHPGAAHFIQEHYTFDD 277
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1576 273 gqetysyygilnllflnigyhnehhdftkvpwsklpevrkiaseyydelayhtswllvhwnfvtkkqfgpqsrvgrsvedhkkgrkllg 361
+                           gqetysyygiln+ ++nig h ehhdftkv ws+lpevr +a e+yd++ayhtswllvhw+f+t+  +gpqsr grs+edhk  rk++g
+  Morel1|Morel1_140092 278 GQETYSYYGILNKPYMNIGLHMEHHDFTKVAWSRLPEVRAMAPEFYDSMAYHTSWLLVHWKFITEPGYGPQSRLGRSMEDHKTARKQVG 366
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1576 362 vlkke 366
+                           +l+++
+  Morel1|Morel1_140092 367 KLRRA 371
+                           *9986 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (370 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       377  (0.0235979); expected 319.5 (0.02)
+Passed bias filter:                      268  (0.0167752); expected 319.5 (0.02)
+Passed Vit filter:                        22  (0.00137707); expected 16.0 (0.001)
+Passed Fwd filter:                         2  (0.000125188); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.34u 0.00s 00:00:00.34 Elapsed: 00:00:00.69
+# Mc/sec: 3668.11
+//
+Query:       ORTHOMCL1586  [M=244]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   3.7e-115  383.9   8.9     4e-115  383.7   8.9    1.0  1  Morel1|Morel1_140384  fgenesh1_kg.57_#_8_#_Locus2498v1rpkm87.
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_140384  fgenesh1_kg.57_#_8_#_Locus2498v1rpkm87.02
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  383.7   8.9  2.5e-119    4e-115       1     211 [.       1     209 [.       1     220 [. 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 383.7 bits;  conditional E-value: 2.5e-119
+          ORTHOMCL1586   1 maeylasiygtekdkvncsfyfkigacrhgdrcsrkhvkptfsqtilcsniyqnpahdtncnmseeqiqahfddfyedfftelckygev 89 
+                           ma ylasiygtekdkvncsfyfkigacrhgdrcsrkhvkp fsqtil+ n+y+np+hd+nc++++ +iq  fd++yedff el+kyge+
+  Morel1|Morel1_140384   1 MATYLASIYGTEKDKVNCSFYFKIGACRHGDRCSRKHVKPNFSQTILVPNVYHNPSHDANCSLTKPEIQEDFDNIYEDFFVELAKYGEI 89 
+                           89*************************************************************************************** PP
+
+          ORTHOMCL1586  90 eemhvcdnvgdhlignvyarfryeedaqkavdnlnqrfyagrpiyaelspvtdfreaccrqnenaectrggfcnfmhlkevsrylkkel 178
+                           eemhvcdn+gdhl+gn+yarf+yeeda +av+ ln+rfyagrp++aelspvtdfreaccrq en+ectrgg+cnfmhlk   r lk+el
+  Morel1|Morel1_140384  90 EEMHVCDNIGDHLVGNIYARFKYEEDAGNAVESLNNRFYAGRPLWAELSPVTDFREACCRQYENSECTRGGLCNFMHLKSADRNLKREL 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1586 179 faaqrnylreqrrakrekseeessrsrslsedr 211
+                           fa+qrny re+rr +r++ ++  ++s  + ed 
+  Morel1|Morel1_140384 179 FASQRNYQREKRREERNRDHS--HHSSVAPEDA 209
+                           **************9998766..4444444443 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (244 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      1300  (0.0813721); expected 319.5 (0.02)
+Passed bias filter:                      714  (0.044692); expected 319.5 (0.02)
+Passed Vit filter:                       124  (0.00776164); expected 16.0 (0.001)
+Passed Fwd filter:                        46  (0.00287932); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.92u 0.01s 00:00:00.93 Elapsed: 00:00:01.89
+# Mc/sec: 883.12
+//
+Query:       ORTHOMCL1610  [M=194]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    8.3e-91  302.5   0.0    9.2e-91  302.3   0.0    1.0  1  Morel1|Morel1_134857  fgenesh1_kg.12_#_229_#_Locus979v1rpkm22
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_134857  fgenesh1_kg.12_#_229_#_Locus979v1rpkm226.95
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  302.3   0.0   5.7e-95   9.2e-91       1     193 [.       1     193 [.       1     194 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 302.3 bits;  conditional E-value: 5.7e-95
+          ORTHOMCL1610   1 melliglvgkdfvltasdasaarsitvlksdedksrdlnkhvlllysgesgdtvkfaeyiqrnvrlyeikngieltpkaaatftrrela 89 
+                           me+l+g++gkdfv+ta d+ a+ sit++k  e+ksr+ln h+l+l+sge+gd v+f+eyi+rn++ly+i+ngiel+p+a a+f+rrela
+  Morel1|Morel1_134857   1 METLFGITGKDFVITAYDSKAVASITLMKIGENKSRELNPHTLMLFSGEPGDGVHFSEYIERNIKLYGIRNGIELSPRAVASFARRELA 89 
+                           9**************************************************************************************** PP
+
+          ORTHOMCL1610  90 tslrsrkpyavnlliagydittskpelywidylgssvevpfaahgygayytlslldryhrpdltldeakvlikkcidelktrfivnlad 178
+                           +slrsrkpy+vnlliag+d++t+kp+lyw+d+l s ++vpfaahgygayy+lslldryhr d+t +e   l++kc+ el++r+i+n+ d
+  Morel1|Morel1_134857  90 DSLRSRKPYSVNLLIAGFDVKTNKPSLYWLDHLASLADVPFAAHGYGAYYCLSLLDRYHREDITEEEGIKLLQKCVGELRSRMILNMPD 178
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1610 179 fkikvtdkdgireie 193
+                           f  kv++kdgir ++
+  Morel1|Morel1_134857 179 FVAKVVNKDGIRIVQ 193
+                           ************876 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (194 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       333  (0.0208438); expected 319.5 (0.02)
+Passed bias filter:                      310  (0.0194041); expected 319.5 (0.02)
+Passed Vit filter:                        35  (0.00219079); expected 16.0 (0.001)
+Passed Fwd filter:                         8  (0.000500751); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.26u 0.01s 00:00:00.27 Elapsed: 00:00:00.50
+# Mc/sec: 2654.12
+//
+Query:       ORTHOMCL1650  [M=232]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------            -----------
+    1.3e-85  285.9   0.1    1.5e-85  285.8   0.1    1.0  1  Morel1|Morel1_98241  estExt_Genewise1.C_550045
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_98241  estExt_Genewise1.C_550045
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  285.8   0.1   9.3e-90   1.5e-85       4     225 ..      15     237 ..      12     243 .. 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 285.8 bits;  conditional E-value: 9.3e-90
+         ORTHOMCL1650   4 alvtlvregplfiltmkngenrftttfveallaaldeiekireqedaeraalitigegkfysngldlehalstpgffdnyylkllvrvlt 93 
+                          +l+ ++regplfi+tm + enrftt++ +a+  ald++ +++++e+  +aal+t+g+ kfysngld+e+a+s+pgf d+ ++ +l ++l 
+  Morel1|Morel1_98241  15 HLLEITREGPLFIMTMVDKENRFTTEMCKAICDALDHVAEVVDKEELTEAALMTRGQDKFYSNGLDMEKAFSVPGFTDHTFMPMLNKLLL 104
+                          67889************************************************************************************* PP
+
+         ORTHOMCL1650  94 fpiptvaainghafaggfmlalahdyrvmrkdrGylcmnevdipsplhpGmaaivrikitpktyrdcilqayrfnaqealdrelvdiiap 183
+                          f ipt+a++nghafagg+++a+ahdyrvmr+drG++cmne+d+pspl  Gm+a++r k+ p++yr c+l+a rf+aqeal  +lvd ia+
+  Morel1|Morel1_98241 105 FGIPTIACLNGHAFAGGCLMAMAHDYRVMRSDRGFMCMNEIDLPSPLPAGMSALLRYKMHPHVYRSCVLEAKRFSAQEALSSHLVDAIAE 194
+                          *****************************************************************************************9 PP
+
+         ORTHOMCL1650 184 .eeevlpkakelalkwskkaraGaiygslkkemyveaikylev 225
+                            e  +  ak++alk + ka+aG+ yg +k+emy e+ + l +
+  Morel1|Morel1_98241 195 gVEGTVELAKQVALKIAPKAKAGVFYGMIKEEMYPEISERLMM 237
+                          55678999**************************999876654 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (232 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       328  (0.0205308); expected 319.5 (0.02)
+Passed bias filter:                      291  (0.0182148); expected 319.5 (0.02)
+Passed Vit filter:                        29  (0.00181522); expected 16.0 (0.001)
+Passed Fwd filter:                         9  (0.000563345); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.22u 0.00s 00:00:00.22 Elapsed: 00:00:00.49
+# Mc/sec: 3238.78
+//
+Query:       ORTHOMCL1662  [M=341]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   2.6e-103  345.6   1.1     4e-103  345.0   1.1    1.3  1  Morel1|Morel1_134006  fgenesh1_kg.9_#_121_#_Locus4102v1rpkm47
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_134006  fgenesh1_kg.9_#_121_#_Locus4102v1rpkm47.76
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  345.0   1.1  2.5e-107    4e-103       4     320 ..       3     313 ..       1     336 [. 0.83
+
+  Alignments for each domain:
+  == domain 1  score: 345.0 bits;  conditional E-value: 2.5e-107
+          ORTHOMCL1662   4 nspcfplprnlhqqnlfhpngafrqlrtddshhaqlvkksrlrervasagaaesvskvvgkrkpsaydsdesmsdsksppssprlvstq 92 
+                           +spcf +p+  h ++ f++  +f      +s      ++  l+  + +   + ++++ + krkps  d d+ m  s  p+ s    ++ 
+  Morel1|Morel1_134006   3 DSPCFAIPHA-HSPSAFQHPHQFN-----GSL---AQPRLPLHRHLGNPHHTMDTPRSTLKRKPS-EDIDSPMPSSGPPSPSE---NNS 78 
+                           6899999865.5555555555555.....222...2233333333333444445888999*****.8******8765554444...577 PP
+
+          ORTHOMCL1662  93 dmekeyslakrtkms...nekefplskllatldkpqllslinnlidahpnlqseiasniprptiqsvtnvlnslekkyqdsfPytkWGq 178
+                           d + + +++kr +++   + k+  +skl+ tl   ql+ l+n l+d+hp l  +i+  +prpti sv   l++le k+q+sfPytkWG+
+  Morel1|Morel1_134006  79 DSNSDQAKVKRVRTTiqrVSKQKTVSKLIGTLTNAQLINLVNTLVDSHPSLAEDISNLVPRPTIASVQPYLAALETKMQESFPYTKWGP 167
+                           888888888887665222678999***************************************************************** PP
+
+          ORTHOMCL1662 179 skddysfnrvkPailelkgaildyaahftspeefPtttfsflhlatsiaqrlPeWdnslhnelkrdlyiklaeyWkkaivdaaskvseG 267
+                           s ddysfnrvkPa+ el + ++dy++hftsp efPtt fsflh+at++++rlP+Wdn   ne k +ly  la++W kai+da+sk+ eG
+  Morel1|Morel1_134006 168 SYDDYSFNRVKPALDELVENLVDYTNHFTSPPEFPTTSFSFLHIATEFCHRLPNWDNPANNEHKSNLYKSLADFWIKAIQDASSKLEEG 256
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1662 268 kiyGqlvvneWaknlaqhnrdsnGmfqqaldefveklGwiiglqegss....slass 320
+                           kiyGq+ v+eWaknl+qhn+ s Gmf  a++ef  klGwiig+ + +s    +l+s+
+  Morel1|Morel1_134006 257 KIYGQMTVQEWAKNLEQHNNTSQGMFSSAIEEFKTKLGWIIGIHTPASsfsgALSSG 313
+                           *******************************************99876343323333 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (341 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       653  (0.0408738); expected 319.5 (0.02)
+Passed bias filter:                      318  (0.0199049); expected 319.5 (0.02)
+Passed Vit filter:                        22  (0.00137707); expected 16.0 (0.001)
+Passed Fwd filter:                         1  (6.25939e-05); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.30u 0.01s 00:00:00.31 Elapsed: 00:00:00.60
+# Mc/sec: 3887.70
+//
+Query:       ORTHOMCL1673  [M=215]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    6.3e-89  296.9   0.1      7e-89  296.7   0.1    1.0  1  Morel1|Morel1_135643  fgenesh1_kg.17_#_14_#_Locus4749v1rpkm39
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_135643  fgenesh1_kg.17_#_14_#_Locus4749v1rpkm39.23
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  296.7   0.1   4.4e-93     7e-89      11     214 ..       1     207 [.       1     207 [. 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 296.7 bits;  conditional E-value: 4.4e-93
+          ORTHOMCL1673  11 lalapqfaghry.gsstaahvlevyldyvcpfsaklfkrlrnevlpyieekysekvqflfrqqvqpwhpsstvvheaalavekidkekf 98 
+                           ++l pqf+ghr  g+++a h le+yldyvcpfsak++k++ ++vlp++e++++++vq +fr+q+qpwhpsst+v eaalave+id  +f
+  Morel1|Morel1_135643   1 MSLPPQFSGHRIsGKADAKHTLELYLDYVCPFSAKIWKQVYENVLPWLEQQHPGQVQVIFRNQIQPWHPSSTLVAEAALAVEQIDPAQF 89 
+                           899********75899************************************************************************* PP
+
+          ORTHOMCL1673  99 fefsaklfevqkeyfdesvqaltreqineslakhaesv..GissdqflslleiksvsdasearnaGnkvtndlklhiklgrqegihvsp 185
+                             +s+ lf  qk yfde+v + tr++ ++sl+ +a +    +s d+ lsll+i  vs a+ea+n Gnk+tn+lk+hiklgrq+gihvsp
+  Morel1|Morel1_135643  90 APYSNALFVNQKSYFDEAVVDKTRTEQYKSLSALAATTspSLSHDKVLSLLQIAPVSTAAEATNYGNKITNELKYHIKLGRQTGIHVSP 178
+                           *******************************99886552279*********************************************** PP
+
+          ORTHOMCL1673 186 tvlfdgiidnsissgwtldqwkewlakkv 214
+                           tvl+dgii+nsissgwtl+qwke++ +k+
+  Morel1|Morel1_135643 179 TVLWDGIIENSISSGWTLEQWKEFFGNKL 207
+                           *************************9986 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (215 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       359  (0.0224712); expected 319.5 (0.02)
+Passed bias filter:                      278  (0.0174011); expected 319.5 (0.02)
+Passed Vit filter:                        24  (0.00150225); expected 16.0 (0.001)
+Passed Fwd filter:                         2  (0.000125188); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.26u 0.00s 00:00:00.26 Elapsed: 00:00:00.59
+# Mc/sec: 2492.73
+//
+Query:       ORTHOMCL1703  [M=672]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+      2e-80  271.0   6.7      6e-61  206.6   6.2    4.0  4  Morel1|Morel1_142643  fgenesh1_kg.106_#_5_#_Locus3414v1rpkm60
+    1.6e-79  268.0  14.1    1.3e-61  208.8  12.4    3.6  4  Morel1|Morel1_141128  fgenesh1_kg.68_#_35_#_Locus6050v1rpkm26
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_142643  fgenesh1_kg.106_#_5_#_Locus3414v1rpkm60.92
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   72.1   0.0   3.9e-24   3.1e-20       1      96 [.       1      90 [.       1      97 [. 0.94
+   2 ?   -1.5   1.0     0.072   5.7e+02     187     237 ..     132     183 ..      97     210 .. 0.66
+   3 !  206.6   6.2   7.5e-65     6e-61     232     549 ..     334     665 ..     288     685 .. 0.73
+   4 ?  -13.8  26.9         2   1.6e+04     484     559 ..     734     810 ..     682     831 .. 0.52
+
+  Alignments for each domain:
+  == domain 1  score: 72.1 bits;  conditional E-value: 3.9e-24
+          ORTHOMCL1703  1 mfvgPslvGnl..GrsswktvrdspyfLlqkgpqqqnnnskrssasgYRiitkgFPHYRvadhdDfnqikeaFdllhqevlsevegkktvk 89
+                          m v+P lvGnl  Grs+wk++ +   f+lq++p+q         +  YRiit+gFPHYRva+ d  + ++e+   l +   s ++gk+t+k
+  Morel1|Morel1_142643  1 MVVQPRLVGNLipGRSNWKAIGQTDIFVLQHHPRQA--------TQAYRIITRGFPHYRVAEGDAVEVLQEELTTLSRRARSAIQGKITSK 83
+                          89********999*******************9875........568******************************************** PP
+
+          ORTHOMCL1703 90 KiLkqlk 96
+                          Ki   lk
+  Morel1|Morel1_142643 84 KISTWLK 90
+                          **76665 PP
+
+  == domain 2  score: -1.5 bits;  conditional E-value: 0.072
+          ORTHOMCL1703 187 fpvnqsdypdpdsdssdgeaavdenvd.etvdesgvrnvdewvslgssllds 237
+                           +  +++ y +  s +s+++++++e +   ++d+s+ r++ +  s +s++l  
+  Morel1|Morel1_142643 132 LLHDEEGYLSDLSTTSNDNEIENEGIVtMAADDSTLRDITSRESAASRRLMR 183
+                           3345566888889999999999998887999999999999988888876543 PP
+
+  == domain 3  score: 206.6 bits;  conditional E-value: 7.5e-65
+          ORTHOMCL1703 232 sslldsLmgwlegppiegansvssknnntnktsnnknqTilDiPlqFidLLTyPeidskaskKaSFavlreisfvkqrrkvLlLitiyl 320
+                           s ll+ L+ w+egpp+  +          +k+ n+k   il+iP+qFi+LLTyPe d+k+  K S a +re +fv+qrrk L+++t y 
+  Morel1|Morel1_142643 334 SPLLEALVNWVEGPPNRPQP---------KKNLNEKPNPILEIPFQFIALLTYPEPDPKTGDKMSLAMVRETAFVRQRRKTLMMLTAYT 413
+                           55788888888888876655.........5666778888************************************************** PP
+
+          ORTHOMCL1703 321 fvirlcsfdlflvllfasncamlflmknsGkvnvtmakravrqriGWakqWaGslfrtranvinnntavnrkntapvt......vknqp 403
+                           +++r csfd+flv+lfasnc mlflmknsG++nv makrav qr+GWakqWaG +f+ r n  + n+ vn       t      v+   
+  Morel1|Morel1_142643 414 LIVRYCSFDFFLVVLFASNCGMLFLMKNSGRMNVNMAKRAVGQRVGWAKQWAGGFFK-RGNGGATNSNVNSSHIGNDTlsihqgVTTSN 501
+                           ********************************************************8.5666666666776655444411111144444 PP
+
+          ORTHOMCL1703 404 essktrmskqssq.datvqsGs.lsdvtavGskvakt...ap...krgvflrksasadsts......aikdGsle..rlsgntnsaesi 476
+                            ss +   ++ss    +++sG  ++     G k   +   +p   +rg f ++ + + s +      a  +  ++   ++g++ + + +
+  Morel1|Morel1_142643 502 ASSSKSLPNSSSMpAESIRSGVgIAASIIAGEKADSAqenSPqikRRGLFGKRKTYTTSLApsqrigASTSSIVSptSVTGEGLVGDDV 590
+                           44444444555541456788742444444454433221112222145655544433333324455544444444411456777777777 PP
+
+          ORTHOMCL1703 477 si....nkrsqfdrtkasaasstsstinseiksissttiqsslsnssllssinsdsslntevqvslpsttkrrffak 549
+                           s+     kr+ f r+ ++ a++ s t    +++i+  t+   l+ ss   s + +  l ++ ++ l st+ +++  +
+  Morel1|Morel1_142643 591 SVmtgrTKRGFFKRNTNNSATTRSATAPPLDQPITP-TMPKHLTHSSTSTSAT-TTILTSKNGIPLLSTSPQPQNQS 665
+                           652333467888889888888888888888888875.6778888777655554.44888999999988888887655 PP
+
+  == domain 4  score: -13.8 bits;  conditional E-value: 2
+          ORTHOMCL1703 484 fdrtkasaasstsstinseiksis.sttiqsslsnssllssinsdsslntevqvslpsttkrrffakrisgqqqsav 559
+                             ++ ++ +s  s++ ns+ ++++ +tt +++ +++sl+s in  s l++    s   + ++++  ++   qq+sa+
+  Morel1|Morel1_142643 734 SGSSSPNSSSPKSTSANSHAATTTtTTTTTTASTGRSLASAINPRSLLSSFTSTSSQKQQQQQQQQQQQQQQQNSAT 810
+                           12233344444444445544444304444555667777777777755554443333333333333333333333332 PP
+
+>> Morel1|Morel1_141128  fgenesh1_kg.68_#_35_#_Locus6050v1rpkm26.94
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   68.0   0.0   6.7e-23   5.4e-19       1      98 [.       1      92 [.       1     105 [. 0.93
+   2 ?   -2.8   0.6      0.17   1.4e+03     146     158 ..     268     279 ..     243     329 .. 0.56
+   3 !  208.8  12.4   1.7e-65   1.3e-61     232     588 ..     398     747 ..     369     756 .. 0.64
+   4 ?   -2.1   2.0      0.11   8.8e+02     454     514 ..     783     844 ..     773     909 .. 0.73
+
+  Alignments for each domain:
+  == domain 1  score: 68.0 bits;  conditional E-value: 6.7e-23
+          ORTHOMCL1703  1 mfvgPslvGnl..GrsswktvrdspyfLlqkgpqqqnnnskrssasgYRiitkgFPHYRvadhdDfnqikeaFdllhqevlsevegkktvk 89
+                          m v P lvG l  Grs w tv +  y++lq++p+  +nn        YRiit+gFPHYRva+ d  + ++e+ + l +     ++gk+t+k
+  Morel1|Morel1_141128  1 MVVHPRLVGVLlrGRSVWNTVAETDYLVLQRHPRLAKNN--------YRIITRGFPHYRVAEGDSEEVLQEELEFLSRMAKVTIQGKITSK 83
+                          89*******99889*******************887665........******************************************** PP
+
+          ORTHOMCL1703 90 KiLkqlkiw 98
+                          Ki   lk+ 
+  Morel1|Morel1_141128 84 KISTWLKST 92
+                          **9888875 PP
+
+  == domain 2  score: -2.8 bits;  conditional E-value: 0.17
+          ORTHOMCL1703 146 issnsssSsstks 158
+                           +++ +s S+s + 
+  Morel1|Morel1_141128 268 NNN-NSNSNSKRP 279
+                           111.122233222 PP
+
+  == domain 3  score: 208.8 bits;  conditional E-value: 1.7e-65
+          ORTHOMCL1703 232 sslldsLmgwlegppiegansvssknnntnktsnnknqTilDiPlqFidLLTyPeidskaskKaSFavlreisfvkqrrkvLlLitiyl 320
+                           s  ld L+ w+egp   ++         + + ++ k    lDiP+qFi+LLTyPe d+k   K+  a +re sfv+qrrk L+++t y 
+  Morel1|Morel1_141128 398 SPFLDALVNWIEGPDTATQP--------KGQDKDTKPNPWLDIPFQFIALLTYPEPDPKNGNKTTLAMVRETSFVRQRRKTLMMLTAYT 478
+                           55799999999999765554........2223333444589************************************************ PP
+
+          ORTHOMCL1703 321 fvirlcsfdlflvllfasncamlflmknsGkvnvtmakravrqriGWakqWaGslfrtranvinnntavnrkntapvtvknqpessktr 409
+                           +v+r csfd+f+++lfasncamlflmknsG++nv makravrqr+GWakqWaGs+f+   n+  nn  +n   + p   ++ +   +  
+  Morel1|Morel1_141128 479 LVVRYCSFDFFILVLFASNCAMLFLMKNSGRMNVNMAKRAVRQRVGWAKQWAGSIFKRGGNNN-NN--INITPSPPGPSHSGSMGHHRT 564
+                           *********************************************************888764.44..455555554444444444444 PP
+
+          ORTHOMCL1703 410 mskqssqda..tvqsGslsdvtavGskvaktapkrgvflrksasadstsaikdGsl..erlsgntnsaesi..sinkrsqfdrtkasaa 492
+                            s + s+++  +v+    +  +av s+ +  ap  g     sa++ +  ++k  +l  +r+  nt++  s+  +  + + + ++ +++ 
+  Morel1|Morel1_141128 565 HSGSMSHISnsNVHHQQHQSSSAVHSARSSPAPLDGNA-VTSAETSP--QMKRRGLfgKRVPVNTSQQSSSgsTYTQGTALSSSVPLQF 650
+                           44444444300344444444444444444444444443.34555553..5555554235666666554443113345567888899999 PP
+
+          ORTHOMCL1703 493 sstsstinseiksissttiqsslsnsslls.sinsdss.lntevqvslpsttkrrffakrisg...qqqsavnelsqssnglqgssdiq 576
+                           + t+s +ns+   +++tt +  +  ++  s + ns+ + + t+    +p  tk +  +++ s    q+++ + + ++s+ ++  +   +
+  Morel1|Morel1_141128 651 GDTASVLNSSA--TTTTTKRRFFRRNQNGSnNNNSTTTiIATTPSAPVPIPTKANTISHHHSNisqQGGARATTPTRSTTAMATTPTAT 737
+                           99999777764..4445555555444443304444443156666667777777777665544310033333333344444443333333 PP
+
+          ORTHOMCL1703 577 eskisrsannsn 588
+                           +   +++   sn
+  Morel1|Morel1_141128 738 NVMHNSQ--LSN 747
+                           3222222..222 PP
+
+  == domain 4  score: -2.1 bits;  conditional E-value: 0.11
+          ORTHOMCL1703 454 stsaikdGslerlsgntnsaesisinkrsqfdrtkasaasstsstinseiksisst.tiqss 514
+                           +  a+++G l  +   +    s s + ++   +t a  as++s + +s  ++ ss+  i+ss
+  Morel1|Morel1_141128 783 ARWATRSGLLAATPPPVHRPSSASEPSTTANPTTAAAVASTVSGQTQSTTVPSSSSsSITSS 844
+                           44567777777777777777777777777777777777777777666666655443033333 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (672 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      2570  (0.160866); expected 319.5 (0.02)
+Passed bias filter:                      784  (0.0490736); expected 319.5 (0.02)
+Passed Vit filter:                        96  (0.00600901); expected 16.0 (0.001)
+Passed Fwd filter:                        14  (0.000876314); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 1.02u 0.02s 00:00:01.04 Elapsed: 00:00:02.23
+# Mc/sec: 2061.36
+//
+Query:       ORTHOMCL1728  [M=1173]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+          0 1323.7   8.6          0 1026.2   0.1    3.0  2  Morel1|Morel1_120289  fgenesh1_pg.2_#_135
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_120289  fgenesh1_pg.2_#_135
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1026.2   0.1         0         0      33     867 ..      15     869 ..       2     877 .. 0.90
+   2 !  292.5   4.0   3.5e-91   5.6e-87     870    1141 ..     914    1185 ..     904    1213 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 1026.2 bits;  conditional E-value: 0
+          ORTHOMCL1728  33 venvvedtiv.ea.eePnftlainlphfPgktyvlanaseLvqevkqwlidsPetciytCfsLslkgrrLdDykeLqe.egitqDCdLd 118
+                           v+  +e  ++ ea  e  +++++nlp+  gk +v+a   e +q+v+q +++s etci+ CfsL+++g +L+D+ eL + egit D +Ld
+  Morel1|Morel1_120289  15 VDTEQESQVIeEAgAEEFYQITVNLPNKGGKVQVIASPREAIQDVRQSIVESTETCIHSCFSLAFNGVKLNDFMELGDvEGITPDSELD 103
+                           44444444443442355689********************************************************765********** PP
+
+          ORTHOMCL1728 119 LveepYterearihvihvrellaGPfkqvtssvGidpGlsfftavsginvktnneqseengkskedeevkktPftdydftaP.slskfi 206
+                           Lv ++Yterearihv+ +r+llaGP k +  +vGidp +sf+++vsg  +    ++s+        e ++ t f+ +d  a  +ls f+
+  Morel1|Morel1_120289 104 LVLNNYTEREARIHVNRLRDLLAGPAKLNVNAVGIDPAMSFLSTVSGHVEEIPVDNST-------YETAPTTVFSKFDVNASaALSDFV 185
+                           ***********************************************98877665554.......356789*******987527***** PP
+
+          ORTHOMCL1728 207 PdnfgrhkikcleslylsGwnPvPferrrrGdllyltvstieGetlhitagvdGffvnrstiknfdfnPrselqvyhahslitllqgls 295
+                           P+ ++r+ ++c++s+ lsGwnP P   r rGdl+yl+v+t+eGet+ it+++ Gf+vn+st ++fd+ Pr + +    hsli ll ++s
+  Morel1|Morel1_120289 186 PKGLERTPVQCVKSIALSGWNPPPHHLRLRGDLMYLIVTTLEGETVQITSTATGFHVNKSTSNHFDPTPRQDSKAASDHSLIVLLEKVS 274
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1728 296 PsfrtnfkalqdfigahhpfetiPvntcfPaypwivkqskhnydlgrateiylnfgmdavdslrdwndefqsqreyprvelrdrvlrer 384
+                           P f tnfk lq+fi++hh +e +Pv t  Paypw+++ + h++d +r +e yln+g+d+vdslrdwnde+qs re pr +l++rv+r+r
+  Morel1|Morel1_120289 275 PMFATNFKKLQEFITRHHMLEVLPVTTAQPAYPWAIQPAPHTFDPTRPSEAYLNYGTDSVDSLRDWNDELQSHRELPRTNLQERVMRDR 363
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1728 385 linkiqadftesavkGaiavinGnvipfnprdpedehmyvynniffskafdtrGtfaklGGndaahvatGkdlegirivnsidieglyt 473
+                           ++nki+adf+++av+Ga+ v+nGnv+ +np +pe+ hmyvynniffsk fd r tf klGG+daahvatGkdleg+r+ n +d+eglyt
+  Morel1|Morel1_120289 364 FLNKINADFADAAVRGAMDVVNGNVVALNPLEPEESHMYVYNNIFFSKGFDGRNTFEKLGGDDAAHVATGKDLEGVRTLNGVDVEGLYT 452
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1728 474 lgcvvidykgvrivaqtivpgifrrqddssivygyfdngrddpklcanpefheivgkaakalhlaehsvcdtkgttvklytsletkglm 562
+                           lg vv+dykg+r+vaq+ivpgifr+q++ssivyg  dng   p++ ++ +fhei+g+aakalh+aeh+v d  g++ +l+ts++tkglm
+  Morel1|Morel1_120289 453 LGTVVVDYKGIRVVAQSIVPGIFRQQEESSIVYGSVDNG---PQVKSDEKFHEILGQAAKALHIAEHAVEDGEGKSTNLWTSFDTKGLM 538
+                           **************************************9...99********************************************* PP
+
+          ORTHOMCL1728 563 gddgrrylfdlyrlnpvdiefiekecepkeesdipayphklvllrpeliesywdyrfrlwlqdka.......nkkke.vvddstkev.. 641
+                           g dgrryl+dlyrlnpvd+ef+e+++  k+  +ip yphkl+l+rpel+  +w+++ r w+q++a       ++kk   +d+ tke+  
+  Morel1|Morel1_120289 539 GADGRRYLLDLYRLNPVDVEFLENDIAAKD--NIPEYPHKLTLMRPELMLLFWEHKLRAWVQERAleiqkraEEKKAlEGDKETKETke 625
+                           **************************9985..8****************************9987333222122221112333433311 PP
+
+          ORTHOMCL1728 642 .vi..sende.......................fnldfnpdafttfnlpigeehaarkvaeeenvrnaskylrdtvirmliiefttlav 704
+                            +   se  e                       f+l+fn daft++++p+  + a  k+ +e+ vr+ask+lr+ vi +l+ +ft+ +v
+  Morel1|Morel1_120289 626 aTAesSE--EkkeeepkeeaapsnpeddvnildFDLSFNVDAFTSVKTPA--DGADAKTQQEQTVREASKFLRENVINVLLQDFTAYVV 710
+                           1211111..011111222222222333344444899************97..56677999***************************** PP
+
+          ORTHOMCL1728 705 spvdgisltttmhrrginmrylgmianiinesqdhkldhikhlvihemiiraskrilrnllrqvtntyipycvshflncllgtdfnmnp 793
+                           sp+dg slt +mhrrginmrylg ian+ +es+   l hi++l ++em++r+ kri+r+ +r +  t+i  c+sh+lncllg ++n np
+  Morel1|Morel1_120289 711 SPIDGGSLTKAMHRRGINMRYLGRIANLAKESKGLALVHIHYLAMQEMVVRSVKRIIRKAVRGLPTTHIADCISHILNCLLGHELNANP 799
+                           ****************************************************************************************9 PP
+
+          ORTHOMCL1728 794 qplvsestltknlkydyltltpsslcqqiletvliryryrlpedfv.nv.hvrklpllreiclrvgvqiavqgyhf 867
+                              +++        y y  +tp sl + i   vl+ryr+ lpe+fv n+ + +k+pllr++clr g+q+ ++ y f
+  Morel1|Morel1_120289 800 IATLAQD------GYAYALFTPESLRDAIQSEVLLRYRFELPENFVkNIaKEKKVPLLRDVCLRAGIQVEARDYIF 869
+                           8766554......59999***************************944525689******************9988 PP
+
+  == domain 2  score: 292.5 bits;  conditional E-value: 3.5e-91
+          ORTHOMCL1728  870 kkskkrlttfipddilnliptikqatpkcafaeetfetgklsiaqgsrdlgvdlmlqslalheqsygflhpatakcysalamcfyhn 956 
+                             kskkr ttf p dil l+p +kqa+ + ++a+e+fe+gk s+aqg r+lg++l+l+slalheq+ygflhp ta+cy alam++yh 
+  Morel1|Morel1_120289  914 AKSKKRATTFEPSDILTLLPLVKQASTRSTYADEAFEAGKTSLAQGHRQLGLELLLESLALHEQTYGFLHPETARCYQALAMIYYHA 1000
+                            59************************************************************************************* PP
+
+          ORTHOMCL1728  957 edleiaidfqkkavivlertcgvdsvdaihgylhlglfenaightelglkymrhamyyweiifgdlhpdgatadhnvgimlqnmkdy 1043
+                            +d e+a+dfq+kaviv ert gvds +a+h yl+lglfe a g+t  +lky++ha+ yw++i+g+ hpd++tad+nv++mlq+++d+
+  Morel1|Morel1_120289 1001 DDKEVALDFQRKAVIVSERTQGVDSPEALHNYLNLGLFEHASGRTLTALKYLKHAIQYWDLIYGKGHPDSSTADNNVAVMLQSLRDF 1087
+                            *************************************************************************************** PP
+
+          ORTHOMCL1728 1044 egsikfferakntnefvfgknnvvtgesyhllakalayaedykaaliaeksayhifnavfgaehpktretelllrdltsnavhnakm 1130
+                            + s  fferak t+e+  gk+    ++++h+laka a   d+++++  e+ ay ++  ++gae  +t+e+e+ l +l + a + a+ 
+  Morel1|Morel1_120289 1088 DTSCVFFERAKATQELAHGKEHTNLANCHHVLAKAYALKGDFETSVKEEQLAYDMYLKLVGAEDMRTKEAEVWLSELKNTAEYTANQ 1174
+                            *****************************************************************************9999999988 PP
+
+          ORTHOMCL1728 1131 alqqkqdkpqr 1141
+                            al +k    q+
+  Morel1|Morel1_120289 1175 ALYEKAALEQQ 1185
+                            88877655444 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (1173 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       363  (0.0227216); expected 319.5 (0.02)
+Passed bias filter:                      276  (0.0172759); expected 319.5 (0.02)
+Passed Vit filter:                        19  (0.00118928); expected 16.0 (0.001)
+Passed Fwd filter:                         1  (6.25939e-05); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.80u 0.01s 00:00:00.81 Elapsed: 00:00:01.60
+# Mc/sec: 5014.96
+//
+Query:       ORTHOMCL1769  [M=221]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+    1.1e-59  201.7  14.9    2.2e-34  118.9   5.6    4.0  4  Morel1|Morel1_410219  CE250205_4302
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_410219  CE250205_4302
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   96.7   1.8   8.4e-32   1.3e-27       7     105 ..       9     106 ..       4     148 .. 0.79
+   2 ?   -5.9   7.3         1   1.6e+04      76      96 ..     241     261 ..     147     300 .. 0.56
+   3 ?   -1.4   1.5     0.084   1.3e+03      89     111 ..     435     458 ..     402     491 .. 0.51
+   4 !  118.9   5.6   1.4e-38   2.2e-34      93     217 ..     530     652 ..     504     653 .. 0.71
+
+  Alignments for each domain:
+  == domain 1  score: 96.7 bits;  conditional E-value: 8.4e-32
+          ORTHOMCL1769   7 stpkcprcekavymaeqvigpng.pwhkailtcidikkrldsyalaehegeaycktchgrrfgpkgygfasgtsllssdkPvkkpssnk 94 
+                           ++pkcprc k+vy aeq+igpng +whka+ tc ++++rlds  laehegeaycktch++ +gp gyg+asg   l  + P ++ ++  
+  Morel1|Morel1_410219   9 AAPKCPRCTKSVYSAEQIIGPNGaAWHKACYTCRECNRRLDSNILAEHEGEAYCKTCHKKMWGPTGYGYASGL--LVREDPESQFKQSI 95 
+                           68********************955*********************************************984..44444544444433 PP
+
+          ORTHOMCL1769  95 sesssdkisqs 105
+                                +  sq 
+  Morel1|Morel1_410219  96 GRPPNSAGSQN 106
+                           33333333333 PP
+
+  == domain 2  score: -5.9 bits;  conditional E-value: 1
+          ORTHOMCL1769  76 sgtsllssdkPvkkpssnkse 96 
+                           +++++ s++  +++p    s+
+  Morel1|Morel1_410219 241 TSSAFGSTKATTSSPAPSFSS 261
+                           222233333333333333333 PP
+
+  == domain 3  score: -1.4 bits;  conditional E-value: 0.084
+          ORTHOMCL1769  89 kpssn.ksesssdkisqsppksai 111
+                           +      s+ss++ +s++p++sa 
+  Morel1|Morel1_410219 435 SAAPApVSSSSTSSVSSTPTSSAR 458
+                           221111222333333333333332 PP
+
+  == domain 4  score: 118.9 bits;  conditional E-value: 1.4e-38
+          ORTHOMCL1769  93 nksesssdkisqsppksainps.sesyGffstrs.qsprgakrswtlPvnndiCPrCskavyaaeavlG.aGvkyhkLclrcvkcskll 178
+                           n   + s++ sq + +   +p+ ++ + ++ +    +p+  k + ++    diCPrC k+vy ae++l   G kyhkLclrcv+csk l
+  Morel1|Morel1_410219 530 N---TASETTSQPSNTNHSQPTtTPKTSYYRSGGlMTPK--KMTTSFGGGGDICPRCQKTVYHAESALApGGAKYHKLCLRCVECSKSL 613
+                           2...33333443333332233312223333222223444..334578899****************9973579**************** PP
+
+          ORTHOMCL1769 179 dstnltdregkiycrlcyskefgpkgygygggaafltte 217
+                           dstn+tdr+g  yc++cysk++g kgygyg+ga++l te
+  Morel1|Morel1_410219 614 DSTNMTDRQGTPYCKACYSKAWGAKGYGYGSGASMLHTE 652
+                           ************************************998 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (221 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      1360  (0.0851277); expected 319.5 (0.02)
+Passed bias filter:                      627  (0.0392464); expected 319.5 (0.02)
+Passed Vit filter:                        63  (0.00394342); expected 16.0 (0.001)
+Passed Fwd filter:                        14  (0.000876314); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.54u 0.01s 00:00:00.55 Elapsed: 00:00:01.20
+# Mc/sec: 1259.80
+//
+Query:       ORTHOMCL1770  [M=397]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence             Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------             -----------
+   5.9e-155  515.8  10.5   8.3e-155  515.3  10.5    1.2  1  Morel1|Morel1_155669  estExt_fgenesh1_pg.C_310112
+    4.6e-55  186.9   0.5    7.7e-55  186.2   0.5    1.3  1  Morel1|Morel1_95351   estExt_Genewise1.C_340126
+
+
+Domain annotation for each sequence (and alignments):
+>> Morel1|Morel1_155669  estExt_fgenesh1_pg.C_310112
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  515.3  10.5    1e-158  8.3e-155       6     397 .]      17     429 ..      13     429 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 515.3 bits;  conditional E-value: 1e-158
+          ORTHOMCL1770   6 svqkprsklftclacqvafntaedqrehygtdwhrynlkrkvaelppvtaevfeqkvlaqqaqskdaeekasfsaecaackktyysena 94 
+                           + + prs lftclac vaf+ta+ qrehy +dwhrynlkrk++elppv+a++f+qkv aq+ ++ d ++ a  s+ec++c+k y s+na
+  Morel1|Morel1_155669  17 TPDAPRSSLFTCLACHVAFKTADIQREHYRSDWHRYNLKRKMVELPPVSADMFAQKVTAQKQKDADDQAAADDSSECKTCRKSYSSKNA 105
+                           6789************************************************************************************* PP
+
+          ORTHOMCL1770  95 yanhlrsnkhkvaeikaaqegkaqkkktvlearkdaen...............iqee..evidkkiaaavkleeidclfctqksesfee 166
+                           y nhl s+khk +e+k   + +  +k     ++ d e+               +qee  e++dkki++av+le +dclfct+k+e+fe+
+  Morel1|Morel1_155669 106 YENHLASKKHKETEAKLKANPRPVAKV-EKPVKSDVESitskmtvdlsvtdetTQEEleEIMDKKIETAVRLELTDCLFCTEKAETFES 193
+                           ************999987776544432.22233333331223333444333334544999***************************** PP
+
+          ORTHOMCL1770 167 nlkhmtkvhsffipeieylvdlrGlikylGekisvgnvclycngrgkglksleavrkhmidkGhckiaydrdedimeivdfydftssyp 255
+                           n++hmtk h ffip++ey+vdl+GlikylGek+svgn+cl+cng+g+ +ksleavrkhm+dkGhcki yd++ ++meivdfydf ssyp
+  Morel1|Morel1_155669 194 NIEHMTKYHGFFIPDLEYIVDLEGLIKYLGEKVSVGNICLHCNGKGRQIKSLEAVRKHMVDKGHCKIPYDTESEMMEIVDFYDFRSSYP 282
+                           ***************************************************************************************** PP
+
+          ORTHOMCL1770 256 deeeeeweeveddeeedeeedlddeeedeleksdllyeddvelvlPsGariGhrslrryykqnlrpeeerdsiiinrliteygenlgyk 344
+                           +ee+ +  e       ++ e++++++e+el     l ed++el+lPsGar+Ghrsl++yy+qn++pee rds++in+l+t+y++++gy+
+  Morel1|Morel1_155669 283 EEEQRKMREA-----AERGEEVEEDDEEELDTGVRLGEDEMELILPSGARLGHRSLNKYYRQNVKPEETRDSVLINKLLTHYTDHMGYD 366
+                           *995554444.....44445566789999***********************************************************7 PP
+
+          ORTHOMCL1770 345 r.........rsggvlitk.deeakaaqakivalkdkrrqqefdtrvGikanklqrhfraqil 397
+                                     + g  l+++ d+ea+ aq+++ ++kd rr +e+++rvG k nklq+h+r qil
+  Morel1|Morel1_155669 367 LalsktkerkERGQALVARnDGEARWAQKQTSTFKDFRRIEEHKARVGQKQNKLQKHYRVQIL 429
+                           566666676656777777527899**************************************8 PP
+
+>> Morel1|Morel1_95351  estExt_Genewise1.C_340126
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  186.2   0.5   9.6e-59   7.7e-55      12     297 ..      14     309 ..       1     324 [. 0.74
+
+  Alignments for each domain:
+  == domain 1  score: 186.2 bits;  conditional E-value: 9.6e-59
+         ORTHOMCL1770  12 sklftclacqvafntaedqrehygtdwhrynlkrkvaelppvtaevfeqkvlaqqaqskdaeekasfsaecaackktyysenayanhlrs 101
+                           +  tclac + +++ e+q+ h+ +dwh ynlkrk++ lppv+aevf+q v a + q++          ec  c+k y s +ay nhl+s
+  Morel1|Morel1_95351  14 GQATTCLACGIRLPSLETQQLHHKSDWHTYNLKRKMVGLPPVSAEVFSQLVTASREQANPE---EVAQPECVPCSKKYLSFQAYDNHLQS 100
+                          5678***********************************************9988776544...44578********************* PP
+
+         ORTHOMCL1770 102 nkhkvaeikaaqegkaqkkktvlearkdaeniqee..evidkkiaaavkl...eeidclfctqksesfeenlkhmtkvhsffipeieylv 186
+                          +khk   +  a+  k+q+++    +r ++++++    +  +   aaav+    +e+ clfc++ s    +n  hm   h ff+p  e l+
+  Morel1|Morel1_95351 101 KKHKQVAAAYAK--KQQEQELNNASRPTENDTTPAaeSSKETSGAAAVEQrepSETVCLFCSHESTDAPSNYGHMRTTHGFFLPSSERLI 188
+                          ***965533333..3333333333343333333331134444555666541125788********************************* PP
+
+         ORTHOMCL1770 187 dlrGlikylGekisvgnvclycng.......r.....gkglksleavrkhmidkGhckiaydrdedimeivdfydftssypdee.eeewe 263
+                          dl+G++ yl +k+  +  cl+c         r       g+  l +vr+hm+dkGhck+a ++  d  e +dfy    s+  ++ ee+ e
+  Morel1|Morel1_95351 189 DLEGMLAYLADKLVENLDCLWCTPsvfsthlRpdqelNSGFANLASVRRHMVDKGHCKLAMEHGAD-REYADFYLPENSFDSDDeEEGLE 277
+                          ************965556****7522222222222224577889********************99.699******99998877577888 PP
+
+         ORTHOMCL1770 264 eveddeeedeeedlddeeedeleksdllyeddve 297
+                          + e+ ++e ++ed +++e+++  +  +l +++ +
+  Morel1|Morel1_95351 278 NAEQ-HKESSQEDSSMDEDEQRLNM-VLLDNEGN 309
+                          8854.55555555544444333333.34455555 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (397 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                      1132  (0.0708563); expected 319.5 (0.02)
+Passed bias filter:                      636  (0.0398097); expected 319.5 (0.02)
+Passed Vit filter:                        98  (0.0061342); expected 16.0 (0.001)
+Passed Fwd filter:                        15  (0.000938908); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.62u 0.01s 00:00:00.63 Elapsed: 00:00:01.28
+# Mc/sec: 2121.63
+//
+Query:       ORTHOMCL1781  [M=412]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (412 nodes)
+Target sequences:                        15976  (6840528 residues searched)
+Passed MSV filter:                       384  (0.0240361); expected 319.5 (0.02)
+Passed bias filter:                      306  (0.0191537); expected 319.5 (0.02)
+Passed Vit filter:                        26  (0.00162744); expected 16.0 (0.001)
+Passed Fwd filter:                         9  (0.000563345); expected 0.2 (1e-05)
+Initial search space (Z):              15976  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.42u 0.01s 00:00:00.43 Elapsed: 00:00:00.88
+# Mc/sec: 3202.61
+//
+[ok]

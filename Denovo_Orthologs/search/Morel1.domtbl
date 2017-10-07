@@ -1,0 +1,58 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Morel1|Morel1_146809 -            433 ORTHOMCL1342         -            444  2.6e-208  691.6   0.0   1   1    6e-212  3.2e-208  691.3   0.0    49   437    28   422     3   429 0.94 fgenesh1_pm.79_#_2
+Morel1|Morel1_37260  -            750 ORTHOMCL1342         -            444  2.5e-130  434.6   0.0   1   1    7e-134  3.7e-130  434.0   0.0    50   426    30   427     6   444 0.87 estExt_Genemark1.C_1670007
+Morel1|Morel1_130982 -           2248 ORTHOMCL1342         -            444  1.6e-129  431.9   0.0   1   1    5e-133  2.7e-129  431.2   0.0    43   425    23   426     5   444 0.87 fgenesh1_pg.128_#_16
+Morel1|Morel1_147571 -            229 ORTHOMCL1382         -            248   9.8e-74  247.6  23.9   1   1   7.2e-78   1.1e-73  247.4  23.9    20   247     5   227     2   228 0.95 estExt_fgenesh1_pm.C_30009
+Morel1|Morel1_114531 -            148 ORTHOMCL1401         -            175   2.2e-78  261.9  11.6   1   1     3e-82   2.4e-78  261.8  11.6    33   175     5   147     1   147 0.98 estExt_Genewise1Plus.C_490038
+Morel1|Morel1_140653 -            148 ORTHOMCL1401         -            175   2.8e-78  261.6  12.0   1   1   3.8e-82   3.1e-78  261.5  12.0    32   175     4   147     1   147 0.98 fgenesh1_kg.60_#_56_#_Locus195v1rpkm1019.27
+Morel1|Morel1_133693 -            465 ORTHOMCL1414         -            386  4.4e-150  500.0   0.0   1   1  3.6e-154  5.8e-150  499.6   0.0    25   381    12   366     2   371 0.93 fgenesh1_kg.8_#_51_#_Locus1669v1rpkm135.55
+Morel1|Morel1_133161 -            454 ORTHOMCL1440         -            525  3.1e-281  933.6   2.1   1   1  2.1e-285  3.4e-281  933.4   2.1    72   523     1   452     1   453 0.99 fgenesh1_kg.6_#_34_#_Locus211v1rpkm984.85
+Morel1|Morel1_73608  -            287 ORTHOMCL1444         -            286  6.8e-146  484.9  12.8   1   1  4.7e-150  7.5e-146  484.7  12.8     2   285     1   285     1   286 0.99 e_gw1.25.210.1
+Morel1|Morel1_134002 -            472 ORTHOMCL1477         -            369  1.8e-111  373.0  45.9   1   1  1.4e-113  2.2e-109  366.2  45.9     4   362     2   411     1   417 0.78 fgenesh1_kg.9_#_117_#_Locus4836v1rpkm38.06
+Morel1|Morel1_133275 -            395 ORTHOMCL1518         -            395  5.4e-198  657.4   4.1   1   1  2.3e-201    6e-198  657.2   4.1     3   394     2   393     1   394 0.99 fgenesh1_kg.6_#_148_#_Locus2452v1rpkm88.62
+Morel1|Morel1_133174 -            409 ORTHOMCL1518         -            395   1.2e-98  330.3   3.6   1   1  5.7e-102   1.5e-98  330.0   3.6     4   395    24   408    22   408 0.94 fgenesh1_kg.6_#_47_#_Locus1609v1rpkm140.61
+Morel1|Morel1_135678 -            405 ORTHOMCL1518         -            395   9.1e-91  304.3   8.4   1   1     4e-94   1.1e-90  304.1   8.4     3   395     5   397     3   397 0.96 fgenesh1_kg.17_#_49_#_Locus2028v1rpkm110.01
+Morel1|Morel1_93365  -            421 ORTHOMCL1518         -            395   1.8e-72  244.1   7.2   1   1   2.7e-75   7.3e-72  242.1   7.2     4   394    35   419    33   420 0.89 estExt_Genewise1.C_240198
+Morel1|Morel1_142573 -            423 ORTHOMCL1518         -            395   1.8e-70  237.5   7.2   1   1   3.7e-73   9.9e-70  235.1   7.2     4   394    37   421    35   422 0.87 fgenesh1_kg.103_#_1_#_Locus5576v1rpkm31.16
+Morel1|Morel1_141607 -            427 ORTHOMCL1518         -            395   1.2e-67  228.2   7.9   1   1   2.2e-70   5.8e-67  226.0   7.9     4   392    31   422    29   425 0.88 fgenesh1_kg.76_#_55_#_Locus6817v1rpkm21.64
+Morel1|Morel1_136425 -            183 ORTHOMCL1529         -            185  1.1e-116  386.8   0.8   1   1  1.5e-120  1.2e-116  386.6   0.8     1   182     1   182     1   182 1.00 fgenesh1_kg.21_#_99_#_Locus9610v1rpkm8.64
+Morel1|Morel1_137397 -            129 ORTHOMCL1529         -            185   8.1e-80  266.5   0.3   1   1   1.1e-83   8.9e-80  266.4   0.3    57   184     1   128     1   128 0.99 fgenesh1_kg.27_#_127_#_Locus3011v3rpkm0.00_PRE
+Morel1|Morel1_74430  -            330 ORTHOMCL1548         -            383  4.8e-131  437.0  16.4   1   2  3.2e-102   5.1e-98  328.3   6.9     1   235     1   224     1   228 0.97 e_gw1.29.157.1
+Morel1|Morel1_74430  -            330 ORTHOMCL1548         -            383  4.8e-131  437.0  16.4   2   2   1.2e-36   1.9e-32  112.4   2.2   283   382   229   328   224   329 0.96 e_gw1.29.157.1
+Morel1|Morel1_108103 -            399 ORTHOMCL1559         -            366   2.2e-55  188.0   1.2   1   1   6.6e-59   5.3e-55  186.8   1.2     9   360     9   376     4   382 0.75 estExt_Genewise1Plus.C_150073
+Morel1|Morel1_31166  -            481 ORTHOMCL1559         -            366   6.7e-51  173.3   6.0   1   2   8.3e-34   6.6e-30  104.2   5.1     9   152    11   150     6   165 0.93 estExt_Genemark1.C_220108
+Morel1|Morel1_31166  -            481 ORTHOMCL1559         -            366   6.7e-51  173.3   6.0   2   2   1.1e-22   9.1e-19   67.6   0.0   225   358   190   347   182   355 0.77 estExt_Genemark1.C_220108
+Morel1|Morel1_140092 -            390 ORTHOMCL1576         -            370  4.9e-179  594.7   2.2   1   1  3.8e-183  6.1e-179  594.4   2.2     6   366    11   371     5   375 0.97 fgenesh1_kg.53_#_27_#_Locus2670v2rpkm37.75
+Morel1|Morel1_140384 -            221 ORTHOMCL1586         -            244  3.7e-115  383.9   8.9   1   1  2.5e-119    4e-115  383.7   8.9     1   211     1   209     1   220 0.94 fgenesh1_kg.57_#_8_#_Locus2498v1rpkm87.02
+Morel1|Morel1_134857 -            195 ORTHOMCL1610         -            194   8.3e-91  302.5   0.0   1   1   5.7e-95   9.2e-91  302.3   0.0     1   193     1   193     1   194 0.99 fgenesh1_kg.12_#_229_#_Locus979v1rpkm226.95
+Morel1|Morel1_98241  -            244 ORTHOMCL1650         -            232   1.3e-85  285.9   0.1   1   1   9.3e-90   1.5e-85  285.8   0.1     4   225    15   237    12   243 0.96 estExt_Genewise1.C_550045
+Morel1|Morel1_134006 -            389 ORTHOMCL1662         -            341  2.6e-103  345.6   1.1   1   1  2.5e-107    4e-103  345.0   1.1     4   320     3   313     1   336 0.83 fgenesh1_kg.9_#_121_#_Locus4102v1rpkm47.76
+Morel1|Morel1_135643 -            208 ORTHOMCL1673         -            215   6.3e-89  296.9   0.1   1   1   4.4e-93     7e-89  296.7   0.1    11   214     1   207     1   207 0.97 fgenesh1_kg.17_#_14_#_Locus4749v1rpkm39.23
+Morel1|Morel1_142643 -           1045 ORTHOMCL1703         -            672     2e-80  271.0   6.7   1   4   3.9e-24   3.1e-20   72.1   0.0     1    96     1    90     1    97 0.94 fgenesh1_kg.106_#_5_#_Locus3414v1rpkm60.92
+Morel1|Morel1_142643 -           1045 ORTHOMCL1703         -            672     2e-80  271.0   6.7   2   4     0.072   5.7e+02   -1.5   1.0   187   237   132   183    97   210 0.66 fgenesh1_kg.106_#_5_#_Locus3414v1rpkm60.92
+Morel1|Morel1_142643 -           1045 ORTHOMCL1703         -            672     2e-80  271.0   6.7   3   4   7.5e-65     6e-61  206.6   6.2   232   549   334   665   288   685 0.73 fgenesh1_kg.106_#_5_#_Locus3414v1rpkm60.92
+Morel1|Morel1_142643 -           1045 ORTHOMCL1703         -            672     2e-80  271.0   6.7   4   4         2   1.6e+04  -13.8  26.9   484   559   734   810   682   831 0.52 fgenesh1_kg.106_#_5_#_Locus3414v1rpkm60.92
+Morel1|Morel1_141128 -            953 ORTHOMCL1703         -            672   1.6e-79  268.0  14.1   1   4   6.7e-23   5.4e-19   68.0   0.0     1    98     1    92     1   105 0.93 fgenesh1_kg.68_#_35_#_Locus6050v1rpkm26.94
+Morel1|Morel1_141128 -            953 ORTHOMCL1703         -            672   1.6e-79  268.0  14.1   2   4      0.17   1.4e+03   -2.8   0.6   146   158   268   279   243   329 0.56 fgenesh1_kg.68_#_35_#_Locus6050v1rpkm26.94
+Morel1|Morel1_141128 -            953 ORTHOMCL1703         -            672   1.6e-79  268.0  14.1   3   4   1.7e-65   1.3e-61  208.8  12.4   232   588   398   747   369   756 0.64 fgenesh1_kg.68_#_35_#_Locus6050v1rpkm26.94
+Morel1|Morel1_141128 -            953 ORTHOMCL1703         -            672   1.6e-79  268.0  14.1   4   4      0.11   8.8e+02   -2.1   2.0   454   514   783   844   773   909 0.73 fgenesh1_kg.68_#_35_#_Locus6050v1rpkm26.94
+Morel1|Morel1_120289 -           1271 ORTHOMCL1728         -           1173         0 1323.7   8.6   1   2         0         0 1026.2   0.1    33   867    15   869     2   877 0.90 fgenesh1_pg.2_#_135
+Morel1|Morel1_120289 -           1271 ORTHOMCL1728         -           1173         0 1323.7   8.6   2   2   3.5e-91   5.6e-87  292.5   4.0   870  1141   914  1185   904  1213 0.95 fgenesh1_pg.2_#_135
+Morel1|Morel1_410219 -            654 ORTHOMCL1769         -            221   1.1e-59  201.7  14.9   1   4   8.4e-32   1.3e-27   96.7   1.8     7   105     9   106     4   148 0.79 CE250205_4302
+Morel1|Morel1_410219 -            654 ORTHOMCL1769         -            221   1.1e-59  201.7  14.9   2   4         1   1.6e+04   -5.9   7.3    76    96   241   261   147   300 0.56 CE250205_4302
+Morel1|Morel1_410219 -            654 ORTHOMCL1769         -            221   1.1e-59  201.7  14.9   3   4     0.084   1.3e+03   -1.4   1.5    89   111   435   458   402   491 0.51 CE250205_4302
+Morel1|Morel1_410219 -            654 ORTHOMCL1769         -            221   1.1e-59  201.7  14.9   4   4   1.4e-38   2.2e-34  118.9   5.6    93   217   530   652   504   653 0.71 CE250205_4302
+Morel1|Morel1_155669 -            431 ORTHOMCL1770         -            397  5.9e-155  515.8  10.5   1   1    1e-158  8.3e-155  515.3  10.5     6   397    17   429    13   429 0.89 estExt_fgenesh1_pg.C_310112
+Morel1|Morel1_95351  -            474 ORTHOMCL1770         -            397   4.6e-55  186.9   0.5   1   1   9.6e-59   7.7e-55  186.2   0.5    12   297    14   309     1   324 0.74 estExt_Genewise1.C_340126
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      Glomeromycotina.hmm
+# Target file:     outgroup/Mortierella_elongata.Morel1.v1.aa.fasta
+# Option settings: hmmsearch --domtblout search/Morel1.domtbl -E 1e-40 --cpu 4 Glomeromycotina.hmm outgroup/Mortierella_elongata.Morel1.v1.aa.fasta 
+# Current dir:     /bigdata/stajichlab/shared/projects/ZyGoLife/AMF_Phylogenomics/Denovo_Orthologs
+# Date:            Tue Oct  3 15:19:55 2017
+# [ok]
