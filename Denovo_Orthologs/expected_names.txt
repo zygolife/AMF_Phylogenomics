@@ -1,0 +1,12 @@
+Ale_longest_orfs
+Amo_longest_orfs
+Ccl_longest_orfs
+Dve_longest_orfs
+Fmo_longest_orfs
+Gro_GLOM_longest_orfs
+Pbr_longest_orfs
+Rca_longest_orfs
+Rir-Ref_longest_orfs
+Sca_longest_orfs
+Morel1
+Umbra1
