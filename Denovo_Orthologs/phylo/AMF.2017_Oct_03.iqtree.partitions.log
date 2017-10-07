@@ -1,0 +1,385 @@
+IQ-TREE multicore version 1.5.5 for Linux 64-bit built Jun  2 2017
+Copyright (c) 2011-2017 by Bui Quang Minh, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, and Arndt von Haeseler.
+
+Host:    i22 (AVX2, FMA3, 503 GB RAM)
+Command: iqtree-omp -s AMF.2017_Oct_03.fasaln -spp AMF.2017_Oct_03.iqtree.partitions -bb 1000 -nt AUTO
+Seed:    978760 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct  3 17:14:55 2017
+Kernel:  AVX+FMA - auto-detect threads (64 CPU cores detected)
+
+Reading partition model file AMF.2017_Oct_03.iqtree.partitions ...
+Reading alignment file AMF.2017_Oct_03.fasaln ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 12 sequences with 7938 columns and 5730 patterns (2740 informative sites, 2776 constant sites)
+                       Gap/Ambiguity  Composition  p-value
+   1  Sca_longest_orfs         0.34%    passed     97.89%
+   2  Umbra1                  23.62%    failed      0.01%
+   3  Ccl_longest_orfs        54.06%    failed      0.00%
+   4  Rca_longest_orfs        19.51%    passed     99.08%
+   5  Gro_GLOM_longest_orfs    0.89%    passed     99.99%
+   6  Morel1                  11.44%    failed      0.00%
+   7  Fmo_longest_orfs        16.48%    passed     94.69%
+   8  Pbr_longest_orfs        19.41%    passed     98.58%
+   9  Ale_longest_orfs        33.91%    passed     92.06%
+  10  Rir-Ref_longest_orfs    15.34%    passed     91.68%
+  11  Amo_longest_orfs        40.16%    passed     34.61%
+  12  Dve_longest_orfs        41.91%    failed      0.20%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                   23.09%  4 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Partition file is not in NEXUS format, assuming RAxML-style partition file...
+Reading partition ORTHOMCL1342.fa (model=LG, seq=AA, pos=1-437) ...
+12 sequences and 437 sites extracted
+Reading partition ORTHOMCL1382.fa (model=LG, seq=AA, pos=438-655) ...
+12 sequences and 218 sites extracted
+Reading partition ORTHOMCL1401.fa (model=LG, seq=AA, pos=656-814) ...
+12 sequences and 159 sites extracted
+Reading partition ORTHOMCL1414.fa (model=LG, seq=AA, pos=815-1291) ...
+11 sequences and 477 sites extracted
+Reading partition ORTHOMCL1440.fa (model=LG, seq=AA, pos=1292-1745) ...
+12 sequences and 454 sites extracted
+Reading partition ORTHOMCL1444.fa (model=LG, seq=AA, pos=1746-2030) ...
+12 sequences and 285 sites extracted
+Reading partition ORTHOMCL1477.fa (model=LG, seq=AA, pos=2031-2325) ...
+12 sequences and 295 sites extracted
+Reading partition ORTHOMCL1514.fa (model=LG, seq=AA, pos=2326-2435) ...
+10 sequences and 110 sites extracted
+Reading partition ORTHOMCL1518.fa (model=LG, seq=AA, pos=2436-2829) ...
+12 sequences and 394 sites extracted
+Reading partition ORTHOMCL1529.fa (model=LG, seq=AA, pos=2830-3014) ...
+12 sequences and 185 sites extracted
+Reading partition ORTHOMCL1548.fa (model=LG, seq=AA, pos=3015-3379) ...
+12 sequences and 365 sites extracted
+Reading partition ORTHOMCL1559.fa (model=LG, seq=AA, pos=3380-3659) ...
+11 sequences and 280 sites extracted
+Reading partition ORTHOMCL1570.fa (model=LG, seq=AA, pos=3660-3899) ...
+10 sequences and 240 sites extracted
+Reading partition ORTHOMCL1576.fa (model=LG, seq=AA, pos=3900-4268) ...
+12 sequences and 369 sites extracted
+Reading partition ORTHOMCL1586.fa (model=LG, seq=AA, pos=4269-4489) ...
+12 sequences and 221 sites extracted
+Reading partition ORTHOMCL1610.fa (model=LG, seq=AA, pos=4490-4683) ...
+11 sequences and 194 sites extracted
+Reading partition ORTHOMCL1650.fa (model=LG, seq=AA, pos=4684-4915) ...
+12 sequences and 232 sites extracted
+Reading partition ORTHOMCL1662.fa (model=LG, seq=AA, pos=4916-5242) ...
+12 sequences and 327 sites extracted
+Reading partition ORTHOMCL1673.fa (model=LG, seq=AA, pos=5243-5445) ...
+12 sequences and 203 sites extracted
+Reading partition ORTHOMCL1703.fa (model=LG, seq=AA, pos=5446-5942) ...
+12 sequences and 497 sites extracted
+Reading partition ORTHOMCL1728.fa (model=LG, seq=AA, pos=5943-6945) ...
+12 sequences and 1003 sites extracted
+Reading partition ORTHOMCL1769.fa (model=LG, seq=AA, pos=6946-7164) ...
+12 sequences and 219 sites extracted
+Reading partition ORTHOMCL1770.fa (model=LG, seq=AA, pos=7165-7532) ...
+12 sequences and 368 sites extracted
+Reading partition ORTHOMCL1781.fa (model=LG, seq=AA, pos=7533-7938) ...
+10 sequences and 406 sites extracted
+Degree of missing data: 0.026
+Info: multi-threading strategy over partitions
+
+WARNING: C is not present in partition ORTHOMCL1382.fa that may cause numerical problems
+WARNING: W is not present in partition ORTHOMCL1401.fa that may cause numerical problems
+WARNING: C, W are not present in partition ORTHOMCL1514.fa that may cause numerical problems
+WARNING: 4 states (see above) are not present that may cause numerical problems
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.032 seconds
+Generating 1000 samples for ultrafast bootstrap (seed: 978760)...
+
+NOTE: 38 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 64 CPU cores
+Increase to 10 rounds for branch lengths
+63 trees examined
+Threads: 1 / Time: 64.735 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -93612
+Threads: 2 / Time: 33.498 sec / Speedup: 1.932 / Efficiency: 97% / LogL: -93612
+Threads: 3 / Time: 30.436 sec / Speedup: 2.127 / Efficiency: 71% / LogL: -93612
+Threads: 4 / Time: 31.318 sec / Speedup: 2.067 / Efficiency: 52% / LogL: -93612
+Threads: 5 / Time: 36.032 sec / Speedup: 1.797 / Efficiency: 36% / LogL: -93612
+BEST NUMBER OF THREADS: 3
+
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -87054.759
+Current log-likelihood at step 1: -85795.541
+Current log-likelihood at step 2: -85794.934
+Current log-likelihood at step 3: -85794.930
+Partition-specific rates:  0.949 1.099 0.766 1.243 0.400 0.548 1.053 1.857 0.698 0.248 0.852 1.125 1.750 0.878 0.397 0.877 1.072 1.234 1.108 2.354 0.722 1.208 1.286 0.635
+Parameters optimization took 2 rounds (0.661 sec)
+
+Computing ML distances based on estimated model parameters... 0.300 sec
+Computing BIONJ tree...
+0.002 seconds
+Log-likelihood of BIONJ tree: -85770.223
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 4.909 second
+Computing log-likelihood of 94 initial trees ... 15.554 seconds
+Current best score: -85770.223
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -85770.222
+Current log-likelihood at step 1: -85770.147
+Parameters optimization took 0 rounds (0.200 sec)
+
+BETTER TREE FOUND at iteration 1: -85770.147
+Iteration 10 / LogL: -85770.844 / Time: 0h:4m:5s
+Iteration 20 / LogL: -85771.392 / Time: 0h:4m:15s
+Finish initializing candidate tree set (2)
+Current best tree score: -85770.147 / CPU time: 37.939
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -85770.973 / Time: 0h:4m:27s (0h:10m:7s left)
+Iteration 40 / LogL: -85770.187 / Time: 0h:4m:37s (0h:6m:44s left)
+Iteration 50 / LogL: -85882.474 / Time: 0h:4m:51s (0h:4m:42s left)
+Log-likelihood cutoff on original alignment: -85880.296
+Iteration 60 / LogL: -85880.270 / Time: 0h:5m:6s (0h:3m:19s left)
+Iteration 70 / LogL: -85770.185 / Time: 0h:5m:20s (0h:2m:15s left)
+Iteration 80 / LogL: -85880.334 / Time: 0h:5m:31s (0h:1m:22s left)
+Iteration 90 / LogL: -85881.322 / Time: 0h:5m:43s (0h:0m:40s left)
+Iteration 100 / LogL: -85880.282 / Time: 0h:5m:56s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -85880.701
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:6m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+Initial log-likelihood: -85770.147
+Current log-likelihood at step 1: -85770.147
+Partition-specific rates:  0.951 1.095 0.765 1.241 0.401 0.544 1.051 1.867 0.695 0.246 0.856 1.123 1.754 0.875 0.398 0.879 1.078 1.229 1.104 2.367 0.722 1.205 1.281 0.634
+Parameters optimization took 0 rounds (0.149 sec)
+
+BEST SCORE FOUND : -85770.147
+Creating bootstrap support values...
+Split supports printed to NEXUS file AMF.2017_Oct_03.iqtree.partitions.splits.nex
+Total tree length: 2.621
+
+Total number of iterations: 102
+CPU time used for tree search: 183.395 sec (0h:3m:3s)
+Wall-clock time used for tree search: 143.066 sec (0h:2m:23s)
+Total CPU time used: 711.294 sec (0h:11m:51s)
+Total wall-clock time used: 360.790 sec (0h:6m:0s)
+
+Computing bootstrap consensus tree...
+Reading input file AMF.2017_Oct_03.iqtree.partitions.splits.nex...
+12 taxa and 29 splits.
+Consensus tree written to AMF.2017_Oct_03.iqtree.partitions.contree
+Reading input trees file AMF.2017_Oct_03.iqtree.partitions.contree
+Log-likelihood of consensus tree: -85770.147
+
+Analysis results written to: 
+  IQ-TREE report:                AMF.2017_Oct_03.iqtree.partitions.iqtree
+  Maximum-likelihood tree:       AMF.2017_Oct_03.iqtree.partitions.treefile
+  Likelihood distances:          AMF.2017_Oct_03.iqtree.partitions.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          AMF.2017_Oct_03.iqtree.partitions.splits.nex
+  Consensus tree:                AMF.2017_Oct_03.iqtree.partitions.contree
+  Screen log file:               AMF.2017_Oct_03.iqtree.partitions.log
+
+Date and Time: Tue Oct  3 17:20:57 2017
+se numerical problems
+WARNING: C, W are not present in partition ORTHOMCL1514.fa that may cause numerical problems
+WARNING: 4 states (see above) are not present that may cause numerical problems
+
+
+CHECKPOINT: Initial tree restored
+Generating 1000 samples for ultrafast bootstrap (seed: 978760)...
+
+NOTE: 38 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 64 CPU cores
+Increase to 10 rounds for branch lengths
+
+******************************************************
+CHECKPOINT: Resuming analysis from AMF.2017_Oct_03.iqtree.partitions.ckp.gz
+
+IQ-TREE multicore version 1.5.5 for Linux 64-bit built Jun  2 2017
+Copyright (c) 2011-2017 by Bui Quang Minh, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, and Arndt von Haeseler.
+
+Host:    i22 (AVX2, FMA3, 503 GB RAM)
+Command: iqtree-omp -s AMF.2017_Oct_03.fasaln -spp AMF.2017_Oct_03.iqtree.partitions -bb 1000 -nt AUTO
+Seed:    978760 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Oct  3 17:21:56 2017
+Kernel:  AVX+FMA - auto-detect threads (64 CPU cores detected)
+
+Reading partition model file AMF.2017_Oct_03.iqtree.partitions ...
+Reading alignment file AMF.2017_Oct_03.fasaln ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 12 sequences with 7938 columns and 5730 patterns (2740 informative sites, 2776 constant sites)
+                       Gap/Ambiguity  Composition  p-value
+   1  Sca_longest_orfs         0.34%    passed     97.89%
+   2  Umbra1                  23.62%    failed      0.01%
+   3  Ccl_longest_orfs        54.06%    failed      0.00%
+   4  Rca_longest_orfs        19.51%    passed     99.08%
+   5  Gro_GLOM_longest_orfs    0.89%    passed     99.99%
+   6  Morel1                  11.44%    failed      0.00%
+   7  Fmo_longest_orfs        16.48%    passed     94.69%
+   8  Pbr_longest_orfs        19.41%    passed     98.58%
+   9  Ale_longest_orfs        33.91%    passed     92.06%
+  10  Rir-Ref_longest_orfs    15.34%    passed     91.68%
+  11  Amo_longest_orfs        40.16%    passed     34.61%
+  12  Dve_longest_orfs        41.91%    failed      0.20%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                   23.09%  4 sequences failed composition chi2 test (p-value<5%; df=19)
+
+Partition file is not in NEXUS format, assuming RAxML-style partition file...
+Reading partition ORTHOMCL1342.fa (model=LG, seq=AA, pos=1-437) ...
+12 sequences and 437 sites extracted
+Reading partition ORTHOMCL1382.fa (model=LG, seq=AA, pos=438-655) ...
+12 sequences and 218 sites extracted
+Reading partition ORTHOMCL1401.fa (model=LG, seq=AA, pos=656-814) ...
+12 sequences and 159 sites extracted
+Reading partition ORTHOMCL1414.fa (model=LG, seq=AA, pos=815-1291) ...
+11 sequences and 477 sites extracted
+Reading partition ORTHOMCL1440.fa (model=LG, seq=AA, pos=1292-1745) ...
+12 sequences and 454 sites extracted
+Reading partition ORTHOMCL1444.fa (model=LG, seq=AA, pos=1746-2030) ...
+12 sequences and 285 sites extracted
+Reading partition ORTHOMCL1477.fa (model=LG, seq=AA, pos=2031-2325) ...
+12 sequences and 295 sites extracted
+Reading partition ORTHOMCL1514.fa (model=LG, seq=AA, pos=2326-2435) ...
+10 sequences and 110 sites extracted
+Reading partition ORTHOMCL1518.fa (model=LG, seq=AA, pos=2436-2829) ...
+12 sequences and 394 sites extracted
+Reading partition ORTHOMCL1529.fa (model=LG, seq=AA, pos=2830-3014) ...
+12 sequences and 185 sites extracted
+Reading partition ORTHOMCL1548.fa (model=LG, seq=AA, pos=3015-3379) ...
+12 sequences and 365 sites extracted
+Reading partition ORTHOMCL1559.fa (model=LG, seq=AA, pos=3380-3659) ...
+11 sequences and 280 sites extracted
+Reading partition ORTHOMCL1570.fa (model=LG, seq=AA, pos=3660-3899) ...
+10 sequences and 240 sites extracted
+Reading partition ORTHOMCL1576.fa (model=LG, seq=AA, pos=3900-4268) ...
+12 sequences and 369 sites extracted
+Reading partition ORTHOMCL1586.fa (model=LG, seq=AA, pos=4269-4489) ...
+12 sequences and 221 sites extracted
+Reading partition ORTHOMCL1610.fa (model=LG, seq=AA, pos=4490-4683) ...
+11 sequences and 194 sites extracted
+Reading partition ORTHOMCL1650.fa (model=LG, seq=AA, pos=4684-4915) ...
+12 sequences and 232 sites extracted
+Reading partition ORTHOMCL1662.fa (model=LG, seq=AA, pos=4916-5242) ...
+12 sequences and 327 sites extracted
+Reading partition ORTHOMCL1673.fa (model=LG, seq=AA, pos=5243-5445) ...
+12 sequences and 203 sites extracted
+Reading partition ORTHOMCL1703.fa (model=LG, seq=AA, pos=5446-5942) ...
+12 sequences and 497 sites extracted
+Reading partition ORTHOMCL1728.fa (model=LG, seq=AA, pos=5943-6945) ...
+12 sequences and 1003 sites extracted
+Reading partition ORTHOMCL1769.fa (model=LG, seq=AA, pos=6946-7164) ...
+12 sequences and 219 sites extracted
+Reading partition ORTHOMCL1770.fa (model=LG, seq=AA, pos=7165-7532) ...
+12 sequences and 368 sites extracted
+Reading partition ORTHOMCL1781.fa (model=LG, seq=AA, pos=7533-7938) ...
+10 sequences and 406 sites extracted
+Degree of missing data: 0.026
+Info: multi-threading strategy over partitions
+
+WARNING: C is not present in partition ORTHOMCL1382.fa that may cause numerical problems
+WARNING: W is not present in partition ORTHOMCL1401.fa that may cause numerical problems
+WARNING: C, W are not present in partition ORTHOMCL1514.fa that may cause numerical problems
+WARNING: 4 states (see above) are not present that may cause numerical problems
+
+
+CHECKPOINT: Initial tree restored
+Generating 1000 samples for ultrafast bootstrap (seed: 978760)...
+
+NOTE: 38 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 64 CPU cores
+Increase to 10 rounds for branch lengths
+102 trees examined
+Threads: 1 / Time: 64.108 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -95766
+Threads: 2 / Time: 51.292 sec / Speedup: 1.250 / Efficiency: 62% / LogL: -95766
+Threads: 3 / Time: 41.135 sec / Speedup: 1.558 / Efficiency: 52% / LogL: -95766
+Threads: 4 / Time: 48.414 sec / Speedup: 1.324 / Efficiency: 33% / LogL: -95766
+BEST NUMBER OF THREADS: 3
+
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -87054.759
+Current log-likelihood at step 1: -85795.541
+Current log-likelihood at step 2: -85794.934
+Current log-likelihood at step 3: -85794.930
+Partition-specific rates:  0.949 1.099 0.766 1.243 0.400 0.548 1.053 1.857 0.698 0.248 0.852 1.125 1.750 0.878 0.397 0.877 1.072 1.234 1.108 2.354 0.722 1.208 1.286 0.635
+Parameters optimization took 2 rounds (0.571 sec)
+
+Computing ML distances based on estimated model parameters... 0.243 sec
+Computing BIONJ tree...
+0.002 seconds
+Log-likelihood of BIONJ tree: -85770.223
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 2.683 second
+Computing log-likelihood of 95 initial trees ... 17.400 seconds
+Current best score: -85770.223
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+Initial log-likelihood: -85770.222
+Current log-likelihood at step 1: -85770.147
+Parameters optimization took 0 rounds (0.179 sec)
+
+BETTER TREE FOUND at iteration 1: -85770.147
+Iteration 10 / LogL: -85770.170 / Time: 0h:3m:59s
+Iteration 20 / LogL: -85880.500 / Time: 0h:4m:11s
+Finish initializing candidate tree set (2)
+Current best tree score: -85770.147 / CPU time: 45.535
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -85770.180 / Time: 0h:4m:27s (0h:10m:53s left)
+Iteration 40 / LogL: -85770.580 / Time: 0h:4m:41s (0h:7m:19s left)
+UPDATE BEST LOG-LIKELIHOOD: -85770.147
+Iteration 50 / LogL: -85880.271 / Time: 0h:4m:53s (0h:5m:4s left)
+Log-likelihood cutoff on original alignment: -85883.542
+Iteration 60 / LogL: -85770.163 / Time: 0h:5m:5s (0h:3m:32s left)
+Iteration 70 / LogL: -85880.359 / Time: 0h:5m:19s (0h:2m:23s left)
+Iteration 80 / LogL: -85770.609 / Time: 0h:5m:33s (0h:1m:28s left)
+Iteration 90 / LogL: -85880.283 / Time: 0h:5m:45s (0h:0m:42s left)
+Iteration 100 / LogL: -85770.255 / Time: 0h:5m:57s (0h:0m:3s left)
+Log-likelihood cutoff on original alignment: -85881.901
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 1.000
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:6m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+CHECKPOINT: Final model parameters restored
+BEST SCORE FOUND : -85770.147
+Creating bootstrap support values...
+Split supports printed to NEXUS file AMF.2017_Oct_03.iqtree.partitions.splits.nex
+Total tree length: 2.621
+
+Total number of iterations: 102
+CPU time used for tree search: 190.220 sec (0h:3m:10s)
+Wall-clock time used for tree search: 153.539 sec (0h:2m:33s)
+Total CPU time used: 409.451 sec (0h:6m:49s)
+Total wall-clock time used: 360.130 sec (0h:6m:0s)
+
+Computing bootstrap consensus tree...
+Reading input file AMF.2017_Oct_03.iqtree.partitions.splits.nex...
+12 taxa and 29 splits.
+Consensus tree written to AMF.2017_Oct_03.iqtree.partitions.contree
+Reading input trees file AMF.2017_Oct_03.iqtree.partitions.contree
+Log-likelihood of consensus tree: -85770.147
+
+Analysis results written to: 
+  IQ-TREE report:                AMF.2017_Oct_03.iqtree.partitions.iqtree
+  Maximum-likelihood tree:       AMF.2017_Oct_03.iqtree.partitions.treefile
+  Likelihood distances:          AMF.2017_Oct_03.iqtree.partitions.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          AMF.2017_Oct_03.iqtree.partitions.splits.nex
+  Consensus tree:                AMF.2017_Oct_03.iqtree.partitions.contree
+  Screen log file:               AMF.2017_Oct_03.iqtree.partitions.log
+
+Date and Time: Tue Oct  3 17:27:57 2017
