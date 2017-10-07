@@ -1,0 +1,57 @@
+# STOCKHOLM 1.0
+
+#=GS TRINITY_DN31282_c0_g1_i1|m.1529                            DE TRINITY_DN31282_c0_g1_i1|g.1529 type:internal len:174 gc:universal TRINITY_DN31282_c0_g1_i1:1-519(+)
+#=GS TRINITY_DN26823_c0_g1_i1|m.3058                            DE TRINITY_DN26823_c0_g1_i1|g.3058 type:3prime_partial len:199 gc:universal TRINITY_DN26823_c0_g1_i1:121-714(+)
+#=GS TRINITY_DN7521_c0_g1_i1|m.4345                             DE TRINITY_DN7521_c0_g1_i1|g.4345 type:internal len:105 gc:universal TRINITY_DN7521_c0_g1_i1:2-313(+)
+#=GS TRINITY_DN107725_c0_g1_i1|m.3690                           DE TRINITY_DN107725_c0_g1_i1|g.3690 type:3prime_partial len:219 gc:universal TRINITY_DN107725_c0_g1_i1:656-3(-)
+#=GS TRINITY_DN123486_c0_g1_i1|m.9036                           DE TRINITY_DN123486_c0_g1_i1|g.9036 type:3prime_partial len:281 gc:universal TRINITY_DN123486_c0_g1_i1:841-2(-)
+#=GS TRINITY_DN19474_c0_g1_i1|m.6615                            DE TRINITY_DN19474_c0_g1_i1|g.6615 type:internal len:271 gc:universal TRINITY_DN19474_c0_g1_i1:2-811(+)
+#=GS remain_c5392|m.7787                                        DE remain_c5392|g.7787 type:internal len:353 gc:universal remain_c5392:2-1057(+)
+#=GS TRINITY_DN10525_c0_g1_i1|m.7093                            DE TRINITY_DN10525_c0_g1_i1|g.7093 type:complete len:694 gc:universal TRINITY_DN10525_c0_g1_i1:488-2569(+)
+#=GS 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_3801|m.3966 DE 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_3801|g.3966 type:complete len:666 gc:universal 43_GTGGCC_L004_R1_paired_trimmed_paired_contig_3801:2267-270(-)
+#=GS TRINITY_DN8861_c0_g1_i1|m.3899                             DE TRINITY_DN8861_c0_g1_i1|g.3899 type:3prime_partial len:275 gc:universal TRINITY_DN8861_c0_g1_i1:586-1407(+)
+
+TRINITY_DN31282_c0_g1_i1|m.1529                            ------------------LHDSTYLLLQQKNISQQNNSRN---VPEYRIITKSFPHYRIAGNDDLNQIRLEFDSLLHDIEHEMEGKITSKKIL--KHVKDW-SRGEN--NSFEDDG-GYATDASISPEDGNTSANEDYND-------PYLLAPHEIVN---SSSSSTKSEKGN---------------------------
+TRINITY_DN26823_c0_g1_i1|m.3058                            -----------------------------------------------------------------------------------------------------------------------------MLEDGNSSGEIEDQD-----NYPLISTEINVTN---SSSSSTKSETAIVSDKIDKDKGKNKLSVDNDQPPDRLDF
+TRINITY_DN7521_c0_g1_i1|m.4345                             ---------------------------------------------------------------------------------------------------DRCSKE------FDEDGDGYVTDSSVTPEDGNSSGEIDDQDHD---NYSL---EVNMVRSSNSSSSSTKSENAM---VDEKEKNKETDRDLAIQSPDQLDF
+TRINITY_DN107725_c0_g1_i1|m.3690                           ------------------------------------------------------------------MLRKMFASIHYLVLREISFVKQRRKVLLGLTMSMFVIRLCSWDLFFVLLFAANCGMLFLMKNSGKVNVTMAKRAVRQRIGWAKQWAGALLRKRGGNVSNNVGGTSINNSNTLHPPTGGVVNNNKSSASSSPRNV
+TRINITY_DN123486_c0_g1_i1|m.9036                           MFVQPSLIGGLGRSSWKTLRDSSFFLMQQRGQQHQISNRKRRYVPEYRIITRSFPHYRVAASDDYDQIMEAFNVLHKEILLEVEGKKTAKKIL--KQLKVWCAKEEN-ATPFDE--DGYTSDSSHEEE-WNSSGEMDEHN---------IGVDGRNNNGVASSSSSRKSEGGA--DIEENNSNNNNKQETA------HDL
+TRINITY_DN19474_c0_g1_i1|m.6615                            ----------------------------------------------YRIITKGFPHYRVSDHDDLSQIKEAFKMLHKDVLPEVEGKKTSKKIL--KQLKSRCEKNENLTLTFDEDVDGYATDTSITPEEENSSNEMDDQDNDNNENYPLISPDINISSNSSSFSTNSEHIAILSSMTTTTNISNNKGKSKMVTMGEDHDM
+remain_c5392|m.7787                                        -----------------------------------------------------------------------------------------------------------------------------------SNGPV----------------------------------------------------------------
+TRINITY_DN10525_c0_g1_i1|m.7093                            MFVGPSLVGNLGRSSWKTTRESPYFLLQKGPQQQNNNSKRNS-ASGYRIITKGFPHYRVADHNDFNQIKEAFDLLHQEVISEVEGKKTVKKIL--KQLKTWCSNNKN--ITFEEDVDEYGSDTSMSPD-GNSSGEMDDHDHD---SYPLMPTTNNISSN-VSSSSSTKSNNAI--INGKVNAGTAMDQDSLSQSPERAEF
+43_GTGGCC_L004_R1_paired_trimmed_paired_contig_3801|m.3966 MFVGPSLVGNLGRSNWKTVRDSPYFLLQKGPQQQNNSSKRSN-ASGYRIITKGFPHYRVADHNDFNQIEEAFELLDQEVISGVEGKKTVKKIL--KQLKIWCSSNKN--ITLEE-VDEYASDTSISPD-GNSSGEMDDQD-D---SYPLMSTVNNISSN--SSSASTKSNNGI--INEKTNGTTSLDQEHFSQSPERSEF
+TRINITY_DN8861_c0_g1_i1|m.3899                             MFVGPSLVGNLGRSNWKTIRDSPYFLLQKGPQQQNNNPKRSSTTSGYRIITKGFPHYRVADHNDFNQIEEAFDLLHQEVLSGVEGKITVKKIL--KQLKIWCANNKN--ITLEEDVDEYASDTSISAD-GNSSGEMDDHDND---SYPLISTTNSISSNSSSSSSSTKSNNTI--INEKPNASTSMDQESLYHSPERSEF
+
+TRINITY_DN31282_c0_g1_i1|m.1529                            -VNDDDIVVNNDNNDDKNNNTD---------------------------------------------------KKKKKKKKKKKKKKKK---------------------------------------------------------------------------------------------------------------
+TRINITY_DN26823_c0_g1_i1|m.3058                            QVNQSDYSDSNSDSSDAENINN---------SEGGGGVDDWMSLGNNLIYSLIGWLEGPPIETKQ-------VTATTNNNSSNNNNKNQTLFDIPMQFMALLTFPEIDD--PKKTSFTGKSYYYYYCQLLLLLLLDIINIIDIIINIIS---------------------------------------------------
+TRINITY_DN7521_c0_g1_i1|m.4345                             TANQSDYPDSNSDTSDAE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN107725_c0_g1_i1|m.3690                           P------PTPSSAAPISKAIVNEQIQSGSLSDTTHGGIVDPKMITTRRGGFFRKQVNNNAYNNNN-------SGSNNNNSNNNNNNNNQ-----------------VNSGGTPK--------------------------------------------------------------------------------------
+TRINITY_DN123486_c0_g1_i1|m.9036                           DYSDSEYSQNESSSEEVNPTET---------------AGSIVSLGNMIVGMLLGWVEGPPNNPSNID---SNVKNNHASTNKPSNNKNLTITDIPLQFIDLLTYPDVDPTATKKASFAVLR-------------------------------------------------------------------------------
+TRINITY_DN19474_c0_g1_i1|m.6615                            TNEQLDFTANNSDDSEDIQTSDGSDNEGGAGENNGPAVNEWISLGASVLDSLMGWLEGPPLEGMNVAAVVSSSSSKQVNTNAVSNNKNQTILDIPMQFIDLLTYPEIDPKASKKASFA----------------------------------------------------------------------------------
+remain_c5392|m.7787                                        -------------------------------------VDDWVSTGASMLDSLMGWLEGPPLESAI-A---SSSSSRHVNNNASSNNKNQTILDIPMQFIDLLTYPEIDPKASKKASFAVLREISFVKQRRKVLFLITSYMFIMRLCSFDLFLVLVFASNCAMLFLMKNSGKVNVTMAKRAVRQRIGWAKQWAGSLFKNKT
+TRINITY_DN10525_c0_g1_i1|m.7093                            PVNHSDY--PDSDSSDGEAAVDDNVDADTADHSGVRNVDEWISLGSYLMDSLMGFLEILPIEGVS------SVPNQNHVTTHTSNNKNQTILDIPMQFIDLLTYPEIDQKASKKASFAVLREISFVKQRRKVLLLFTIYMFVIRFCSFDLFLVILFASNCAMLFLMKNSGKVNVTMAKRAVRQRIGWAKQWAGSLFRTRA
+43_GTGGCC_L004_R1_paired_trimmed_paired_contig_3801|m.3966 P----DYPDPDSDSSDGEAAVDENVD-ETVDNSNVRHVDEWLSIGSSLMDLLMSWFESPPIEGAN------SVPKQNHATASTSNNKNQTILDIPLQFIDLLTYPEVDSKASKKASFAVLREIAFVKQRRKVLMLFTFYLFVIRFCSFDLFLVLLFASNCAMLFLMKNSGKVNVTMAKRAVRQRIGWAKQWAGSLFRTRA
+TRINITY_DN8861_c0_g1_i1|m.3899                             PANQSDY--PDSDSSDGEAAIDENVDAETVDHSGV-NVDEWLSLGSSLMDSLMGWLEVPPIDVSN------SLPKQHNVSTHTSNNKNQTILD-----------------------------------------------------------------------------------------------------------
+
+TRINITY_DN31282_c0_g1_i1|m.1529                            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN26823_c0_g1_i1|m.3058                            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN7521_c0_g1_i1|m.4345                             --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN107725_c0_g1_i1|m.3690                           --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN123486_c0_g1_i1|m.9036                           --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN19474_c0_g1_i1|m.6615                            --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+remain_c5392|m.7787                                        NNIAHN-------------------ITGQSSSRKNNNINSNAYINTVNTGAINNVGAVGVKITPTSPTRTTNMTKSASQD-------AIQSGSISDTTHGGNVSNKIIIPKRGVFFRNKNNQTGTTSQTYNKEDKVISSTTETSPLTGSSLLQKSSSDYSLPSTVGVNLSVQSSNPQFSSPISGGGGGSVNESSQSTNTF
+TRINITY_DN10525_c0_g1_i1|m.7093                            NVTNNN-------TAVNRKNTAPVTVKNNPETSVTRMSKQSSQDANLQSGSLSDTTHCGSAVAKTAPKRGVFFRKSAQINSTSQTKDQTKDGCLERLSGNTTSADSSSMNNPPQFDPTKASFASSTSTNIYSPIASATGTTMQTSLSNNAYASSINSTSNVNTEVQVSAPSTTKRRFFAKRNTAHQQNAHSFITHPSNGL
+43_GTGGCC_L004_R1_paired_trimmed_paired_contig_3801|m.3966 NTTNNNNNINHNHNTVNRKNTAPNTVKNVPESSGTRMSKQSSQDATIQSGSLSDTTHCGSVVAKATSKKGVFFRKSAHAAPTS----NTKDGGLDRLSGNINQTESISSNGTSQIDSTKPLASSSIAS---SSIVPTSSATIQPSLNNHQHMSSMNSS---NTEAQMTTPSTTKRRFFAKRISGQHHSPANHLSSGPNGV
+TRINITY_DN8861_c0_g1_i1|m.3899                             --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+TRINITY_DN31282_c0_g1_i1|m.1529                            ------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN26823_c0_g1_i1|m.3058                            ------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN7521_c0_g1_i1|m.4345                             ------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN107725_c0_g1_i1|m.3690                           ------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN123486_c0_g1_i1|m.9036                           ------------------------------------------------------------------------------------------------------------------------
+TRINITY_DN19474_c0_g1_i1|m.6615                            ------------------------------------------------------------------------------------------------------------------------
+remain_c5392|m.7787                                        SNTAIIQSPTTKRS----------------------------------------------------------------------------------------------------------
+TRINITY_DN10525_c0_g1_i1|m.7093                            QGSSDTHENKISSQITTSTVPTNISNNSNTPNNNGIMHSSNNHANGILSNGVIDIDFINFNDSNELFSFTDEIGIKKPTSSFNTKKIVGHRKNNSAGTNSVHYYNNYMTEPLDPTYENTR
+43_GTGGCC_L004_R1_paired_trimmed_paired_contig_3801|m.3966 QGSSDTTDSKMS------------ANNSNTSNNNGLMHISNQNVNGNVFNGIVDTEFINFNDSNELFSLTDEVGIKKP-SSFNTKNVTGHRKNDSLGTNS--FSSSYMAEPPDLLC----
+TRINITY_DN8861_c0_g1_i1|m.3899                             ------------------------------------------------------------------------------------------------------------------------
+//
