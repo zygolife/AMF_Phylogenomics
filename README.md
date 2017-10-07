@@ -15,7 +15,7 @@ Currently the system is setup for use with PBS so jobs that are run as arrayjobs
 Step 1 - HMMsearch
 ==================
 ```
-$ qsub -d. -t 1-10 jobs/01_hmmsearch.sh
+$ sbatch --array=1-10 jobs/01_hmmsearch.sh
 # OR
 $ for n in `seq 1 1 10`; do bash jobs/01_hmmsearch.sh $n; done
 ```
@@ -43,13 +43,13 @@ Step 3 - generate fasta files of each orthologous marker set
 ```
 $ bash jobs/03_makeunaln.sh
 ```
-Requires cdbfasta to work, will create files in aln/$HMM where HMM is the marker set (JGI_1086).
+Requires cdbfasta and cdbyank to be in your path to work, will create files in aln/$HMM where HMM is the marker set (JGI_1086).
 
 Step 4 - Align these orthologous genes
 ======================================
 This can be run with pbs/sge/slurm. On our system it is run as
-```
-$ qsub -d. -t 1-434 jobs/04_hmmalign.sh
+```shell
+$ sbatch --array=1-434 jobs/04_hmmalign.sh
 # OR if you only have a serial system
 $ for n in `seq 1 1 434`; do bash jobs/04_hmmalign.sh $n; done
 ````
@@ -58,30 +58,42 @@ Note that the marker files to be processed are in the alnlist.$HMM
 file (e.g. alnlist.JGI_1086) if you want to know the order of which
 job/ID to the actual marker file being processed.
 
-There is also a script to use muscle for de novo alignments which in some cases may be slightly more accurate (but slower for larger sampling 
+There is also a script `jobs/04_MSA_aln.sh to use muscle for de novo alignments which in some cases may be slightly more accurate (but slower for larger sampling). 
+
 Step 5 - Concatenated alignment
 ===============================
-```
+```shell
 $ bash jobs/05_combine.sh
+
+```
+If you used the jobs/04_MSA_aln.sh in the previous step then use
+```shell
+$ bash jobs/05_combine_denovo.sh
 ```
 
-Alternative steps here could include running
-`05_combine_randomsubset.sh` which sub-samples random markers (50 by default, but adjustable)
+An alternative step here could include running
+```shell
+$ bash jobs/05_combine_randomsubset.sh
+``` 
+which sub-samples random markers (50 by default, but adjustable)
 
 Step 6 - Build trees
 ====================
 On our cluster we run it this way, but many alternatives depending on setup
-```
-$ qsub -l nodes=1:ppn=32,mem=24gb -q highmem 06_raxml_standardBootstrap.sh
+```shell
+$ sbatch --nodes 1 --ntasks 32 --mem 24G 06_raxml_standardBootstrap.sh
 ```
 
 I'm using raxml-PTHREADS-AVX but other systems with MPI or only SSE3
 chipsets might be appropriate.
 
+I have also taken to running [IQ-Tree](http://www.iqtree.org/) though the large parition count can take a long time to resolve 
+and reduce down with ModelFinder
+
 Step 7 - fix names in tree
 ==========================
 Rename the taxa in the tree to long names
-```
+```shell
 $ cd phylo
-$ perl ../scripts/rename_tree_nodes.pl RAxML_bipartitions.Standard.Bifiguratus.2016_Oct_03.JGI1086.10sp ../prefix.tab > Bifiguratus.2016_Oct_03.JGI1086.10sp.tre
+$ perl ../scripts/rename_tree_nodes.pl  RAxML_bipartitions.Standard.AMF.2016_Oct_06.JGI1086.41sp ../prefix.tab >  AMF.2016_Oct_06.JGI1086.41sp.tre
 ```
